@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.83.9.140
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757818398679
+  login: 1757818334382
+money: '0'
+last-account-name: El_Heinsenberga
+logoutlocation:
+  world: 91084f46-1926-44ac-a6af-cefb9c8223f7
+  world-name: world
+  x: 20.514073141231737
+  y: 75.9375
+  z: -9.271418571547269
+  yaw: -102.29999542236328
+  pitch: 19.95001220703125

@@ -1,0 +1,88 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.209.176.25
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756251707766
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756253272567
+  login: 1756244341597
+money: '0'
+last-account-name: Derposito
+nickname: §c§lDerp
+logoutlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -51.180566438407894
+  y: 73.0
+  z: 11.457424929639336
+  yaw: 34.915771484375
+  pitch: 26.928499221801758
+lastlocation:
+  world: 7f456015-ab58-4878-938c-fc2b9c35de9a
+  world-name: world_the_end
+  x: 502.8687081800078
+  y: 147.0
+  z: -4693.630795668519
+  yaw: -46.45947265625
+  pitch: 15.714521408081055
+homes:
+  casa:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -67.01578114566156
+    y: 75.0
+    z: -4.450205883686603
+    yaw: -88.97723388671875
+    pitch: 21.216793060302734
+  marinos:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -1250.9026005393396
+    y: 63.0
+    z: -2413.6993499102873
+    yaw: -73.74722290039062
+    pitch: 29.492717742919922
+  piramide:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: 817.852862840033
+    y: 72.0
+    z: -676.2046630076665
+    yaw: -85.42733764648438
+    pitch: 13.67158317565918
+  oceano:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: 1287.8817972333686
+    y: 64.0
+    z: -625.329944024368
+    yaw: -28.431610107421875
+    pitch: 61.658203125
+  mansion:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: 3869.3205442459926
+    y: 71.0
+    z: 3882.5981158473364
+    yaw: -66.14954376220703
+    pitch: 18.124610900878906
+  end:
+    world: 7f456015-ab58-4878-938c-fc2b9c35de9a
+    world-name: world_the_end
+    x: 502.8687081800078
+    y: 147.0
+    z: -4693.630795668519
+    yaw: -46.45947265625
+    pitch: 15.714521408081055

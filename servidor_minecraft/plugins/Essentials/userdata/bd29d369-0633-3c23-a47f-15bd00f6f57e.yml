@@ -1,0 +1,80 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.101.203.244
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756252188049
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756252296380
+  login: 1756251747271
+money: '0'
+last-account-name: SamiHatesTurbine
+logoutlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -12.050000011920929
+  y: 80.0
+  z: -31.26368828123925
+  yaw: 71.40001678466797
+  pitch: 9.600003242492676
+nickname: §c§lSamir
+lastlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -7.532567594445049
+  y: 58.93175384363351
+  z: 9.12444524842272
+  yaw: -117.1500244140625
+  pitch: -5.6997904777526855
+homes:
+  home:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -62.78976433525673
+    y: 73.0
+    z: -17.312144319799156
+    yaw: -77.2431640625
+    pitch: 24.300037384033203
+  aldea:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -6837.624837188195
+    y: 70.0
+    z: 1864.5022006654544
+    yaw: -91.054443359375
+    pitch: 37.4999885559082
+  lalomadelorto:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -14444.445446252097
+    y: 76.0
+    z: 1867.3166525328736
+    yaw: 1.214935302734375
+    pitch: 3.749943733215332
+  lejos:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: 18251.31236021402
+    y: 65.0
+    z: 12097.537791530904
+    yaw: -76.4462890625
+    pitch: -3.0000059604644775
+  end:
+    world: 7f456015-ab58-4878-938c-fc2b9c35de9a
+    world-name: world_the_end
+    x: 72.62007742782276
+    y: 60.0
+    z: -49.485248853555014
+    yaw: -177.450927734375
+    pitch: 72.89997863769531

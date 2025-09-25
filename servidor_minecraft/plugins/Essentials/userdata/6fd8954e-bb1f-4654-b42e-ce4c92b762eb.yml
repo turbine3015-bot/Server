@@ -1,0 +1,63 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.239.60.92
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1758694924748
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1758697829746
+  login: 1758685959538
+money: '0'
+last-account-name: Zatanna917
+lastlocation:
+  world: 91084f46-1926-44ac-a6af-cefb9c8223f7
+  world-name: world
+  x: -728.4174418791636
+  y: 53.0
+  z: 272.54734481203525
+  yaw: -162.00128173828125
+  pitch: 25.50002670288086
+logoutlocation:
+  world: 91084f46-1926-44ac-a6af-cefb9c8223f7
+  world-name: world
+  x: -731.7733320799664
+  y: 66.0
+  z: 275.7692234401635
+  yaw: 169.49542236328125
+  pitch: 19.04996109008789
+homes:
+  cueva:
+    world: 91084f46-1926-44ac-a6af-cefb9c8223f7
+    world-name: world
+    x: -2270.1061066561597
+    y: -34.0
+    z: 1858.6717867771179
+    yaw: -154.40557861328125
+    pitch: 29.100160598754883
+  casa:
+    world: 91084f46-1926-44ac-a6af-cefb9c8223f7
+    world-name: world
+    x: -703.6190166005294
+    y: 67.0
+    z: 321.1539318692999
+    yaw: 111.45000457763672
+    pitch: 22.650007247924805
+  fortaleza:
+    world: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
+    world-name: world_nether
+    x: -938.4892529817696
+    y: 53.0
+    z: 559.2399598239112
+    yaw: 164.8758544921875
+    pitch: 21.150053024291992

@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.212.249.22
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756247556730
+  login: 1756246401222
+money: '0'
+last-account-name: Kenyktom
+nickname: §a§lEscagor
+logoutlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: 0.699999988079071
+  y: 65.0
+  z: -24.30000001192093
+  yaw: 171.89996337890625
+  pitch: 43.04999923706055

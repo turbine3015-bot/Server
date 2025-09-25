@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.244.186.181
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756072325339
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756072746485
+  login: 1756062370906
+money: '0'
+last-account-name: Fiixerr
+nickname: §b§lFixer
+lastlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -85.46581604436537
+  y: 74.0
+  z: -18.13206529354714
+  yaw: -79.806640625
+  pitch: 7.525674819946289
+homes:
+  casa:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -59.66061221622311
+    y: 73.0
+    z: -2.676001059383789
+    yaw: 112.840576171875
+    pitch: 13.910797119140625
+logoutlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -54.63123814323745
+  y: 74.875
+  z: -10.331440598376531
+  yaw: -91.325927734375
+  pitch: 24.708560943603516

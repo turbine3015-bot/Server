@@ -1,0 +1,48 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.94.42.104
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756250750984
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756252459183
+  login: 1756247772378
+money: '0'
+last-account-name: Vorteexcito
+nickname: §c§lVorteex
+lastlocation:
+  world: 7f456015-ab58-4878-938c-fc2b9c35de9a
+  world-name: world_the_end
+  x: 1135.6430384616647
+  y: -85.1519163309014
+  z: -510.56268202907415
+  yaw: -95.40625
+  pitch: -2.2499334812164307
+logoutlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -313.30000001192093
+  y: -59.0
+  z: 531.3000000119209
+  yaw: 66.73974609375
+  pitch: 23.849994659423828
+homes:
+  home:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -69.92572246036787
+    y: 73.0
+    z: 16.514664308452375
+    yaw: 17.2574405670166
+    pitch: 48.90010070800781

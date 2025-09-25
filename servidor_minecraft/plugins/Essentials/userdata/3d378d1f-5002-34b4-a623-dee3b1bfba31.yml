@@ -1,0 +1,56 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.225.99.246
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756252191763
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1757818398665
+  login: 1757818300260
+money: '0'
+last-account-name: Zatanna917
+logoutlocation:
+  world: 91084f46-1926-44ac-a6af-cefb9c8223f7
+  world-name: world
+  x: 25.30000001192093
+  y: 73.0
+  z: -10.699999988079071
+  yaw: 91.50030517578125
+  pitch: 6.150005340576172
+nickname: §d§lZaty
+lastlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -7.349827621101535
+  y: 58.02136622875224
+  z: 8.288739038135375
+  yaw: -138.00244140625
+  pitch: 7.050195693969727
+homes:
+  casa:
+    world: 91084f46-1926-44ac-a6af-cefb9c8223f7
+    world-name: world
+    x: -55.31866701662009
+    y: 73.0
+    z: -14.867159889968743
+    yaw: 142.67529296875
+    pitch: 19.049972534179688
+  mansion:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: 3874.237122876313
+    y: 72.0
+    z: 3876.250740988338
+    yaw: -44.74468994140625
+    pitch: 10.949983596801758

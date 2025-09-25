@@ -1,0 +1,64 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.98.204.5
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1756151681484
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1756160118479
+  login: 1756149623647
+money: '0'
+last-account-name: RageMadsonVII
+logoutlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -44.21497354565115
+  y: 73.0
+  z: -47.38483487408337
+  yaw: 123.935546875
+  pitch: 14.460359573364258
+nickname: §c§lTroy
+lastlocation:
+  world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+  world-name: world
+  x: -97.29065939652051
+  y: -42.0
+  z: -137.83938279768634
+  yaw: -88.58905029296875
+  pitch: 3.509495258331299
+homes:
+  casa:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -43.74699154421199
+    y: 73.0
+    z: -45.46178461668811
+    yaw: -178.01171875
+    pitch: 11.24991512298584
+  cueva:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: 125.66211474354651
+    y: -4.0
+    z: 124.77090502040058
+    yaw: -48.86945343017578
+    pitch: 25.441837310791016
+  cueva2:
+    world: 3d3d7510-3aa1-4b52-936b-654cf20de811
+    world-name: world
+    x: -52.26262082441827
+    y: -24.0
+    z: -9.546962463542483
+    yaw: 143.83221435546875
+    pitch: 2.181807041168213
