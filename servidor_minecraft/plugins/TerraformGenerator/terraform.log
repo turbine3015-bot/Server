@@ -5734,3 +5734,8 @@
 [2025-09-26 03:17:37] [INFO   ] Spawning Underground Dungeon at -7369,33,4782 
 [2025-09-26 03:22:33] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -456,260 
 [2025-09-26 03:22:33] [INFO   ] Spawning Underground Dungeon at -7281,28,4163 
+[2025-09-26 03:31:08] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -492,276 
+[2025-09-26 03:33:53] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -495,283 
+[2025-09-26 03:33:53] [INFO   ] Spawning Underground Dungeon at -7913,55,4535 
+[2025-09-26 03:34:23] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -497,277 
+[2025-09-26 03:34:23] [INFO   ] Spawning Underground Dungeon at -7945,94,4446 
