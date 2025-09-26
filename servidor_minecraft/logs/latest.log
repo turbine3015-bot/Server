@@ -246,3 +246,6 @@ java.lang.NullPointerException: null
 [02:21:43] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 book 30
 [02:21:44] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 book 30
 [02:22:02] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[02:28:35] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[02:29:26] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[02:30:50] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
