@@ -282,3 +282,7 @@ java.lang.NullPointerException: null
 [03:21:36] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
 [03:21:41] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
 [03:23:02] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 300
+[03:34:46] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 300
+[03:34:50] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[03:34:56] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[03:43:10] [Server thread/INFO]: Zatanna917 issued server command: /terra locate AncientCityPopulator

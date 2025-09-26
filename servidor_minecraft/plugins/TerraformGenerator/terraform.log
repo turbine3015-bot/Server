@@ -5739,3 +5739,20 @@
 [2025-09-26 03:33:53] [INFO   ] Spawning Underground Dungeon at -7913,55,4535 
 [2025-09-26 03:34:23] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -497,277 
 [2025-09-26 03:34:23] [INFO   ] Spawning Underground Dungeon at -7945,94,4446 
+[2025-09-26 03:41:39] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -499,267 
+[2025-09-26 03:41:39] [INFO   ] Spawning Underground Dungeon at -7974,26,4273 
+[2025-09-26 03:43:10] [INFO   ] [Locate] Completed Locate task (61ms) 
+[2025-09-26 03:43:10] [INFO   ] Spawning ancient city at: -8896,-16,4928 
+[2025-09-26 03:43:10] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -8917 -16 4895 in a room of size 25x21 
+[2025-09-26 03:43:10] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -8858 -16 4885 in a room of size 16x20 
+[2025-09-26 03:43:10] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -8933 -16 4928 in a room of size 17x17 
+[2025-09-26 03:43:10] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -8864 -16 4975 in a room of size 16x24 
+[2025-09-26 03:43:10] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityAltarPopulator at -8946 -16 4888 in a room of size 19x26 
+[2025-09-26 03:43:10] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -8922 -16 4977 in a room of size 26x25 
+[2025-09-26 03:43:10] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -8906 -16 4871 in a room of size 25x25 
+[2025-09-26 03:43:10] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityRuinsPlatform at -8922 -16 4945 in a room of size 22x18 
+[2025-09-26 03:43:10] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCityCenterPlatformPopulator at -8888 -16 4936 in a room of size 46x46 
+[2025-09-26 03:43:10] [INFO   ] Registered: org.terraform.structure.ancientcity.AncientCitySchematicPlatform at -8945 -16 4966 in a room of size 21x26 
+[2025-09-26 03:43:13] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: -556,308 
+[2025-09-26 03:43:13] [INFO   ] [Locate] [AncientCityPopulator] Located at X: -8896 Z: 4928 
+[2025-09-26 03:44:32] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -505,280 
