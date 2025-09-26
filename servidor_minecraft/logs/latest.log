@@ -259,3 +259,6 @@ java.lang.NullPointerException: null
 [02:37:15] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 30
 [02:37:16] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 30
 [02:39:58] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 villager_spawn_egg 1
+[02:53:19] [Server thread/INFO]: Zatanna917 issued server command: /fixx
+[02:53:21] [Server thread/INFO]: Zatanna917 issued server command: /fix all
+[02:53:30] [Server thread/INFO]: Zatanna917 issued server command: /home cueva
