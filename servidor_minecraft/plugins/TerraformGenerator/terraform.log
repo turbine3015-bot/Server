@@ -5715,3 +5715,5 @@
 [2025-09-26 01:53:54] [INFO   ] Post injection: getChunkSource().getChunkGenerator() is of type NMSChunkGenerator 
 [2025-09-26 01:53:54] [INFO   ]  Injection success! Proceeding with generation. 
 [2025-09-26 01:53:57] [INFO   ]  world loaded. 
+[2025-09-26 02:57:27] [INFO   ] Will spawn stronghold at: CoordPair[x=-740, z=1197] 
+[2025-09-26 02:57:29] [INFO   ] Large Cave at -2752,102,1856 has water level > -22 with populator MushroomCavePopulator 
