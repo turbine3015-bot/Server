@@ -272,3 +272,13 @@ java.lang.NullPointerException: null
 [03:06:47] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
 [03:10:34] [Server thread/INFO]: Zatanna917 issued server command: /effect give Zatanna917 minecraft:night_vision 1000
 [03:10:34] [Server thread/INFO]: [Zatanna917: Applied effect Night Vision to Zatanna917]
+[03:16:45] [Server thread/INFO]: El_Heinsenberga fell from a high place
+[03:16:47] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-7494.675851606711,y=-31.0,z=4511.967195597912,pitch=-0.30002058,yaw=-2.6674805}
+[03:16:51] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[03:16:53] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[03:16:58] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/18719, uuid='6fc9f838-f9fa-4b56-a131-d106a620a47f', l='ServerLevel[world]', x=-7494.50, y=-29.50, z=4511.50, cpos=[-469, 281], tl=216, v=true] died: El_Heinsenberga died here! died
+[03:16:58] [Server thread/INFO]: Named entity ArmorStand['Died at Fri Sep 26 03:16:47 UTC 2025'/18720, uuid='fc1992c0-34c5-4ced-8931-5322d441fb35', l='ServerLevel[world]', x=-7494.50, y=-29.75, z=4511.50, cpos=[-469, 281], tl=216, v=true] died: Died at Fri Sep 26 03:16:47 UTC 2025 died
+[03:16:58] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga fell from a high place'/18721, uuid='c563e7b3-bde2-4b26-a97f-e72fe3fd1abb', l='ServerLevel[world]', x=-7494.50, y=-30.00, z=4511.50, cpos=[-469, 281], tl=216, v=true] died: Reason: El_Heinsenberga fell from a high place died
+[03:21:36] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[03:21:41] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[03:23:02] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 300

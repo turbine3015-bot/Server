@@ -5730,3 +5730,7 @@
 [2025-09-26 03:07:17] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: -460,276 
 [2025-09-26 03:07:18] [INFO   ] Large Cave at -7872,60,4416 has water level > -24 with populator GenericLargeCavePopulator 
 [2025-09-26 03:07:40] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -455,274 
+[2025-09-26 03:17:37] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -461,298 
+[2025-09-26 03:17:37] [INFO   ] Spawning Underground Dungeon at -7369,33,4782 
+[2025-09-26 03:22:33] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -456,260 
+[2025-09-26 03:22:33] [INFO   ] Spawning Underground Dungeon at -7281,28,4163 
