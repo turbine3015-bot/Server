@@ -267,3 +267,8 @@ java.lang.NullPointerException: null
 [02:57:17] [Server thread/INFO]: Zatanna917 issued server command: /enchant fortune 3
 [02:57:26] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 300
 [02:57:27] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
+[03:06:40] [Server thread/INFO]: Zatanna917 issued server command: /home fortaleza
+[03:06:43] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[03:06:47] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[03:10:34] [Server thread/INFO]: Zatanna917 issued server command: /effect give Zatanna917 minecraft:night_vision 1000
+[03:10:34] [Server thread/INFO]: [Zatanna917: Applied effect Night Vision to Zatanna917]

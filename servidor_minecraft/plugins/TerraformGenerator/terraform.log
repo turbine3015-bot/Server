@@ -5717,3 +5717,16 @@
 [2025-09-26 01:53:57] [INFO   ]  world loaded. 
 [2025-09-26 02:57:27] [INFO   ] Will spawn stronghold at: CoordPair[x=-740, z=1197] 
 [2025-09-26 02:57:29] [INFO   ] Large Cave at -2752,102,1856 has water level > -22 with populator MushroomCavePopulator 
+[2025-09-26 03:07:04] [INFO   ] -460,276 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2025-09-26 03:07:04] [INFO   ] Spawning DeepCavePopulator at -7520,-36,4448 
+[2025-09-26 03:07:04] [INFO   ] Spawning MossyCavePopulator at -7520,-10,4450 
+[2025-09-26 03:07:05] [INFO   ] Spawning DripstoneClusterCavePopulator at -7552,7,4416 
+[2025-09-26 03:07:05] [INFO   ] Spawning CaveFluidClusterPopulator at -7480,16,4440 
+[2025-09-26 03:07:05] [INFO   ] Spawning CrystallineClusterCavePopulator at -7482,18,4472 
+[2025-09-26 03:07:05] [INFO   ] Spawning LushClusterCavePopulator at -7552,-2,4480 
+[2025-09-26 03:07:10] [INFO   ] Spawning FrozenCavePopulator at -7441,27,4536 
+[2025-09-26 03:07:12] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -464,272 
+[2025-09-26 03:07:12] [INFO   ] Spawning Underground Dungeon at -7419,10,4359 
+[2025-09-26 03:07:17] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: -460,276 
+[2025-09-26 03:07:18] [INFO   ] Large Cave at -7872,60,4416 has water level > -24 with populator GenericLargeCavePopulator 
+[2025-09-26 03:07:40] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -455,274 
