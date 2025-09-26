@@ -236,3 +236,13 @@ java.lang.NullPointerException: null
 [02:07:50] [Server thread/INFO]: Zatanna917 issued server command: /enchant efficiency 5
 [02:07:53] [Server thread/INFO]: Zatanna917 issued server command: /enchant unbreaking 3
 [02:07:56] [Server thread/INFO]: Zatanna917 issued server command: /enchant fortune 3
+[02:18:51] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[02:18:54] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 book 30
+[02:19:47] [Server thread/INFO]: Zatanna917 issued server command: /exp set Zatanna917 300
+[02:19:48] [Server thread/INFO]: Zatanna917 issued server command: /exp set Zatanna917 300
+[02:19:50] [Server thread/INFO]: Zatanna917 issued server command: /exp set Zatanna917 3000
+[02:19:51] [Server thread/INFO]: Zatanna917 issued server command: /exp set Zatanna917 3000
+[02:21:41] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[02:21:43] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 book 30
+[02:21:44] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 book 30
+[02:22:02] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
