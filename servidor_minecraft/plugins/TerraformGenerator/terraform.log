@@ -5756,3 +5756,4 @@
 [2025-09-26 03:43:13] [INFO   ] Generating org.terraform.structure.ancientcity.AncientCityPopulator at chunk: -556,308 
 [2025-09-26 03:43:13] [INFO   ] [Locate] [AncientCityPopulator] Located at X: -8896 Z: 4928 
 [2025-09-26 03:44:32] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -505,280 
+[2025-09-26 03:47:44] [INFO   ] Large Cave at -8384,10,4928 has water level > -29 with populator MushroomCavePopulator 

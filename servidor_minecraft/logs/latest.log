@@ -286,3 +286,80 @@ java.lang.NullPointerException: null
 [03:34:50] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
 [03:34:56] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
 [03:43:10] [Server thread/INFO]: Zatanna917 issued server command: /terra locate AncientCityPopulator
+[03:47:26] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[03:49:19] [Server thread/INFO]: Zatanna917 issued server command: /effect give Zatanna917 minecraft:mining_fatigue 100
+[03:49:19] [Server thread/INFO]: [Zatanna917: Applied effect Mining Fatigue to Zatanna917]
+[03:49:25] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[03:51:08] [Server thread/INFO]: Zatanna917 issued server command: /home casa
+[03:51:11] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[03:51:12] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[03:52:15] [Server thread/INFO]: Zatanna917 issued server command: /stop
+[03:52:15] [Server thread/INFO]: [Zatanna917 ||||||||||: Stopping the server]
+[03:52:15] [Server thread/INFO]: Stopping server
+[03:52:15] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.2
+[03:52:15] [Server thread/INFO]: [GraveStonesPlus] Disabling GraveStonesPlus v1.8.1
+[03:52:15] [Server thread/INFO]: [GraveStonesPlus] Allowing background tasks to finish, this could take up to 5 seconds
+[03:52:15] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/356, uuid='9d577522-1eda-477a-b5b6-c723df062992', l='ServerLevel[world_nether]', x=-108.50, y=33.50, z=-31.50, cpos=[-7, -2], tl=141484, v=true] died: El_Heinsenberga died here! died
+[03:52:15] [Server thread/INFO]: Named entity ArmorStand['Died at Wed Sep 24 00:17:10 UTC 2025'/357, uuid='122d41c1-a442-49d9-be6b-550768f7826d', l='ServerLevel[world_nether]', x=-108.50, y=33.25, z=-31.50, cpos=[-7, -2], tl=141484, v=true] died: Died at Wed Sep 24 00:17:10 UTC 2025 died
+[03:52:15] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga tried to swim in lava'/358, uuid='74ca4bbf-f62c-4e79-87c2-534a7c6350ce', l='ServerLevel[world_nether]', x=-108.50, y=33.00, z=-31.50, cpos=[-7, -2], tl=141484, v=true] died: Reason: El_Heinsenberga tried to swim in lava died
+[03:52:15] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
+[03:52:15] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[03:52:15] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[03:52:15] [Server thread/INFO]: [HealthBar-Reloaded] Disabling HealthBar-Reloaded v2.0.4.2
+[03:52:15] [Server thread/INFO]: HealthBar disabled: all the health bars have been removed.
+[03:52:15] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.6.0
+[03:52:15] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
+[03:52:15] [Server thread/INFO]: [CrisTreeCapitator] Disabled
+[03:52:15] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.5.1-T20250923210429
+[03:52:15] [WebSocketConnectReadThread-133/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[03:52:16] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Shutdown initiated...
+[03:52:16] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Shutdown completed.
+[03:52:16] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
+[03:52:16] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v21.0.1
+[03:52:16] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.36
+[03:52:16] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.2
+[03:52:16] [Server thread/INFO]: [MyPetDownloader] Disabling MyPetDownloader v1.2
+[03:52:16] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
+[03:52:16] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[03:52:16] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
+[03:52:16] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.10
+[03:52:16] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[03:52:16] [Server thread/INFO]: [LuckPerms] Closing storage...
+[03:52:16] [Server thread/INFO]: [LuckPerms] Goodbye!
+[03:52:16] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
+[03:52:16] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[03:52:16] [Server thread/INFO]: Saving players
+[03:52:16] [Server thread/INFO]: Zatanna917 lost connection: Server closed
+[03:52:16] [Server thread/INFO]: Zatanna917 left the game
+[03:52:16] [Server thread/INFO]: El_Heinsenberga lost connection: Server closed
+[03:52:16] [Server thread/INFO]: El_Heinsenberga left the game
+[03:52:16] [Server thread/INFO]: Saving worlds
+[03:52:16] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[03:52:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[03:52:16] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[03:52:16] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[03:52:16] [Server thread/INFO]: [ChunkHolderManager] Saved 73 block chunks, 168 entity chunks, 4 poi chunks in world 'world' in 0.31s
+[03:52:16] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[03:52:16] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[03:52:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Saved 1 block chunks, 135 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[03:52:17] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[03:52:17] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[03:52:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[03:52:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[03:52:17] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[03:52:17] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[03:52:17] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[03:52:17] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[03:52:17] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[03:52:17] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
