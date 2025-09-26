@@ -249,3 +249,13 @@ java.lang.NullPointerException: null
 [02:28:35] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
 [02:29:26] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
 [02:30:50] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[02:34:31] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[02:34:38] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[02:35:52] [Server thread/INFO]: El_Heinsenberga was slain by Zatanna917
+[02:35:54] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-684.8911389642705,y=63.0,z=306.1683866291354,pitch=6.4500017,yaw=77.85419}
+[02:36:05] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/10022, uuid='550f25b8-5611-45de-a66c-da615a79ee42', l='ServerLevel[world]', x=-684.50, y=64.50, z=306.50, cpos=[-43, 19], tl=223, v=true] died: El_Heinsenberga died here! died
+[02:36:05] [Server thread/INFO]: Named entity ArmorStand['Died at Fri Sep 26 02:35:54 UTC 2025'/10023, uuid='783d2295-91fa-4f84-be01-a9efd1bc99e4', l='ServerLevel[world]', x=-684.50, y=64.25, z=306.50, cpos=[-43, 19], tl=223, v=true] died: Died at Fri Sep 26 02:35:54 UTC 2025 died
+[02:36:05] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Zatanna917'/10024, uuid='2c199667-bcb7-40cb-b7a2-497a9a368c26', l='ServerLevel[world]', x=-684.50, y=64.00, z=306.50, cpos=[-43, 19], tl=223, v=true] died: Reason: El_Heinsenberga was slain by Zatanna917 died
+[02:37:15] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 30
+[02:37:16] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 30
+[02:39:58] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 villager_spawn_egg 1
