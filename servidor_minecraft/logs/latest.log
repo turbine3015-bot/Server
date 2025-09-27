@@ -607,3 +607,15 @@ java.lang.NullPointerException: null
 [23:31:32] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
 [23:32:56] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
 [23:34:14] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[23:38:59] [Server thread/INFO]: Named entity Zombie['boliguayo'/81045, uuid='48e947c2-cf6d-47d0-95e4-af9093c58b5d', l='ServerLevel[world]', x=-619.62, y=115.49, z=269.29, cpos=[-39, 16], tl=20850, v=true] died: boliguayo burned to death
+[23:39:19] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[23:39:26] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[23:41:23] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 zombie_horse_spawn_egg 1
+[23:44:38] [Server thread/WARN]: El_Heinsenberga was kicked for floating too long!
+[23:44:38] [Server thread/INFO]: El_Heinsenberga lost connection: Flying is not enabled on this server
+[23:44:38] [Server thread/INFO]: [voicechat] Disconnecting client El_Heinsenberga
+[23:44:38] [Server thread/INFO]: El_Heinsenberga left the game
+[23:44:47] [User Authenticator #6/INFO]: UUID of player El_Heinsenberga is 40d2c7f8-5053-4955-bb1c-f4b9107602fd
+[23:44:48] [Server thread/INFO]: El_Heinsenberga joined the game
+[23:44:48] [Server thread/INFO]: El_Heinsenberga[/127.203.114.172:41077] logged in with entity id 86045 at ([world]-620.6554059662822, 131.3688995019111, 264.5678726973582)
+[23:44:57] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
