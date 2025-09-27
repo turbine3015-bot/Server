@@ -419,3 +419,7 @@ java.lang.NullPointerException: null
 [20:30:53] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Zombified Piglin'/11043, uuid='a1b4420f-b30f-4ef8-b421-f6d1e77ca6ab', l='ServerLevel[world_nether]', x=-900.50, y=54.00, z=570.50, cpos=[-57, 35], tl=2128, v=true] died: Reason: Zatanna917 was slain by Zombified Piglin died
 [20:33:48] [Server thread/INFO]: Zatanna917 issued server command: /home casa
 [20:34:19] [Server thread/INFO]: Zatanna917 issued server command: /back
+[20:36:52] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[20:39:39] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[20:39:52] [Server thread/INFO]: Lowisky1 has made the advancement [Sweet Dreams]
+[20:41:59] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
