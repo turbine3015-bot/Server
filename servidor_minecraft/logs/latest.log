@@ -602,3 +602,8 @@ java.lang.NullPointerException: null
 [23:16:41] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
 [23:16:41] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
 [23:16:41] [Server thread/INFO]: Lowisky1 left the game
+[23:29:57] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[23:30:01] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[23:31:32] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[23:32:56] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[23:34:14] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga

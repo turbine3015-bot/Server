@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1759014428253
+  lastteleport: 1759015801409
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: El_Heinsenberga
 lastlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world
-  x: -693.1209934119186
-  y: 67.0
-  z: 269.07499998807907
-  yaw: 77.39788818359375
-  pitch: 18.89998435974121
+  x: -698.1616409271568
+  y: 63.0
+  z: 306.94267457611585
+  yaw: -111.4085693359375
+  pitch: -30.000110626220703
 logoutlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world
