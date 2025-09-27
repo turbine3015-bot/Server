@@ -515,3 +515,19 @@ java.lang.NullPointerException: null
 [22:05:00] [Server thread/INFO]: Zatanna917 issued server command: /tp -1248 70 1088
 [22:05:21] [Server thread/INFO]: Zatanna917 issued server command: /home casa
 [22:05:46] [Server thread/INFO]: Zatanna917 issued server command: /back
+[22:06:46] [Server thread/INFO]: Zatanna917 issued server command: /tp -6000 78 4000
+[22:08:39] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[22:09:19] [Server thread/INFO]: Zatanna917 issued server command: /sethome bastion
+[22:10:11] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[22:10:54] [Server thread/INFO]: Zatanna917 was slain by Magma Cube
+[22:10:56] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-5477.203416284495,y=37.37875470256803,z=4095.4131057075087,pitch=46.349945,yaw=-66.870605}
+[22:11:02] [Server thread/INFO]: Zatanna917 issued server command: /back
+[22:11:19] [Server thread/INFO]: Zatanna917 issued server command: /tp -5478 37 4095
+[22:11:21] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/61916, uuid='fabc5598-1de3-4fa7-925f-fa09daa4f5c6', l='ServerLevel[world_nether]', x=-5477.50, y=38.50, z=4095.50, cpos=[-343, 255], tl=498, v=true] died: Zatanna917 died here! died
+[22:11:21] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 22:10:56 UTC 2025'/61917, uuid='00822553-fbe1-4416-bfe7-1cc823274cb6', l='ServerLevel[world_nether]', x=-5477.50, y=38.25, z=4095.50, cpos=[-343, 255], tl=498, v=true] died: Died at Sat Sep 27 22:10:56 UTC 2025 died
+[22:11:21] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Magma Cube'/61918, uuid='8a2ae06c-2baa-4c17-96ad-acce6ad5e1b5', l='ServerLevel[world_nether]', x=-5477.50, y=38.00, z=4095.50, cpos=[-343, 255], tl=498, v=true] died: Reason: Zatanna917 was slain by Magma Cube died
+[22:12:28] [Server thread/INFO]: Zatanna917 issued server command: /seed
+[22:15:19] [Server thread/INFO]: Zatanna917 issued server command: /tp -4005 ~ 5051
+[22:15:39] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[22:16:15] [Server thread/INFO]: Zatanna917 was slain by Magma Cube
+[22:16:17] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4036.29762982173,y=68.33226489655115,z=5076.645537918461,pitch=15.449955,yaw=-98.969666}
