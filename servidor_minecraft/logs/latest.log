@@ -448,3 +448,14 @@ java.lang.NullPointerException: null
 [20:57:48] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
 [20:57:57] [Server thread/INFO]: Zatanna917 issued server command: /god
 [20:58:32] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[21:09:13] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
+[21:13:04] [Server thread/INFO]: Lowisky1 |||||||||| has made the advancement [Monster Hunter]
+[21:16:09] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:16:28] [Server thread/INFO]: Zatanna917 issued server command: /home casa
+[21:17:07] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[21:18:32] [Server thread/WARN]: El_Heinsenberga moved too quickly! 9.645010751495562,-1.1661092609382138,21.906033250024507
+[21:18:32] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3915ms or 78 ticks behind
+[21:18:55] [Server thread/WARN]: Acacia Boat (vehicle of El_Heinsenberga) moved too quickly! 16.45410856960791,0.0,20.168585083738208
+[21:20:07] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[21:20:14] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:20:39] [Server thread/INFO]: Zatanna917 issued server command: /home fortaleza
