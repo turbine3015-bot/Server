@@ -6134,3 +6134,10 @@
 [2025-09-27 21:40:33] [INFO   ] Spawning Creaking Heart at -273,71,-1549 
 [2025-09-27 21:42:12] [INFO   ] Spawning ForestedMountainsCavePopulator at 650,57,-1728 
 [2025-09-27 21:42:46] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 52,-76 
+[2025-09-27 22:16:35] [INFO   ] Large Cave at -3776,30,4928 has water level > -9 with populator LargeLushCavePopulator 
+[2025-09-27 22:16:38] [INFO   ] Large Cave at -3776,21,5440 has water level > -10 with populator GenericLargeCavePopulator 
+[2025-09-27 22:16:40] [INFO   ] Large Cave at -4288,10,4928 has water level > -31 with populator MushroomCavePopulator 
+[2025-09-27 22:16:42] [INFO   ] Large Cave at -4288,46,5440 has water level > -32 with populator LargeLushCavePopulator 
+[2025-09-27 22:16:46] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -249,312 
+[2025-09-27 22:16:46] [INFO   ] Spawning Drowned Dungeon at -3974,5004 
+[2025-09-27 22:16:46] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -250,310 

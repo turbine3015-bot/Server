@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: false
+godmode: true
 muted: false
 jailed: false
 ip-address: 127.239.60.92
@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1759011062892
+  lastteleport: 1759011403177
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Zatanna917
 lastlocation:
   world: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
   world-name: world_nether
-  x: -5457.699999988079
-  y: 38.0
-  z: 4099.300000011921
-  yaw: -6.269608497619629
-  pitch: -2.850029706954956
+  x: -938.6114095734034
+  y: 53.0
+  z: 559.0879035703622
+  yaw: 164.8758544921875
+  pitch: 21.150053024291992
 logoutlocation:
   world: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
   world-name: world_nether

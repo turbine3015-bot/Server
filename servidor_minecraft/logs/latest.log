@@ -531,3 +531,22 @@ java.lang.NullPointerException: null
 [22:15:39] [Server thread/INFO]: Zatanna917 issued server command: /fly
 [22:16:15] [Server thread/INFO]: Zatanna917 was slain by Magma Cube
 [22:16:17] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4036.29762982173,y=68.33226489655115,z=5076.645537918461,pitch=15.449955,yaw=-98.969666}
+[22:16:34] [Server thread/INFO]: Zatanna917 issued server command: /tp -4037 68 5076
+[22:16:43] [Server thread/INFO]: Zatanna917 issued server command: /home fortaleza
+[22:16:46] [Server thread/INFO]: Zatanna917 issued server command: /tp -4037 68 5076
+[22:16:50] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/63345, uuid='acd10100-1028-44ff-a312-8d082887f3e4', l='ServerLevel[world_nether]', x=-4036.50, y=69.50, z=5076.50, cpos=[-253, 317], tl=673, v=true] died: Zatanna917 died here! died
+[22:16:50] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 22:16:17 UTC 2025'/63346, uuid='f34f58c0-f0f6-4d86-8c6a-d94d6fdb8508', l='ServerLevel[world_nether]', x=-4036.50, y=69.25, z=5076.50, cpos=[-253, 317], tl=673, v=true] died: Died at Sat Sep 27 22:16:17 UTC 2025 died
+[22:16:50] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Magma Cube'/63347, uuid='7d762207-1b2b-43d2-87dd-e67d483b0cf9', l='ServerLevel[world_nether]', x=-4036.50, y=69.00, z=5076.50, cpos=[-253, 317], tl=673, v=true] died: Reason: Zatanna917 was slain by Magma Cube died
+[22:18:03] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[22:18:11] [Server thread/INFO]: Zatanna917 issued server command: /god
+[22:20:46] [Server thread/INFO]: Zatanna917 issued server command: /flyspeed
+[22:20:49] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[22:21:19] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[22:21:40] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[22:21:50] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[22:22:14] [Async Chat Thread - #13/INFO]: <~Elantibolitas> 93
+[22:22:32] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[22:23:02] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[22:23:41] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[22:24:56] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[22:25:34] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
