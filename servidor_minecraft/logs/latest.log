@@ -218,3 +218,52 @@ java.lang.NullPointerException: null
 [19:41:18] [Server thread/INFO]: El_Heinsenberga[/127.203.114.172:40375] logged in with entity id 1207 at ([world]-704.5226069285761, 66.0, 299.92500001192093)
 [19:42:18] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 coal 300
 [19:42:28] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 coal 300
+[19:44:24] [Server thread/INFO]: Lowisky1 (/127.84.252.18:35283) lost connection: Disconnected
+[19:44:34] [Server thread/INFO]: Lowisky1 (/127.84.252.18:36461) lost connection: Disconnected
+[19:44:51] [Server thread/INFO]: Lowisky1 (/127.84.252.18:56703) lost connection: Disconnected
+[19:46:17] [User Authenticator #3/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
+[19:46:19] [Server thread/INFO]: Lowisky1 joined the game
+[19:46:19] [Server thread/INFO]: Lowisky1[/127.84.252.18:50831] logged in with entity id 1838 at ([world]-1.5, 64.0, 8.5)
+[19:46:19] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:46:32] [Async Chat Thread - #4/INFO]: <Lowisky1> que onda
+[19:46:47] [Async Chat Thread - #4/INFO]: <Lowisky1> pase la ip en un grupo de femboys y trabas
+[19:46:51] [Async Chat Thread - #4/INFO]: <Lowisky1> no me lo agradezcan
+[19:47:03] [Server thread/INFO]: Zatanna917 issued server command: /nickname &c&lElmatabolitas
+[19:47:10] [Server thread/INFO]: Zatanna917 issued server command: /nickname Zatanna917 &c&lElmatabolitas
+[19:47:16] [Server thread/INFO]: Zatanna917 issued server command: /nickname &c&lElmatabolitas
+[19:47:20] [Server thread/INFO]: Zatanna917 issued server command: /nickname &c&lElmataboli
+[19:47:28] [Async Chat Thread - #4/INFO]: <~Elmataboli> hola
+[19:47:39] [Async Chat Thread - #3/INFO]: <El_Heinsenberga> tu nariz contra mis bolas
+[19:47:48] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[19:48:01] [Server thread/INFO]: Zatanna917 issued server command: /nickname &b&lElantibolitas
+[19:48:07] [Server thread/INFO]: Zatanna917 issued server command: /nickname &b&lElantibolis
+[19:48:25] [Async Chat Thread - #4/INFO]: <Lowisky1> aceptame el tp que me hacen mierda
+[19:48:39] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[19:48:48] [Async Chat Thread - #4/INFO]: <Lowisky1> ah bueno
+[19:48:52] [Async Chat Thread - #4/INFO]: <Lowisky1> tenian de todo
+[19:49:01] [Async Chat Thread - #4/INFO]: <El_Heinsenberga> si bb
+[19:49:16] [Async Chat Thread - #4/INFO]: <Lowisky1> tienen oceano aca al lado
+[19:49:26] [Async Chat Thread - #3/INFO]: <Lowisky1> fua alta granja de mobs y totems se pueden hacer
+[19:49:32] [Async Chat Thread - #3/INFO]: <El_Heinsenberga> todo esto lo hizo el boliviano que tengo a mis espaldas
+[19:49:51] [Async Chat Thread - #4/INFO]: <~Elantibolis> el negreado aqui eres tu
+[19:49:53] [Async Chat Thread - #4/INFO]: <~Elantibolis> bolita
+[19:50:01] [Async Chat Thread - #4/INFO]: <Lowisky1> jajaja
+[19:50:10] [Async Chat Thread - #3/INFO]: <Lowisky1> como te vas a dejar boludear asi boliviano
+[19:50:17] [Server thread/INFO]: Zatanna917 issued server command: /nickname &bElantibolitas
+[19:50:18] [Async Chat Thread - #3/INFO]: <El_Heinsenberga> callao lacra
+[19:50:18] [Async Chat Thread - #3/INFO]: <Lowisky1> yo que vo lo re cago a bife
+[19:50:24] [Async Chat Thread - #4/INFO]: <~Elantibolitas> calla negro bolita
+[19:50:37] [Server thread/INFO]: El_Heinsenberga was slain by Zatanna917
+[19:50:40] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-711.9684715766156,y=66.0,z=280.2597392327496,pitch=6.9000854,yaw=53.849396}
+[19:50:53] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/2816, uuid='b0ede433-10d2-4248-bd9b-abfc6fa2dc52', l='ServerLevel[world]', x=-711.50, y=67.50, z=280.50, cpos=[-45, 17], tl=268, v=true] died: El_Heinsenberga died here! died
+[19:50:53] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 19:50:39 UTC 2025'/2817, uuid='8ea2a509-e461-4ead-bc62-071c0e87f21a', l='ServerLevel[world]', x=-711.50, y=67.25, z=280.50, cpos=[-45, 17], tl=268, v=true] died: Died at Sat Sep 27 19:50:39 UTC 2025 died
+[19:50:53] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Zatanna917'/2818, uuid='b5244d6b-793c-485b-8b60-f892149f78a2', l='ServerLevel[world]', x=-711.50, y=67.00, z=280.50, cpos=[-45, 17], tl=268, v=true] died: Reason: El_Heinsenberga was slain by Zatanna917 died
+[19:50:55] [Async Chat Thread - #4/INFO]: <Lowisky1> que les hago?
+[19:51:05] [Server thread/INFO]: Lowisky1 has made the advancement [Stone Age]
+[19:51:07] [Async Chat Thread - #4/INFO]: <El_Heinsenberga> aplaname un chunk
+[19:51:14] [Async Chat Thread - #4/INFO]: <El_Heinsenberga> para empezar
+[19:51:17] [Async Chat Thread - #3/INFO]: <Lowisky1> pero hacete culia
+[19:51:24] [Async Chat Thread - #4/INFO]: <Lowisky1> tienen un faro?
+[19:51:28] [Async Chat Thread - #4/INFO]: <El_Heinsenberga> non
+[19:51:36] [Async Chat Thread - #4/INFO]: <~Elantibolitas> No hay que hacer granja de whiter esqueletos
+[19:51:39] [Server thread/INFO]: Zatanna917 issued server command: /home fortaleza

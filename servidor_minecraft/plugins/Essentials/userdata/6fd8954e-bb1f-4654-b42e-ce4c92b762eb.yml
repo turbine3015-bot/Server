@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1758858668148
+  lastteleport: 1759002699983
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Zatanna917
 lastlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world
-  x: -8028.82956226677
-  y: -42.0
-  z: 4500.300000011921
-  yaw: -91.003662109375
-  pitch: 9.900198936462402
+  x: -705.9287455633822
+  y: 66.0
+  z: 289.8368985727451
+  yaw: 151.201171875
+  pitch: 17.400047302246094
 logoutlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world
@@ -61,3 +61,4 @@ homes:
     z: 559.2399598239112
     yaw: 164.8758544921875
     pitch: 21.150053024291992
+nickname: §bElantibolitas
