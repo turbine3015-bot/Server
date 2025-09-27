@@ -473,3 +473,11 @@ java.lang.NullPointerException: null
 [21:44:43] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
 [21:44:45] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
 [21:44:50] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[21:49:12] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[21:49:16] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[21:49:46] [Server thread/INFO]: Zatanna917 lost connection: Disconnected
+[21:49:46] [Server thread/INFO]: [voicechat] Disconnecting client Zatanna917
+[21:49:46] [Server thread/INFO]: Zatanna917 left the game
+[21:52:47] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[21:52:50] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[21:53:22] [Server thread/WARN]: Happy Ghast (vehicle of El_Heinsenberga) moved wrongly! 0.31339355085515985
