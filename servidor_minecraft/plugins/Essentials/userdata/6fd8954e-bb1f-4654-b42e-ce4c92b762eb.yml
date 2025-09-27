@@ -1,6 +1,6 @@
 teleportenabled: true
 teleportauto: false
-godmode: true
+godmode: false
 muted: false
 jailed: false
 ip-address: 127.239.60.92
@@ -69,4 +69,12 @@ homes:
     z: 4085.5540575493997
     yaw: -1.169981837272644
     pitch: 51.89995193481445
+  whiters:
+    world: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
+    world-name: world_nether
+    x: -4065.7216049718727
+    y: 93.0
+    z: 5056.443826740906
+    yaw: 84.472412109375
+    pitch: 54.899906158447266
 nickname: §bElantibolitas
