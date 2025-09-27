@@ -291,3 +291,78 @@ java.lang.NullPointerException: null
 [20:12:26] [Server thread/INFO]: Zatanna917 issued server command: /home fortaleza
 [20:13:17] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
 [20:13:22] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:14:04] [Server thread/INFO]: El_Heinsenberga has made the advancement [Into Fire]
+[20:16:39] [Server thread/INFO]: Zatanna917 was slain by Zombified Piglin
+[20:16:42] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-915.6195481794551,y=53.121296840539195,z=571.8136566917581,pitch=13.050059,yaw=88.53247}
+[20:16:45] [Server thread/INFO]: Zatanna917 issued server command: /back
+[20:16:50] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[20:17:04] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[20:17:10] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/7825, uuid='60b609b3-1d71-4e0c-9809-3799a64a80c4', l='ServerLevel[world_nether]', x=-915.50, y=54.50, z=571.50, cpos=[-58, 35], tl=577, v=true] died: Zatanna917 died here! died
+[20:17:10] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 20:16:41 UTC 2025'/7826, uuid='72fe8ea4-a001-4607-bb4d-37c2aa19f7de', l='ServerLevel[world_nether]', x=-915.50, y=54.25, z=571.50, cpos=[-58, 35], tl=577, v=true] died: Died at Sat Sep 27 20:16:41 UTC 2025 died
+[20:17:10] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Zombified Piglin'/7827, uuid='8ae4ca68-8d84-407e-bda8-d13a82677c65', l='ServerLevel[world_nether]', x=-915.50, y=54.00, z=571.50, cpos=[-58, 35], tl=577, v=true] died: Reason: Zatanna917 was slain by Zombified Piglin died
+[20:17:21] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
+[20:17:23] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-889.947857940468,y=59.0,z=546.2882597437898,pitch=17.850023,yaw=111.176056}
+[20:17:32] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:17:38] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:17:53] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
+[20:17:55] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-899.5717193823674,y=53.0,z=566.2776122330175,pitch=6.00002,yaw=-179.82367}
+[20:18:06] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:18:08] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:18:13] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/8014, uuid='ff23876e-4717-44f0-a594-f6cca203a6de', l='ServerLevel[world_nether]', x=-889.50, y=60.50, z=546.50, cpos=[-56, 34], tl=987, v=true] died: El_Heinsenberga died here! died
+[20:18:13] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 20:17:23 UTC 2025'/8015, uuid='95049e35-d64f-4487-9da3-6e7807bf0a1d', l='ServerLevel[world_nether]', x=-889.50, y=60.25, z=546.50, cpos=[-56, 34], tl=987, v=true] died: Died at Sat Sep 27 20:17:23 UTC 2025 died
+[20:18:13] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Zombified Piglin'/8016, uuid='6a73f929-81da-4162-a2bb-102374caa7b1', l='ServerLevel[world_nether]', x=-889.50, y=60.00, z=546.50, cpos=[-56, 34], tl=987, v=true] died: Reason: El_Heinsenberga was slain by Zombified Piglin died
+[20:18:31] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
+[20:18:33] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-857.3746484812641,y=59.42527412219723,z=545.3980006302752,pitch=22.950024,yaw=-52.773365}
+[20:18:37] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:18:46] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:18:49] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
+[20:18:51] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-898.376684675391,y=53.60376365469679,z=544.3000000119209,pitch=16.800045,yaw=64.97676}
+[20:18:57] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:19:04] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:19:05] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:19:09] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
+[20:19:11] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-854.3000000119209,y=59.0,z=543.9255532389973,pitch=26.250038,yaw=38.42648}
+[20:19:15] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:19:28] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:19:31] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/8287, uuid='48bbebad-2e0d-41b4-97b8-c13753d5b398', l='ServerLevel[world_nether]', x=-857.50, y=60.50, z=545.50, cpos=[-54, 34], tl=1161, v=true] died: El_Heinsenberga died here! died
+[20:19:31] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 20:18:33 UTC 2025'/8288, uuid='573fb662-4229-469f-9ee8-1c93bf046875', l='ServerLevel[world_nether]', x=-857.50, y=60.25, z=545.50, cpos=[-54, 34], tl=1161, v=true] died: Died at Sat Sep 27 20:18:33 UTC 2025 died
+[20:19:31] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Zombified Piglin'/8289, uuid='5bff0325-43ea-44d5-ad9f-567e8d87f2ee', l='ServerLevel[world_nether]', x=-857.50, y=60.00, z=545.50, cpos=[-54, 34], tl=1161, v=true] died: Reason: El_Heinsenberga was slain by Zombified Piglin died
+[20:19:48] [Server thread/INFO]: Zatanna917 was slain by Zombified Piglin
+[20:19:50] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-854.6999999880791,y=59.78502770378924,z=545.2868775415382,pitch=17.250044,yaw=146.72643}
+[20:19:53] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[20:20:12] [Server thread/INFO]: Zatanna917 was slain by Zombified Piglin
+[20:20:14] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-853.3000000119209,y=61.0,z=547.077647250041,pitch=42.000004,yaw=110.42641}
+[20:20:15] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[20:20:20] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/8590, uuid='16447046-ee4b-4b8d-ac21-31c9c68e92ae', l='ServerLevel[world_nether]', x=-854.50, y=60.50, z=545.50, cpos=[-54, 34], tl=602, v=true] died: Zatanna917 died here! died
+[20:20:20] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 20:19:50 UTC 2025'/8591, uuid='7d6af082-d345-4629-b3dc-cbeaa1c986fa', l='ServerLevel[world_nether]', x=-854.50, y=60.25, z=545.50, cpos=[-54, 34], tl=602, v=true] died: Died at Sat Sep 27 20:19:50 UTC 2025 died
+[20:20:20] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Zombified Piglin'/8592, uuid='10d01c57-daf9-42a4-ad13-ba018b8f6afc', l='ServerLevel[world_nether]', x=-854.50, y=60.00, z=545.50, cpos=[-54, 34], tl=602, v=true] died: Reason: Zatanna917 was slain by Zombified Piglin died
+[20:20:23] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/8682, uuid='5312cf3e-24de-4dde-89ac-b9929ae01992', l='ServerLevel[world_nether]', x=-853.50, y=62.50, z=547.50, cpos=[-54, 34], tl=193, v=true] died: Zatanna917 died here! died
+[20:20:23] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 20:20:14 UTC 2025'/8683, uuid='ed2df0c3-b973-4287-b3ab-67e46cda3b9e', l='ServerLevel[world_nether]', x=-853.50, y=62.25, z=547.50, cpos=[-54, 34], tl=193, v=true] died: Died at Sat Sep 27 20:20:14 UTC 2025 died
+[20:20:23] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Zombified Piglin'/8684, uuid='63e86528-1b29-4021-a309-55287960ff5c', l='ServerLevel[world_nether]', x=-853.50, y=62.00, z=547.50, cpos=[-54, 34], tl=193, v=true] died: Reason: Zatanna917 was slain by Zombified Piglin died
+[20:20:58] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/8448, uuid='19a11405-911d-4e79-a4df-db7cf5cae4c5', l='ServerLevel[world_nether]', x=-854.50, y=60.50, z=543.50, cpos=[-54, 33], tl=2133, v=true] died: El_Heinsenberga died here! died
+[20:20:58] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 20:19:11 UTC 2025'/8449, uuid='0c69497f-64cf-4f1c-ae69-6ab2d56a86dc', l='ServerLevel[world_nether]', x=-854.50, y=60.25, z=543.50, cpos=[-54, 33], tl=2133, v=true] died: Died at Sat Sep 27 20:19:11 UTC 2025 died
+[20:20:58] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Zombified Piglin'/8450, uuid='345fea95-766c-4137-b226-54b6ed4f0477', l='ServerLevel[world_nether]', x=-854.50, y=60.00, z=543.50, cpos=[-54, 33], tl=2133, v=true] died: Reason: El_Heinsenberga was slain by Zombified Piglin died
+[20:21:13] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[20:21:35] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[20:21:59] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:22:03] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:22:30] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
+[20:22:32] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-900.4906561401548,y=53.0,z=573.9989916489279,pitch=19.950064,yaw=121.675934}
+[20:22:40] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:22:47] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:22:52] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:23:03] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
+[20:23:05] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-934.3695287012005,y=53.0,z=559.7538202200549,pitch=7.800092,yaw=-18.12387}
+[20:23:07] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:23:17] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:23:20] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
+[20:23:22] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-934.6814425950078,y=54.0,z=547.7985627992296,pitch=4.8000793,yaw=4.9763813}
+[20:23:25] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:23:29] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:23:39] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/9272, uuid='41230cdf-d181-41b8-8795-f38345c54b61', l='ServerLevel[world_nether]', x=-900.50, y=54.50, z=573.50, cpos=[-57, 35], tl=1342, v=true] died: El_Heinsenberga died here! died
+[20:23:39] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 20:22:32 UTC 2025'/9273, uuid='c0b34543-0a20-423b-af83-bcf4fde3498f', l='ServerLevel[world_nether]', x=-900.50, y=54.25, z=573.50, cpos=[-57, 35], tl=1342, v=true] died: Died at Sat Sep 27 20:22:32 UTC 2025 died
+[20:23:39] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Zombified Piglin'/9274, uuid='5e56a8c1-1d7c-4e41-b26c-9821cff83ff5', l='ServerLevel[world_nether]', x=-900.50, y=54.00, z=573.50, cpos=[-57, 35], tl=1342, v=true] died: Reason: El_Heinsenberga was slain by Zombified Piglin died
+[20:23:51] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
+[20:23:53] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-900.4819435746244,y=53.0,z=544.3000000119209,pitch=79.500046,yaw=23.576637}
+[20:23:55] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:24:07] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
