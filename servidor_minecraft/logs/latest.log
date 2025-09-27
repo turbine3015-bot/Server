@@ -481,3 +481,37 @@ java.lang.NullPointerException: null
 [21:52:47] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
 [21:52:50] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
 [21:53:22] [Server thread/WARN]: Happy Ghast (vehicle of El_Heinsenberga) moved wrongly! 0.31339355085515985
+[21:56:02] [User Authenticator #4/INFO]: UUID of player Zatanna917 is 6fd8954e-bb1f-4654-b42e-ce4c92b762eb
+[21:56:04] [Server thread/INFO]: Zatanna917 joined the game
+[21:56:04] [Server thread/INFO]: Zatanna917[/127.239.60.92:38725] logged in with entity id 56692 at ([world_nether]-985.3228703102003, 49.0, 572.0117266137797)
+[21:56:05] [Folia Async Scheduler Thread #3/WARN]: [InstantRestock] Async task for InstantRestock v2.5.2 generated an exception
+java.lang.NullPointerException: null
+	at instantrestock_2.5.2.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.get(Unknown Source) ~[instantrestock_2.5.2.jar:?]
+	at instantrestock_2.5.2.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.getFormatted(Unknown Source) ~[instantrestock_2.5.2.jar:?]
+	at instantrestock_2.5.2.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.getFormatted$default(Unknown Source) ~[instantrestock_2.5.2.jar:?]
+	at instantrestock_2.5.2.jar/me.spartacus04.instantrestock.listeners.PlayerJoinEvent.onPlayerJoin$lambda$0(Unknown Source) ~[instantrestock_2.5.2.jar:?]
+	at instantrestock_2.5.2.jar/me.spartacus04.colosseum.utils.PluginUpdater.getVersion$lambda$1(Unknown Source) ~[instantrestock_2.5.2.jar:?]
+	at instantrestock_2.5.2.jar/me.spartacus04.colosseum.scheduler.schedulersImpl.folia.FoliaScheduler.runTaskAsynchronously$lambda$9(Unknown Source) ~[instantrestock_2.5.2.jar:?]
+	at io.papermc.paper.threadedregions.scheduler.FoliaAsyncScheduler$AsyncScheduledTask.run(FoliaAsyncScheduler.java:217) ~[paper-1.21.8.jar:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
+[21:56:57] [Server thread/INFO]: Named entity Piglin['Etiquetaaaaa'/48715, uuid='3e47ca5c-5afe-48b2-8c7d-dd3d99c4fb5b', l='ServerLevel[world_nether]', x=-992.39, y=29.39, z=580.57, cpos=[-63, 36], tl=12526, v=true] died: Etiquetaaaaa tried to swim in lava to escape Wither Skeleton
+[21:57:37] [Server thread/WARN]: El_Heinsenberga was kicked for floating too long!
+[21:57:37] [Server thread/INFO]: El_Heinsenberga lost connection: Flying is not enabled on this server
+[21:57:37] [Server thread/INFO]: [voicechat] Disconnecting client El_Heinsenberga
+[21:57:37] [Server thread/INFO]: El_Heinsenberga left the game
+[21:57:47] [User Authenticator #5/INFO]: UUID of player El_Heinsenberga is 40d2c7f8-5053-4955-bb1c-f4b9107602fd
+[21:57:48] [Server thread/INFO]: El_Heinsenberga joined the game
+[21:57:48] [Server thread/INFO]: El_Heinsenberga[/127.203.114.172:51841] logged in with entity id 57071 at ([world]-620.6645459866049, 98.03898236007004, 267.81306887773343)
+[21:58:08] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[21:58:19] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[22:03:23] [Server thread/INFO]: Zatanna917 issued server command: /locate structure minecraft:fortress
+[22:03:23] [Server thread/INFO]: Locating element minecraft:fortress took 15 ms
+[22:04:00] [Server thread/INFO]: Zatanna917 issued server command: /tp 1000 70 -1000
+[22:04:29] [Server thread/INFO]: Zatanna917 issued server command: /tp -1000 70 1000
+[22:04:49] [Server thread/INFO]: Zatanna917 issued server command: /locate structure minecraft:fortress
+[22:04:49] [Server thread/INFO]: Locating element minecraft:fortress took 0 ms
+[22:05:00] [Server thread/INFO]: Zatanna917 issued server command: /tp -1248 70 1088
+[22:05:21] [Server thread/INFO]: Zatanna917 issued server command: /home casa
+[22:05:46] [Server thread/INFO]: Zatanna917 issued server command: /back
