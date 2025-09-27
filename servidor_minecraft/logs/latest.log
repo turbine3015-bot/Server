@@ -576,3 +576,15 @@ java.lang.NullPointerException: null
 [22:45:01] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
 [22:45:03] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
 [22:45:07] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[22:48:27] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[22:48:32] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[22:51:04] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[22:53:35] [Server thread/INFO]: Zatanna917 issued server command: /home fortaleza
+[22:53:54] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[22:54:25] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[22:54:33] [Server thread/INFO]: Zatanna917 issued server command: /home casa
+[22:54:54] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[22:55:00] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[22:55:04] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[22:56:33] [Server thread/WARN]: Happy Ghast (vehicle of Zatanna917) moved wrongly! 0.37135474282237424
+[22:56:55] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
