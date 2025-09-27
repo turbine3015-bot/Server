@@ -588,3 +588,10 @@ java.lang.NullPointerException: null
 [22:55:04] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
 [22:56:33] [Server thread/WARN]: Happy Ghast (vehicle of Zatanna917) moved wrongly! 0.37135474282237424
 [22:56:55] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[22:58:34] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[22:59:40] [Server thread/INFO]: Zatanna917 issued server command: /home
+[22:59:50] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[23:02:55] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[23:06:53] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[23:07:02] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[23:07:08] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
