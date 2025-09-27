@@ -619,3 +619,11 @@ java.lang.NullPointerException: null
 [23:44:48] [Server thread/INFO]: El_Heinsenberga joined the game
 [23:44:48] [Server thread/INFO]: El_Heinsenberga[/127.203.114.172:41077] logged in with entity id 86045 at ([world]-620.6554059662822, 131.3688995019111, 264.5678726973582)
 [23:44:57] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[23:51:41] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[23:51:44] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[23:51:58] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[23:54:38] [Server thread/INFO]: Zatanna917 issued server command: /home whiters
+[23:56:33] [Server thread/INFO]: Zatanna917 has reached the goal [Hired Help]
+[23:57:00] [Server thread/INFO]: El_Heinsenberga lost connection: Disconnected
+[23:57:00] [Server thread/INFO]: [voicechat] Disconnecting client El_Heinsenberga
+[23:57:00] [Server thread/INFO]: El_Heinsenberga left the game
