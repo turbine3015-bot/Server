@@ -562,3 +562,17 @@ java.lang.NullPointerException: null
 [22:34:14] [Server thread/INFO]: Zatanna917 issued server command: /sethome whiters
 [22:34:18] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
 [22:36:38] [Server thread/WARN]: Happy Ghast (vehicle of Lowisky1) moved wrongly! 0.27634211743026915
+[22:41:02] [Server thread/INFO]: El_Heinsenberga was slain by Wither Skeleton
+[22:41:04] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4066.0,y=70.0,z=5061.0,pitch=0.0,yaw=0.0}
+[22:41:07] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[22:41:11] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[22:41:43] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/72271, uuid='5b2c471c-ecb0-47e6-b7a0-8916a82fe221', l='ServerLevel[world_nether]', x=-4065.50, y=71.50, z=5061.50, cpos=[-255, 316], tl=790, v=true] died: El_Heinsenberga died here! died
+[22:41:43] [Server thread/INFO]: Named entity ArmorStand['Died at Sat Sep 27 22:41:04 UTC 2025'/72272, uuid='6050c822-123e-4030-b032-2f348d55d217', l='ServerLevel[world_nether]', x=-4065.50, y=71.25, z=5061.50, cpos=[-255, 316], tl=790, v=true] died: Died at Sat Sep 27 22:41:04 UTC 2025 died
+[22:41:43] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Wither Skeleton'/72273, uuid='274bb03a-d4b0-414e-b0eb-d59690af047c', l='ServerLevel[world_nether]', x=-4065.50, y=71.00, z=5061.50, cpos=[-255, 316], tl=790, v=true] died: Reason: El_Heinsenberga was slain by Wither Skeleton died
+[22:42:01] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[22:42:05] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[22:42:59] [Server thread/INFO]: Lowisky1 has made the advancement [The Parrots and the Bats]
+[22:44:59] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[22:45:01] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[22:45:03] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[22:45:07] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
