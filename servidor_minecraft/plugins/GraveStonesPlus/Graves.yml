@@ -46,53 +46,6 @@ graves:
   World: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
   EXP: 0
   DeathMessage: El_Heinsenberga tried to swim in lava
-- ==: com.bencodez.gravestonesplus.graves.GravesConfig
-  DestroyedTime: 0
-  Destroyed: false
-  PlayerName: El_Heinsenberga
-  X: -900
-  Y: 53
-  Time: 1759004275116
-  Z: 566
-  Items:
-    0:
-      ==: org.bukkit.inventory.ItemStack
-      DataVersion: 4440
-      id: minecraft:player_head
-      count: 1
-      components:
-        minecraft:profile: '{id:[I;-313005115,1884175265,-1910890889,1300776243],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRjYzZlYjQwZjNiYWRhNDFlNDMzOTg4OGQ2ZDIwNzQzNzU5OGJkYmQxNzVjMmU3MzExOTFkNWE5YTQyZDNjOCJ9fX0="}]}'
-        minecraft:custom_name: '"§eBackpack"'
-      schema_version: 1
-    -1:
-      ==: org.bukkit.inventory.ItemStack
-      DataVersion: 4440
-      schema_version: 1
-      id: minecraft:air
-    -2:
-      ==: org.bukkit.inventory.ItemStack
-      DataVersion: 4440
-      schema_version: 1
-      id: minecraft:air
-    -3:
-      ==: org.bukkit.inventory.ItemStack
-      DataVersion: 4440
-      schema_version: 1
-      id: minecraft:air
-    -4:
-      ==: org.bukkit.inventory.ItemStack
-      DataVersion: 4440
-      schema_version: 1
-      id: minecraft:air
-    -5:
-      ==: org.bukkit.inventory.ItemStack
-      DataVersion: 4440
-      schema_version: 1
-      id: minecraft:air
-  UUID: 40d2c7f8-5053-4955-bb1c-f4b9107602fd
-  World: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
-  EXP: 0
-  DeathMessage: El_Heinsenberga was slain by Zombified Piglin
 brokengraves:
 - ==: com.bencodez.gravestonesplus.graves.GravesConfig
   DestroyedTime: 1759005053266
@@ -141,6 +94,53 @@ brokengraves:
   World: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
   EXP: 0
   DeathMessage: Zatanna917 was slain by Zombified Piglin
+- ==: com.bencodez.gravestonesplus.graves.GravesConfig
+  DestroyedTime: 1759006445616
+  Destroyed: true
+  PlayerName: El_Heinsenberga
+  X: -900
+  Y: 53
+  Time: 1759004275116
+  Z: 566
+  Items:
+    0:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:player_head
+      count: 1
+      components:
+        minecraft:profile: '{id:[I;-313005115,1884175265,-1910890889,1300776243],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRjYzZlYjQwZjNiYWRhNDFlNDMzOTg4OGQ2ZDIwNzQzNzU5OGJkYmQxNzVjMmU3MzExOTFkNWE5YTQyZDNjOCJ9fX0="}]}'
+        minecraft:custom_name: '"§eBackpack"'
+      schema_version: 1
+    -1:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      schema_version: 1
+      id: minecraft:air
+    -2:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      schema_version: 1
+      id: minecraft:air
+    -3:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      schema_version: 1
+      id: minecraft:air
+    -4:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      schema_version: 1
+      id: minecraft:air
+    -5:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      schema_version: 1
+      id: minecraft:air
+  UUID: 40d2c7f8-5053-4955-bb1c-f4b9107602fd
+  World: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
+  EXP: 0
+  DeathMessage: El_Heinsenberga was slain by Zombified Piglin
 - ==: com.bencodez.gravestonesplus.graves.GravesConfig
   DestroyedTime: 1759004458394
   Destroyed: true
