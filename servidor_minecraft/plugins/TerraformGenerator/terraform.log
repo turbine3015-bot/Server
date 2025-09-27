@@ -6063,3 +6063,74 @@
 [2025-09-27 21:35:08] [INFO   ] Spawning Creaking Heart at 441,69,-1753 
 [2025-09-27 21:35:10] [INFO   ] Spawning Creaking Heart at 431,69,-1773 
 [2025-09-27 21:35:10] [INFO   ] Spawning Creaking Heart at 462,67,-1773 
+[2025-09-27 21:35:22] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: 5,-111 
+[2025-09-27 21:35:35] [INFO   ] Large Cave at -192,18,-1728 has water level > -25 with populator MushroomCavePopulator 
+[2025-09-27 21:35:35] [INFO   ] Large Cave at -192,14,-1216 has water level > -13 with populator GenericLargeCavePopulator 
+[2025-09-27 21:35:49] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -7,-102 
+[2025-09-27 21:35:49] [INFO   ] Spawning Underground Dungeon at -102,15,-1617 
+[2025-09-27 21:35:51] [INFO   ] Spawning Creaking Heart at -127,66,-1531 
+[2025-09-27 21:35:55] [INFO   ] Spawning Creaking Heart at -153,71,-1552 
+[2025-09-27 21:35:55] [INFO   ] Spawning Creaking Heart at -157,74,-1600 
+[2025-09-27 21:35:55] [INFO   ] Spawning Creaking Heart at -147,71,-1600 
+[2025-09-27 21:35:56] [INFO   ] Spawning Creaking Heart at -159,71,-1647 
+[2025-09-27 21:36:07] [INFO   ] Generating org.terraform.structure.small.buriedtreasure.BuriedTreasurePopulator at chunk: -11,-113 
+[2025-09-27 21:36:13] [INFO   ] Spawning Creaking Heart at -157,74,-1852 
+[2025-09-27 21:36:15] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -7,-117 
+[2025-09-27 21:36:17] [INFO   ] Spawning Creaking Heart at -158,74,-1873 
+[2025-09-27 21:36:42] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -12,-108 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 257 13 -2173 in a room of size 13x14 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 261 13 -2189 in a room of size 14x15 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 319 13 -2215 in a room of size 15x13 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 311 13 -2305 in a room of size 14x13 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 304 13 -2209 in a room of size 14x15 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 374 13 -2215 in a room of size 13x15 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at 259 13 -2286 in a room of size 14x15 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 261 28 -2258 in a room of size 13x15 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 258 28 -2185 in a room of size 13x14 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 275 28 -2253 in a room of size 14x13 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 350 28 -2234 in a room of size 13x15 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 257 28 -2173 in a room of size 13x6 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 304 28 -2209 in a room of size 14x7 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at 259 28 -2286 in a room of size 14x7 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 359 28 -2171 in a room of size 13x14 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 389 28 -2276 in a room of size 13x15 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at 273 28 -2281 in a room of size 14x15 
+[2025-09-27 21:36:44] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at 318 28 -2279 in a room of size 13x15 
+[2025-09-27 21:36:44] [INFO   ] Spawning Creaking Heart at -219,73,-1853 
+[2025-09-27 21:36:44] [INFO   ] Spawning Creaking Heart at -214,73,-1844 
+[2025-09-27 21:36:45] [INFO   ] Spawning Creaking Heart at -223,69,-1648 
+[2025-09-27 21:36:46] [INFO   ] -12,-140 will spawn a vanilla structure, with tryGenerateStructure == true 
+[2025-09-27 21:36:48] [INFO   ] Spawning Creaking Heart at -227,69,-1678 
+[2025-09-27 21:37:09] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -16,-116 
+[2025-09-27 21:37:09] [INFO   ] Spawning Underground Dungeon at -247,10,-1844 
+[2025-09-27 21:37:09] [INFO   ] Generating org.terraform.structure.trialchamber.TrialChamberPopulator at chunk: -12,-140 
+[2025-09-27 21:37:56] [INFO   ] Large Cave at -704,21,-2240 has water level > -7 with populator LargeLushCavePopulator 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -731 27 -1761 in a room of size 14x15 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftRoomPopulator at -664 27 -1754 in a room of size 13x13 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -770 27 -1729 in a room of size 13x13 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -660 27 -1681 in a room of size 13x13 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -631 27 -1778 in a room of size 14x14 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -698 27 -1727 in a room of size 15x15 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -648 27 -1746 in a room of size 15x15 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -775 27 -1685 in a room of size 15x13 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -677 27 -1689 in a room of size 14x15 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -639 42 -1688 in a room of size 13x13 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -731 42 -1761 in a room of size 14x6 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.ShaftTopPopulator at -664 42 -1754 in a room of size 13x6 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -642 42 -1653 in a room of size 14x13 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -733 42 -1656 in a room of size 14x15 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -633 42 -1743 in a room of size 15x15 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -772 42 -1769 in a room of size 14x14 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -696 42 -1764 in a room of size 13x14 
+[2025-09-27 21:37:56] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -708 42 -1795 in a room of size 13x13 
+[2025-09-27 21:38:15] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -38,-119 
+[2025-09-27 21:38:15] [INFO   ] Spawning Underground Dungeon at -608,19,-1899 
+[2025-09-27 21:39:24] [INFO   ] Spawning Creaking Heart at -257,69,-1652 
+[2025-09-27 21:40:17] [INFO   ] Spawning Creaking Heart at -215,72,-1576 
+[2025-09-27 21:40:28] [INFO   ] Spawning Creaking Heart at -273,76,-1561 
+[2025-09-27 21:40:33] [INFO   ] Spawning Creaking Heart at -238,73,-1537 
+[2025-09-27 21:40:33] [INFO   ] Spawning Creaking Heart at -267,74,-1538 
+[2025-09-27 21:40:33] [INFO   ] Spawning Creaking Heart at -288,73,-1537 
+[2025-09-27 21:40:33] [INFO   ] Spawning Creaking Heart at -273,71,-1549 
+[2025-09-27 21:42:12] [INFO   ] Spawning ForestedMountainsCavePopulator at 650,57,-1728 
+[2025-09-27 21:42:46] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: 52,-76 
