@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1758858736371
-  login: 1758851673183
+  logout: 1759001982330
+  login: 1759002078928
 money: '0'
 last-account-name: El_Heinsenberga
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world
-  x: -702.2275647288601
-  y: 67.0
-  z: 321.7663806384863
-  yaw: -77.70039367675781
-  pitch: -8.699991226196289
+  x: -704.5226069285761
+  y: 66.0
+  z: 299.92500001192093
+  yaw: -175.35044860839844
+  pitch: 10.350006103515625

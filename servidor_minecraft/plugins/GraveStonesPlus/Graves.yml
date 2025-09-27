@@ -19,29 +19,29 @@ graves:
       schema_version: 1
     -1:
       ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
       schema_version: 1
       id: minecraft:air
-      DataVersion: 4440
     -2:
       ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
       schema_version: 1
       id: minecraft:air
-      DataVersion: 4440
     -3:
       ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
       schema_version: 1
       id: minecraft:air
-      DataVersion: 4440
     -4:
       ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
       schema_version: 1
       id: minecraft:air
-      DataVersion: 4440
     -5:
       ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
       schema_version: 1
       id: minecraft:air
-      DataVersion: 4440
   UUID: 40d2c7f8-5053-4955-bb1c-f4b9107602fd
   World: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
   EXP: 0
