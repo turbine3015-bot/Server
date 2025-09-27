@@ -439,3 +439,12 @@ java.lang.NullPointerException: null
 [20:54:05] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Zombified Piglin'/8126, uuid='32bf287f-2135-4aec-a9b4-b89f49d93e9c', l='ServerLevel[world_nether]', x=-899.50, y=54.00, z=566.50, cpos=[-57, 35], tl=42979, v=true] died: Reason: El_Heinsenberga was slain by Zombified Piglin died
 [20:54:13] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
 [20:54:15] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[20:54:42] [Server thread/INFO]: Zatanna917 issued server command: /god
+[20:54:45] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[20:56:55] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:57:17] [Server thread/INFO]: Zatanna917 issued server command: /god
+[20:57:18] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:57:41] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[20:57:48] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[20:57:57] [Server thread/INFO]: Zatanna917 issued server command: /god
+[20:58:32] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
