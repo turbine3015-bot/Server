@@ -268,3 +268,24 @@ java.lang.NullPointerException: null
 [04:55:12] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 04:53:50 UTC 2025'/18831, uuid='a1c4f88a-e247-4481-81ea-08d1837bf1dd', l='ServerLevel[world_nether]', x=-4004.50, y=75.25, z=5099.50, cpos=[-251, 318], tl=1656, v=true] died: Died at Sun Sep 28 04:53:50 UTC 2025 died
 [04:55:12] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Wither Skeleton'/18832, uuid='4a122db2-9965-44aa-a463-13f3bbf554de', l='ServerLevel[world_nether]', x=-4004.50, y=75.00, z=5099.50, cpos=[-251, 318], tl=1656, v=true] died: Reason: El_Heinsenberga was slain by Wither Skeleton died
 [04:56:12] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:01:16] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:01:37] [Async Chat Thread - #5/INFO]: <El_Heinsenberga> nachoooooo
+[05:01:49] [Async Chat Thread - #6/INFO]: <Lowisky1> decime
+[05:01:55] [Async Chat Thread - #5/INFO]: <El_Heinsenberga> que haces?
+[05:02:14] [Async Chat Thread - #6/INFO]: <Lowisky1> me estoy haciendo una paja
+[05:02:40] [Async Chat Thread - #6/INFO]: <El_Heinsenberga> hacete pociones de resistencia al fuego
+[05:03:18] [Async Chat Thread - #7/INFO]: <Lowisky1> no
+[05:03:28] [Async Chat Thread - #7/INFO]: <Lowisky1> no escucho ordenes de un boliviano
+[05:03:41] [Async Chat Thread - #7/INFO]: <Lowisky1> que me lo diga el otro tucumano
+[05:03:56] [Async Chat Thread - #6/INFO]: <El_Heinsenberga> ya te pones a hacer porque voy a llamo a migracion
+[05:04:27] [Async Chat Thread - #6/INFO]: <Lowisky1> ay no
+[05:04:31] [Async Chat Thread - #6/INFO]: <Lowisky1> que miedo
+[05:04:42] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[05:04:50] [Async Chat Thread - #7/INFO]: <El_Heinsenberga> anda haciendo esas pociones
+[05:05:00] [Async Chat Thread - #6/INFO]: <El_Heinsenberga> y bajame el precio del tomate tambien
+[05:05:16] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[05:05:16] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[05:05:21] [Async Chat Thread - #6/INFO]: <Lowisky1> cuando gane volibya el repechaje lo hago
+[05:05:23] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[05:05:29] [Server thread/INFO]: Zatanna917 issued server command: /back
+[05:05:33] [Server thread/INFO]: Zatanna917 issued server command: /back
