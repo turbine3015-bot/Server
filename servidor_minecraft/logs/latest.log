@@ -262,3 +262,11 @@ java.lang.NullPointerException: null
 [19:49:04] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
 [19:49:07] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
 [19:50:17] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[19:51:38] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
+[19:57:37] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[19:57:40] [Server thread/INFO]: Zatanna917 issued server command: /home 4
+[19:57:41] [Server thread/INFO]: Zatanna917 issued server command: /home 3
+[19:57:45] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[19:57:47] [Server thread/INFO]: Zatanna917 issued server command: /home 1
+[19:58:07] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[19:58:11] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
