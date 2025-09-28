@@ -537,3 +537,7 @@ java.lang.NullPointerException: null
 [06:49:22] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
 [06:49:35] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept+
 [06:49:37] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[06:57:17] [Server thread/INFO]: Zatanna917 issued server command: /home casa
+[06:57:35] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[06:57:48] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[06:58:58] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga

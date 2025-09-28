@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1759042000167
+  lastteleport: 1759042738733
   lastheal: 0
   mute: 0
   jail: 0
@@ -21,13 +21,13 @@ timestamps:
 money: '0'
 last-account-name: Zatanna917
 lastlocation:
-  world: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
-  world-name: world_nether
-  x: -4073.952520438328
-  y: 74.0
-  z: 5068.976813826615
-  yaw: 177.47198486328125
-  pitch: 37.65003967285156
+  world: 91084f46-1926-44ac-a6af-cefb9c8223f7
+  world-name: world
+  x: -714.6826186833321
+  y: 66.0
+  z: 295.3533452035347
+  yaw: 39.1502685546875
+  pitch: -1.649997591972351
 logoutlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world
