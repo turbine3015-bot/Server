@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1759087863337
+  lastteleport: 1759089017465
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Zatanna917
 lastlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world
-  x: -697.3357707514668
-  y: 65.5625
-  z: 275.412708682075
-  yaw: -90.0
-  pitch: 0.0
+  x: -612.5463621696732
+  y: 64.0
+  z: 256.2847551808943
+  yaw: 9.750105857849121
+  pitch: 11.400020599365234
 logoutlocation:
   world: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
   world-name: world_nether
@@ -80,9 +80,9 @@ homes:
   whiters:
     world: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
     world-name: world_nether
-    x: -4063.2714058161573
-    y: 93.0
-    z: 5063.606777728045
-    yaw: 82.67205810546875
-    pitch: 8.699997901916504
+    x: -4075.699999988079
+    y: 52.78608123157454
+    z: 5056.597524991056
+    yaw: -141.57861328125
+    pitch: 26.09999656677246
 nickname: §bElantibolitas

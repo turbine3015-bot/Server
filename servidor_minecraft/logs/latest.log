@@ -244,3 +244,21 @@ java.lang.NullPointerException: null
 [19:31:00] [Server thread/INFO]: Zatanna917 fell from a high place
 [19:31:02] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4076.1713639875798,y=45.0,z=5046.013910422362,pitch=65.84998,yaw=60.321003}
 [19:31:03] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[19:31:19] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/9911, uuid='7c41b8d2-a63a-493d-a3ef-52362b21a733', l='ServerLevel[world_nether]', x=-4084.50, y=42.50, z=5036.50, cpos=[-256, 314], tl=451, v=true] died: Zatanna917 died here! died
+[19:31:19] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 19:30:56 UTC 2025'/9912, uuid='2858d227-e05b-4843-8871-8f5df0e0f3f2', l='ServerLevel[world_nether]', x=-4084.50, y=42.25, z=5036.50, cpos=[-256, 314], tl=451, v=true] died: Died at Sun Sep 28 19:30:56 UTC 2025 died
+[19:31:19] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 fell from a high place'/9913, uuid='e8035f5a-38a3-4f15-9779-a3060a412bc0', l='ServerLevel[world_nether]', x=-4084.50, y=42.00, z=5036.50, cpos=[-256, 314], tl=451, v=true] died: Reason: Zatanna917 fell from a high place died
+[19:31:35] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/9925, uuid='d7dc3896-5afa-496e-84a7-02e2ab29d876', l='ServerLevel[world_nether]', x=-4076.50, y=46.50, z=5046.50, cpos=[-255, 315], tl=661, v=true] died: Zatanna917 died here! died
+[19:31:35] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 19:31:02 UTC 2025'/9926, uuid='93c03f99-5d6b-441a-841d-e8865fdf6684', l='ServerLevel[world_nether]', x=-4076.50, y=46.25, z=5046.50, cpos=[-255, 315], tl=661, v=true] died: Died at Sun Sep 28 19:31:02 UTC 2025 died
+[19:31:35] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 fell from a high place'/9927, uuid='ef22f066-1444-4ecb-89f3-293a5611f46b', l='ServerLevel[world_nether]', x=-4076.50, y=46.00, z=5046.50, cpos=[-255, 315], tl=661, v=true] died: Reason: Zatanna917 fell from a high place died
+[19:31:37] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/9891, uuid='3edcb531-8cc6-4de4-8a25-c4abc05eb936', l='ServerLevel[world_nether]', x=-4077.50, y=46.50, z=5046.50, cpos=[-255, 315], tl=1044, v=true] died: Zatanna917 died here! died
+[19:31:37] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 19:30:45 UTC 2025'/9892, uuid='3dcd675d-d2c1-48a6-ba21-188fbcf9dfad', l='ServerLevel[world_nether]', x=-4077.50, y=46.25, z=5046.50, cpos=[-255, 315], tl=1044, v=true] died: Died at Sun Sep 28 19:30:45 UTC 2025 died
+[19:31:37] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 fell from a high place'/9893, uuid='61ed1cd8-c447-4faf-8e54-fd049e9782ed', l='ServerLevel[world_nether]', x=-4077.50, y=46.00, z=5046.50, cpos=[-255, 315], tl=1044, v=true] died: Reason: Zatanna917 fell from a high place died
+[19:36:14] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[19:36:31] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[19:46:17] [Server thread/INFO]: Zatanna917 issued server command: /home
+[19:46:31] [Server thread/INFO]: Zatanna917 issued server command: /delhome whiters
+[19:47:48] [Server thread/INFO]: Zatanna917 issued server command: /sethome whiters
+[19:49:02] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[19:49:04] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[19:49:07] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[19:50:17] [Server thread/INFO]: Zatanna917 issued server command: /home 2
