@@ -225,3 +225,22 @@ java.lang.NullPointerException: null
 [19:19:35] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
 [19:19:42] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
 [19:20:00] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[19:21:41] [Server thread/INFO]: Zatanna917 issued server command: /tpa
+[19:21:45] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[19:24:33] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[19:26:36] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[19:27:19] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[19:27:21] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[19:27:22] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[19:27:22] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[19:27:26] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[19:30:43] [Server thread/INFO]: Zatanna917 fell from a high place
+[19:30:45] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:30:45] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4077.103771425307,y=45.0,z=5046.176359402097,pitch=79.799934,yaw=167.72253}
+[19:30:48] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[19:30:54] [Server thread/INFO]: Zatanna917 fell from a high place
+[19:30:56] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4084.4444854283224,y=41.0,z=5036.199731524011,pitch=65.849976,yaw=58.970978}
+[19:30:57] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[19:31:00] [Server thread/INFO]: Zatanna917 fell from a high place
+[19:31:02] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4076.1713639875798,y=45.0,z=5046.013910422362,pitch=65.84998,yaw=60.321003}
+[19:31:03] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
