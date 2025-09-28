@@ -21,13 +21,13 @@ timestamps:
 money: '0'
 last-account-name: Zatanna917
 lastlocation:
-  world: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
-  world-name: world_nether
-  x: -4064.5
-  y: 146.13026674235962
-  z: 5059.5
-  yaw: -98.37601470947266
-  pitch: -90.0
+  world: 91084f46-1926-44ac-a6af-cefb9c8223f7
+  world-name: world
+  x: -32518.985733100337
+  y: 194.63465588733217
+  z: 40446.64167821747
+  yaw: 16.82302474975586
+  pitch: 9.149996757507324
 logoutlocation:
   world: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
   world-name: world_nether
