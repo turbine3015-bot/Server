@@ -6387,3 +6387,6 @@
 [2025-09-28 19:59:28] [INFO   ] Spawning farmhouse at -2752,64,1344 with rotation of WEST 
 [2025-09-28 19:59:28] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at -2771 0 1359 in a room of size 9x7 
 [2025-09-28 19:59:28] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -2764 0 1382 in a room of size 19x20 
+[2025-09-28 20:37:42] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -140,148 
+[2025-09-28 20:38:02] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -172,148 
+[2025-09-28 20:46:51] [INFO   ] Large Cave at -1216,28,320 has water level > -5 with populator MushroomCavePopulator 

@@ -281,3 +281,20 @@ java.lang.NullPointerException: null
 [20:18:12] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
 [20:18:20] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
 [20:22:15] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[20:35:35] [Server thread/INFO]: Zatanna917 issued server command: /home fortaleza
+[20:36:24] [Server thread/INFO]: Zatanna917 issued server command: /delhome fortaleza
+[20:36:28] [Server thread/INFO]: Zatanna917 issued server command: /sethome blazes
+[20:36:47] [Server thread/INFO]: Zatanna917 issued server command: /fix all
+[20:36:54] [Server thread/INFO]: Zatanna917 issued server command: /tp
+[20:36:57] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[20:37:10] [Server thread/INFO]: El_Heinsenberga has made the advancement [Enchanter]
+[20:37:19] [Server thread/INFO]: Zatanna917 issued server command: /home 1
+[20:38:10] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[20:39:02] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[20:39:05] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[20:43:35] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 lava_bucket 1
+[20:44:17] [User Authenticator #2/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
+[20:44:18] [Server thread/INFO]: Lowisky1 joined the game
+[20:44:18] [Server thread/INFO]: Lowisky1[/127.84.252.18:46039] logged in with entity id 26679 at ([world]-685.4439018304461, 66.0, 280.1160289671029)
+[20:50:29] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[20:50:34] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
