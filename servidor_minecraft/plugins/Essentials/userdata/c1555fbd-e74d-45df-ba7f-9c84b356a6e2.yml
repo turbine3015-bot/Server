@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1759015001476
-  login: 1759034339575
+  logout: 1759042145718
+  login: 1759041767836
 money: '0'
 last-account-name: Lowisky1
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world
-  x: -684.3000000119209
-  y: 62.9375
-  z: 306.0920044717792
-  yaw: -140.67822265625
-  pitch: 7.050018310546875
+  x: -685.4439018304461
+  y: 66.0
+  z: 280.1160289671029
+  yaw: 36.57476806640625
+  pitch: 9.150081634521484

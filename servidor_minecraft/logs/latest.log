@@ -345,3 +345,195 @@ java.lang.NullPointerException: null
 [05:34:55] [Server thread/INFO]: Zatanna917 issued server command: /heal
 [05:35:18] [Server thread/INFO]: Zatanna917 issued server command: /heal
 [05:35:42] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:40:04] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 lava_bucket 30
+[05:40:05] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 lava_bucket 30
+[05:43:52] [Async Chat Thread - #13/INFO]: <Lowisky1> eh
+[05:43:56] [Async Chat Thread - #13/INFO]: <Lowisky1> aca esta el peruano
+[05:44:44] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:47:43] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:48:31] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[05:55:30] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 lava_bucket 30
+[05:55:46] [Server thread/INFO]: Lowisky1 was slain by Drowned
+[05:55:48] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-689.5941307484892,y=62.19257583822347,z=277.69999998807907,pitch=-20.4,yaw=-89.10205}
+[05:55:57] [Server thread/INFO]: Named entity ArmorStand['Lowisky1 died here!'/34948, uuid='f82223a9-fd92-4dce-90af-c314e5bcb7fc', l='ServerLevel[world]', x=-689.50, y=63.50, z=277.50, cpos=[-44, 17], tl=166, v=true] died: Lowisky1 died here! died
+[05:55:57] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 05:55:48 UTC 2025'/34949, uuid='8ec5456e-6788-4f56-a1fc-b862305e5d19', l='ServerLevel[world]', x=-689.50, y=63.25, z=277.50, cpos=[-44, 17], tl=166, v=true] died: Died at Sun Sep 28 05:55:48 UTC 2025 died
+[05:55:57] [Server thread/INFO]: Named entity ArmorStand['Reason: Lowisky1 was slain by Drowned'/34950, uuid='09c0ce2c-8125-45ef-895b-033933a65ecd', l='ServerLevel[world]', x=-689.50, y=63.00, z=277.50, cpos=[-44, 17], tl=166, v=true] died: Reason: Lowisky1 was slain by Drowned died
+[05:56:02] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[05:56:10] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[05:57:14] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[05:58:07] [Server thread/INFO]: Zatanna917 died
+[05:58:08] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4018.171542096558,y=78.0,z=5009.181863143788,pitch=9.149927,yaw=58.97953}
+[05:58:11] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[05:58:14] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/35678, uuid='2d8e6286-e434-4852-be32-0ec374e26814', l='ServerLevel[world_nether]', x=-4018.50, y=79.50, z=5009.50, cpos=[-252, 313], tl=115, v=true] died: Zatanna917 died here! died
+[05:58:14] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 05:58:08 UTC 2025'/35679, uuid='84cb318f-f772-43af-8c19-4686ac18ff8c', l='ServerLevel[world_nether]', x=-4018.50, y=79.25, z=5009.50, cpos=[-252, 313], tl=115, v=true] died: Died at Sun Sep 28 05:58:08 UTC 2025 died
+[05:58:14] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 died'/35680, uuid='59416f36-550f-4155-a0fa-daaf3f4a6202', l='ServerLevel[world_nether]', x=-4018.50, y=79.00, z=5009.50, cpos=[-252, 313], tl=115, v=true] died: Reason: Zatanna917 died died
+[05:59:22] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:04:16] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:04:53] [Server thread/INFO]: Zatanna917 issued server command: /back
+[06:05:34] [Async Chat Thread - #15/INFO]: <Lowisky1> fue asesinado por un pez globo
+[06:05:35] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:05:43] [Server thread/INFO]: Zatanna917 was slain by Wither Skeleton
+[06:05:45] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4003.477640577338,y=74.0,z=5025.863864542692,pitch=13.499978,yaw=6.4532166}
+[06:05:47] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:05:50] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/38839, uuid='c1f4d589-2abf-4482-8681-f4e348b0a0e4', l='ServerLevel[world_nether]', x=-4003.50, y=75.50, z=5025.50, cpos=[-251, 314], tl=94, v=true] died: Zatanna917 died here! died
+[06:05:50] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:05:45 UTC 2025'/38840, uuid='87d2e7c7-75a7-49ac-b12d-b06583141802', l='ServerLevel[world_nether]', x=-4003.50, y=75.25, z=5025.50, cpos=[-251, 314], tl=94, v=true] died: Died at Sun Sep 28 06:05:45 UTC 2025 died
+[06:05:50] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Wither Skeleton'/38841, uuid='c4e5241a-a3e4-4709-9b97-a72d0b69cb49', l='ServerLevel[world_nether]', x=-4003.50, y=75.00, z=5025.50, cpos=[-251, 314], tl=94, v=true] died: Reason: Zatanna917 was slain by Wither Skeleton died
+[06:06:55] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[06:07:30] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[06:07:36] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[06:08:16] [Async Chat Thread - #17/INFO]: <Lowisky1> van a querer las pociones ?
+[06:08:19] [Async Chat Thread - #17/INFO]: <~Elantibolitas> si
+[06:09:20] [Async Chat Thread - #19/INFO]: <Lowisky1> para matar arañas
+[06:09:21] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[06:09:24] [Async Chat Thread - #19/INFO]: <Lowisky1> o veo si encuentro
+[06:09:34] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[06:10:13] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[06:10:52] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[06:11:03] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:12:56] [Server thread/INFO]: El_Heinsenberga was slain by Magma Cube
+[06:12:58] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4004.2859244095866,y=53.19366615334313,z=5072.484441658974,pitch=0.6000662,yaw=-85.62195}
+[06:13:11] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[06:13:12] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[06:13:15] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/40866, uuid='7bfde42c-ab6e-40d2-b586-02b748468bed', l='ServerLevel[world_nether]', x=-4004.50, y=54.50, z=5072.50, cpos=[-251, 317], tl=331, v=true] died: El_Heinsenberga died here! died
+[06:13:15] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:12:58 UTC 2025'/40867, uuid='1a43ae7d-dee1-49fd-9f80-d8f03f0ab275', l='ServerLevel[world_nether]', x=-4004.50, y=54.25, z=5072.50, cpos=[-251, 317], tl=331, v=true] died: Died at Sun Sep 28 06:12:58 UTC 2025 died
+[06:13:15] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Magma Cube'/40868, uuid='af7e750c-f0d9-4fa5-b234-792f08e0fa4b', l='ServerLevel[world_nether]', x=-4004.50, y=54.00, z=5072.50, cpos=[-251, 317], tl=331, v=true] died: Reason: El_Heinsenberga was slain by Magma Cube died
+[06:13:22] [Server thread/INFO]: Lowisky1 has made the advancement [Cover Me with Diamonds]
+[06:17:42] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:17:53] [Async Chat Thread - #21/INFO]: <Lowisky1> bueno
+[06:18:00] [Async Chat Thread - #21/INFO]: <Lowisky1> no encontre ninguna
+[06:18:01] [Server thread/INFO]: Zatanna917 died
+[06:18:03] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-3987.5710056325593,y=53.7531999805212,z=5091.6283345540105,pitch=15.59998,yaw=-5.228912}
+[06:18:07] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:18:11] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/42526, uuid='972ff2e7-7069-443c-bebc-27cf7c97d879', l='ServerLevel[world_nether]', x=-3987.50, y=54.50, z=5091.50, cpos=[-250, 318], tl=151, v=true] died: Zatanna917 died here! died
+[06:18:11] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:18:03 UTC 2025'/42527, uuid='9f143f38-f5d8-4631-b77e-7ff956c47bde', l='ServerLevel[world_nether]', x=-3987.50, y=54.25, z=5091.50, cpos=[-250, 318], tl=151, v=true] died: Died at Sun Sep 28 06:18:03 UTC 2025 died
+[06:18:11] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 died'/42528, uuid='fc45a149-1555-4b10-8030-03e84118f15a', l='ServerLevel[world_nether]', x=-3987.50, y=54.00, z=5091.50, cpos=[-250, 318], tl=151, v=true] died: Reason: Zatanna917 died died
+[06:19:00] [Server thread/INFO]: El_Heinsenberga has made the advancement [Spooky Scary Skeleton]
+[06:19:22] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:20:13] [Server thread/INFO]: Zatanna917 was slain by Wither Skeleton
+[06:20:15] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4010.2936281161456,y=53.0,z=5092.785866148682,pitch=-0.59996307,yaw=-72.88168}
+[06:20:17] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:20:38] [Server thread/INFO]: Zatanna917 was slain by Wither Skeleton
+[06:20:40] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4003.7900394345816,y=54.24918707874468,z=5093.601211282893,pitch=-0.44996446,yaw=-98.38025}
+[06:20:42] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:21:11] [Server thread/INFO]: Zatanna917was fireballed by Blaze
+[06:21:12] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4009.615626068103,y=53.0,z=5091.300000011921,pitch=48.149998,yaw=35.870148}
+[06:21:15] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:21:18] [Async Chat Thread - #23/INFO]: <Lowisky1> fue asesinado por tu vieja
+[06:21:20] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/43151, uuid='02c60b76-4678-4538-8876-d50c6849503c', l='ServerLevel[world_nether]', x=-4010.50, y=54.50, z=5092.50, cpos=[-251, 318], tl=1288, v=true] died: Zatanna917 died here! died
+[06:21:20] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:20:15 UTC 2025'/43152, uuid='af3a31d3-f9f9-40cc-8040-4bd814d9dc60', l='ServerLevel[world_nether]', x=-4010.50, y=54.25, z=5092.50, cpos=[-251, 318], tl=1288, v=true] died: Died at Sun Sep 28 06:20:15 UTC 2025 died
+[06:21:20] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Wither Skeleton'/43153, uuid='c260e2fd-e016-412f-b64e-67c36d34b00f', l='ServerLevel[world_nether]', x=-4010.50, y=54.00, z=5092.50, cpos=[-251, 318], tl=1288, v=true] died: Reason: Zatanna917 was slain by Wither Skeleton died
+[06:21:27] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/43246, uuid='5e133cac-cacb-4b71-9f33-fbe133a5faa9', l='ServerLevel[world_nether]', x=-4003.50, y=55.50, z=5093.50, cpos=[-251, 318], tl=932, v=true] died: Zatanna917 died here! died
+[06:21:27] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:20:40 UTC 2025'/43247, uuid='78d0dd5a-c276-46a8-8167-e83a5b3871e0', l='ServerLevel[world_nether]', x=-4003.50, y=55.25, z=5093.50, cpos=[-251, 318], tl=932, v=true] died: Died at Sun Sep 28 06:20:40 UTC 2025 died
+[06:21:27] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Wither Skeleton'/43248, uuid='379827cd-d463-4134-a2e6-c9a824d99f42', l='ServerLevel[world_nether]', x=-4003.50, y=55.00, z=5093.50, cpos=[-251, 318], tl=932, v=true] died: Reason: Zatanna917 was slain by Wither Skeleton died
+[06:21:31] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/43385, uuid='9c8d1987-2d8d-401d-8757-0548502c5ddd', l='ServerLevel[world_nether]', x=-4009.50, y=54.50, z=5091.50, cpos=[-251, 318], tl=371, v=true] died: Zatanna917 died here! died
+[06:21:31] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:21:12 UTC 2025'/43386, uuid='fb5ee8f6-072f-4252-9486-72dc51bdad0c', l='ServerLevel[world_nether]', x=-4009.50, y=54.25, z=5091.50, cpos=[-251, 318], tl=371, v=true] died: Died at Sun Sep 28 06:21:12 UTC 2025 died
+[06:21:31] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917was fireballed by Blaze'/43387, uuid='a647b522-2d97-4f8e-933b-ef3a8c2e4b65', l='ServerLevel[world_nether]', x=-4009.50, y=54.00, z=5091.50, cpos=[-251, 318], tl=371, v=true] died: Reason: Zatanna917was fireballed by Blaze died
+[06:23:18] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:25:10] [Server thread/INFO]: Lowisky1 has made the advancement [Local Brewery]
+[06:25:23] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:25:36] [Async Chat Thread - #24/INFO]: <Lowisky1> tienen verrugas?
+[06:26:08] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:26:11] [Async Chat Thread - #25/INFO]: <El_Heinsenberga> habajo de la escalera hay una cueva
+[06:26:14] [Async Chat Thread - #25/INFO]: <El_Heinsenberga> ahi estan
+[06:26:26] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:26:27] [Async Chat Thread - #24/INFO]: <Lowisky1> habajo?
+[06:26:50] [Async Chat Thread - #25/INFO]: <El_Heinsenberga> fijate bine atras de las escaleras
+[06:27:08] [Async Chat Thread - #24/INFO]: <Lowisky1> que escaleras?
+[06:27:14] [Async Chat Thread - #25/INFO]: <~Elantibolitas> de donde estan los aldeanos
+[06:27:19] [Async Chat Thread - #24/INFO]: <~Elantibolitas> en las escaleras de caracol
+[06:27:21] [Async Chat Thread - #24/INFO]: <El_Heinsenberga> donde se tradea con los aldeanos
+[06:27:25] [Async Chat Thread - #24/INFO]: <~Elantibolitas> abajo hay un pasillo secreto
+[06:27:30] [Async Chat Thread - #24/INFO]: <El_Heinsenberga> pelotudo
+[06:28:05] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:29:21] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:29:33] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:29:39] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:29:57] [Async Chat Thread - #26/INFO]: <Lowisky1> anda saber
+[06:30:15] [Async Chat Thread - #26/INFO]: <El_Heinsenberga> ciego ql fijate bien
+[06:30:16] [Server thread/INFO]: Zatanna917 issued server command: /tp Lowisky1
+[06:30:28] [Async Chat Thread - #26/INFO]: <El_Heinsenberga> hay un puto hueco en el piso
+[06:30:30] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:30:42] [Server thread/INFO]: Zatanna917 issued server command: /fix
+[06:30:44] [Async Chat Thread - #27/INFO]: <Lowisky1> ya era no les hago
+[06:31:12] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:31:16] [Server thread/INFO]: Zatanna917 issued server command: /fix all
+[06:32:14] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
+[06:32:16] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4014.699999988079,y=53.42527412219723,z=5072.300000011921,pitch=26.4002,yaw=-25.787354}
+[06:32:20] [Async Chat Thread - #28/INFO]: <El_Heinsenberga> hay un puto hueco en el piso
+[06:32:29] [Async Chat Thread - #28/INFO]: <Lowisky1> na mentira boludo
+[06:32:31] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[06:32:33] [Async Chat Thread - #29/INFO]: <Lowisky1> venga uno a buscar
+[06:32:34] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[06:32:46] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/45850, uuid='81cf3522-2ac1-4877-92e6-9e766e4786b5', l='ServerLevel[world_nether]', x=-4014.50, y=54.50, z=5072.50, cpos=[-251, 317], tl=606, v=true] died: El_Heinsenberga died here! died
+[06:32:46] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:32:16 UTC 2025'/45851, uuid='44073892-5c9b-4071-82b2-335ea2d8f090', l='ServerLevel[world_nether]', x=-4014.50, y=54.25, z=5072.50, cpos=[-251, 317], tl=606, v=true] died: Died at Sun Sep 28 06:32:16 UTC 2025 died
+[06:32:46] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Zombified Piglin'/45852, uuid='4ea44d32-7017-47e8-8259-5739042e1dae', l='ServerLevel[world_nether]', x=-4014.50, y=54.00, z=5072.50, cpos=[-251, 317], tl=606, v=true] died: Reason: El_Heinsenberga was slain by Zombified Piglin died
+[06:35:48] [Async Chat Thread - #30/INFO]: <Lowisky1> i diai?
+[06:37:43] [Server thread/INFO]: Villager Villager['█                  '/24781, uuid='0a69fe29-1266-4c74-b850-d19ec0b614b7', l='ServerLevel[world]', x=-690.50, y=60.00, z=272.70, cpos=[-44, 17], tl=99014, v=true] died, message: '█                   was slain by Bachata'
+[06:38:11] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[06:38:24] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[06:38:25] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[06:38:27] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[06:39:29] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:40:53] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:41:34] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
+[06:41:34] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
+[06:41:34] [Server thread/INFO]: Lowisky1 |||||||||| left the game
+[06:41:40] [Server thread/INFO]: Villager Villager['▌                   '/184, uuid='0350a171-59f6-4157-b65d-5a2be220eaf8', l='ServerLevel[world]', x=-692.50, y=60.59, z=272.70, cpos=[-44, 17], tl=150494, v=true] died, message: '▌                    was slain by Bachata'
+[06:41:43] [User Authenticator #3/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
+[06:41:44] [Server thread/INFO]: Lowisky1 joined the game
+[06:41:44] [Server thread/INFO]: Lowisky1[/127.84.252.18:39175] logged in with entity id 47927 at ([world]-692.2466734090461, 61.0, 273.6762910887849)
+[06:41:56] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
+[06:41:56] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
+[06:41:56] [Server thread/INFO]: Lowisky1 |||||||||| left the game
+[06:41:56] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[06:42:03] [Server thread/INFO]: Villager Villager['▌                   '/27082, uuid='7e6973ad-8943-439e-b857-bf31e923a4cf', l='ServerLevel[world]', x=-694.50, y=60.00, z=272.70, cpos=[-44, 17], tl=91559, v=true] died, message: '▌                    was slain by Bachata'
+[06:42:03] [User Authenticator #3/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
+[06:42:04] [Server thread/INFO]: Lowisky1 joined the game
+[06:42:04] [Server thread/INFO]: Lowisky1[/127.84.252.18:57569] logged in with entity id 48000 at ([world]-694.5386043542214, 61.0, 273.44640456878346)
+[06:42:18] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
+[06:42:18] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
+[06:42:18] [Server thread/INFO]: Lowisky1 |||||||||| left the game
+[06:42:26] [User Authenticator #3/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
+[06:42:26] [Server thread/INFO]: Lowisky1 joined the game
+[06:42:26] [Server thread/INFO]: Lowisky1[/127.84.252.18:49235] logged in with entity id 48063 at ([world]-696.1898169103721, 61.0, 273.5468068452007)
+[06:42:37] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
+[06:42:37] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
+[06:42:37] [Server thread/INFO]: Lowisky1 left the game
+[06:42:45] [Server thread/INFO]: Villager Villager['█                  '/191, uuid='e8f81e49-aa25-400c-9b6c-db6924adf80b', l='ServerLevel[world]', x=-696.50, y=60.59, z=272.70, cpos=[-44, 17], tl=151801, v=true] died, message: '█                   was slain by Bachata'
+[06:42:46] [User Authenticator #3/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
+[06:42:47] [Server thread/INFO]: Lowisky1 joined the game
+[06:42:47] [Server thread/INFO]: Lowisky1[/127.84.252.18:40785] logged in with entity id 48116 at ([world]-696.5255459126489, 61.0, 274.3853852212292)
+[06:43:51] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[06:43:56] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:44:16] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[06:44:17] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[06:44:50] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[06:45:29] [Async Chat Thread - #33/INFO]: <Lowisky1> van a querer las pociones de fuego?
+[06:45:31] [Server thread/INFO]: Zatanna917 was slain by Wither Skeleton
+[06:45:33] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4072.41360127508,y=74.0,z=5064.746047057382,pitch=29.69998,yaw=85.372025}
+[06:45:38] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[06:45:40] [Async Chat Thread - #33/INFO]: <El_Heinsenberga> ci
+[06:45:42] [Server thread/INFO]: Zatanna917 issued server command: /god
+[06:45:46] [Async Chat Thread - #33/INFO]: <Lowisky1> venga por ellas
+[06:45:53] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/49628, uuid='8e1f4b64-dc6d-492f-81fb-bfa152f6b6c7', l='ServerLevel[world_nether]', x=-4072.50, y=75.50, z=5064.50, cpos=[-255, 316], tl=405, v=true] died: Zatanna917 died here! died
+[06:45:53] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:45:33 UTC 2025'/49629, uuid='fc678955-95c5-4aa7-b285-f4574300e315', l='ServerLevel[world_nether]', x=-4072.50, y=75.25, z=5064.50, cpos=[-255, 316], tl=405, v=true] died: Died at Sun Sep 28 06:45:33 UTC 2025 died
+[06:45:53] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Wither Skeleton'/49630, uuid='66624079-5ff8-4fa3-8904-6b6087ed21cc', l='ServerLevel[world_nether]', x=-4072.50, y=75.00, z=5064.50, cpos=[-255, 316], tl=405, v=true] died: Reason: Zatanna917 was slain by Wither Skeleton died
+[06:46:21] [Server thread/INFO]: Lowisky1 has reached the goal [Zombie Doctor]
+[06:46:40] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[06:46:48] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[06:46:52] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[06:46:54] [Server thread/INFO]: Zatanna917 issued server command: /fix all
+[06:46:56] [Server thread/INFO]: Zatanna917 issued server command: /god
+[06:47:14] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[06:47:23] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[06:47:35] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[06:47:58] [Async Chat Thread - #36/INFO]: <Lowisky1> tambien les hice un trading hall
+[06:48:53] [Async Chat Thread - #36/INFO]: <Lowisky1> bueno yo me voy a dormir
+[06:48:56] [Async Chat Thread - #36/INFO]: <Lowisky1> suerte
+[06:49:02] [Async Chat Thread - #36/INFO]: <El_Heinsenberga> chau
+[06:49:05] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
+[06:49:05] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
+[06:49:05] [Server thread/INFO]: Lowisky1 left the game
+[06:49:22] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[06:49:35] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept+
+[06:49:37] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
