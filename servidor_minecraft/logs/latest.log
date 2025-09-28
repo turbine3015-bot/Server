@@ -208,3 +208,13 @@ java.lang.NullPointerException: null
 [18:49:39] [Server thread/INFO]: El_Heinsenberga joined the game
 [18:49:39] [Server thread/INFO]: El_Heinsenberga[/127.203.114.172:56023] logged in with entity id 1909 at ([world_nether]-4078.6735905724368, 74.0, 5061.571841541493)
 [18:49:44] [Server thread/WARN]: Zatanna917 moved wrongly!
+[18:49:54] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[18:49:56] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[18:50:13] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[18:50:56] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[18:51:04] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[18:58:14] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[18:59:02] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[18:59:07] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[18:59:09] [Server thread/INFO]: Zatanna917 issued server command: /back
+[18:59:11] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
