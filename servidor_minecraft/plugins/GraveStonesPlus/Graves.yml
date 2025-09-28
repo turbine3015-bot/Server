@@ -3174,6 +3174,192 @@ brokengraves:
   EXP: 70
   DeathMessage: Zatanna917 was slain by Zombified Piglin
 - ==: com.bencodez.gravestonesplus.graves.GravesConfig
+  DestroyedTime: 1759020406255
+  Destroyed: true
+  PlayerName: Zatanna917
+  X: -32521
+  Y: 222
+  Time: 1759020341966
+  Z: 40453
+  Items:
+    0:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:water_bucket
+      count: 1
+      schema_version: 1
+    -1:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_helmet
+      count: 1
+      components:
+        minecraft:damage: '119'
+      schema_version: 1
+    33:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:bucket
+      count: 1
+      schema_version: 1
+    -2:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_chestplate
+      count: 1
+      components:
+        minecraft:enchantments: '{"minecraft:projectile_protection":4}'
+        minecraft:damage: '156'
+      schema_version: 1
+    34:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:golden_carrot
+      count: 32
+      schema_version: 1
+    -3:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_leggings
+      count: 1
+      components:
+        minecraft:enchantments: '{"minecraft:protection":2}'
+        minecraft:damage: '94'
+      schema_version: 1
+    -4:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_boots
+      count: 1
+      components:
+        minecraft:damage: '119'
+      schema_version: 1
+    -5:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:shield
+      count: 1
+      components:
+        minecraft:damage: '20'
+      schema_version: 1
+    8:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:player_head
+      count: 1
+      components:
+        minecraft:profile: '{id:[I;-313005115,1884175265,-1910890889,1300776243],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRjYzZlYjQwZjNiYWRhNDFlNDMzOTg4OGQ2ZDIwNzQzNzU5OGJkYmQxNzVjMmU3MzExOTFkNWE5YTQyZDNjOCJ9fX0="}]}'
+        minecraft:custom_name: '"§eBackpack"'
+      schema_version: 1
+    9:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_sword
+      count: 1
+      components:
+        minecraft:repair_cost: '31'
+        minecraft:enchantments: '{"minecraft:looting":3,"minecraft:mending":1,"minecraft:smite":5,"minecraft:sweeping_edge":3}'
+      schema_version: 1
+    10:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_pickaxe
+      count: 1
+      components:
+        minecraft:repair_cost: '31'
+        minecraft:enchantments: '{"minecraft:efficiency":5,"minecraft:fortune":3,"minecraft:mending":1,"minecraft:unbreaking":3}'
+        minecraft:damage: '884'
+      schema_version: 1
+    11:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_axe
+      count: 1
+      components:
+        minecraft:repair_cost: '7'
+        minecraft:enchantments: '{"minecraft:efficiency":5,"minecraft:fortune":3,"minecraft:mending":1,"minecraft:sharpness":5,"minecraft:unbreaking":3}'
+      schema_version: 1
+    12:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_shovel
+      count: 1
+      components:
+        minecraft:repair_cost: '15'
+        minecraft:enchantments: '{"minecraft:efficiency":5,"minecraft:mending":1,"minecraft:silk_touch":1,"minecraft:unbreaking":3}'
+        minecraft:damage: '10'
+      schema_version: 1
+    13:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:flint_and_steel
+      count: 1
+      schema_version: 1
+    14:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:netherrack
+      count: 64
+      schema_version: 1
+    15:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:netherrack
+      count: 64
+      schema_version: 1
+    16:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:netherrack
+      count: 64
+      schema_version: 1
+    18:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:netherrack
+      count: 28
+      schema_version: 1
+    19:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:nether_bricks
+      count: 1
+      schema_version: 1
+    21:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:obsidian
+      count: 24
+      schema_version: 1
+    22:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:stone_brick_stairs
+      count: 1
+      schema_version: 1
+    23:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:smooth_stone
+      count: 31
+      schema_version: 1
+    24:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:stone_brick_slab
+      count: 64
+      schema_version: 1
+    26:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:smooth_stone
+      count: 64
+      schema_version: 1
+  UUID: 6fd8954e-bb1f-4654-b42e-ce4c92b762eb
+  World: 91084f46-1926-44ac-a6af-cefb9c8223f7
+  EXP: 49
+  DeathMessage: Zatanna917 was slain by Wither Skeleton
+- ==: com.bencodez.gravestonesplus.graves.GravesConfig
   DestroyedTime: 1759004423745
   Destroyed: true
   PlayerName: Zatanna917

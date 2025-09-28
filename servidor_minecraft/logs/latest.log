@@ -27,3 +27,33 @@
 [00:36:51] [Server thread/INFO]: Zatanna917 issued server command: /sethome cabezas
 [00:36:54] [Server thread/INFO]: Zatanna917 issued server command: /home 6
 [00:36:55] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[00:39:57] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[00:40:37] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[00:40:39] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[00:40:42] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[00:44:49] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[00:44:53] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[00:44:59] [Server thread/INFO]: Zatanna917 issued server command: /delhome whiters
+[00:45:07] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[00:45:11] [Server thread/INFO]: Zatanna917 issued server command: /sethome whiters
+[00:45:13] [Server thread/INFO]: Zatanna917 issued server command: /sethome whiters
+[00:45:17] [Server thread/INFO]: Zatanna917 issued server command: /sethome whiters
+[00:45:20] [Server thread/INFO]: Zatanna917 issued server command: /sethome whiters
+[00:45:26] [Server thread/INFO]: Zatanna917 issued server command: /sethome whiters
+[00:45:39] [Server thread/INFO]: Zatanna917 was slain by Wither Skeleton
+[00:45:42] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-32520.69999998808,y=222.0,z=40453.44155912268,pitch=6.1498895,yaw=-175.7776}
+[00:45:45] [Server thread/INFO]: Zatanna917 issued server command: /sethome whiters
+[00:45:52] [Server thread/INFO]: Zatanna917 issued server command: /home whiters
+[00:45:56] [Server thread/INFO]: Zatanna917 issued server command: /delhome whiters
+[00:46:04] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[00:46:06] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[00:46:43] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[00:46:46] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/94088, uuid='33652912-a4b5-4078-aab7-cf01df4e5ad7', l='ServerLevel[world]', x=-32520.50, y=223.50, z=40453.50, cpos=[-2033, 2528], tl=1286, v=true] died: Zatanna917 died here! died
+[00:46:46] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 00:45:41 UTC 2025'/94089, uuid='0b51dbea-a604-493a-a20b-062e580f0ac1', l='ServerLevel[world]', x=-32520.50, y=223.25, z=40453.50, cpos=[-2033, 2528], tl=1286, v=true] died: Died at Sun Sep 28 00:45:41 UTC 2025 died
+[00:46:46] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Wither Skeleton'/94090, uuid='dde1c805-7417-4ebd-95c2-ef07e916ee5c', l='ServerLevel[world]', x=-32520.50, y=223.00, z=40453.50, cpos=[-2033, 2528], tl=1286, v=true] died: Reason: Zatanna917 was slain by Wither Skeleton died
+[00:46:50] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[00:46:53] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[00:47:01] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[00:47:50] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[00:47:58] [Server thread/INFO]: Zatanna917 issued server command: /sethome whiters
+[00:48:18] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
