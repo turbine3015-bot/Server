@@ -298,3 +298,8 @@ java.lang.NullPointerException: null
 [20:44:18] [Server thread/INFO]: Lowisky1[/127.84.252.18:46039] logged in with entity id 26679 at ([world]-685.4439018304461, 66.0, 280.1160289671029)
 [20:50:29] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
 [20:50:34] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[20:53:46] [Server thread/INFO]: Lowisky1 was slain by El_Heinsenberga
+[20:53:49] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-722.0,y=66.0,z=293.0,pitch=0.0,yaw=0.0}
+[20:54:00] [Server thread/INFO]: Named entity ArmorStand['Lowisky1 died here!'/32777, uuid='f1fa7c7a-f263-4e20-81dc-d5e5160b2263', l='ServerLevel[world]', x=-721.50, y=67.50, z=293.50, cpos=[-46, 18], tl=238, v=true] died: Lowisky1 died here! died
+[20:54:00] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 20:53:48 UTC 2025'/32778, uuid='2e7ea04e-88d3-440d-b135-f9877c9f4c3a', l='ServerLevel[world]', x=-721.50, y=67.25, z=293.50, cpos=[-46, 18], tl=238, v=true] died: Died at Sun Sep 28 20:53:48 UTC 2025 died
+[20:54:00] [Server thread/INFO]: Named entity ArmorStand['Reason: Lowisky1 was slain by El_Heinsenberga'/32779, uuid='20cdc2b9-6554-42c1-b36e-55161a98b321', l='ServerLevel[world]', x=-721.50, y=67.00, z=293.50, cpos=[-46, 18], tl=238, v=true] died: Reason: Lowisky1 was slain by El_Heinsenberga died
