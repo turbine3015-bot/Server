@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1759094678733
+  lastteleport: 1759094832979
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: Lowisky1
 lastlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world
-  x: -704.8840341536437
-  y: 66.43152384527073
-  z: 293.64197691883834
-  yaw: -3.1480712890625
-  pitch: 0.7502977252006531
+  x: -2234.4551006175184
+  y: 43.0
+  z: 1675.300000011921
+  yaw: -85.10650634765625
+  pitch: -43.650020599365234
 logoutlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world

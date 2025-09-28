@@ -338,3 +338,25 @@ java.lang.NullPointerException: null
 [21:24:15] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
 [21:24:32] [Server thread/INFO]: El_Heinsenberga issued server command: /tpac
 [21:24:38] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[21:26:14] [Server thread/INFO]: Lowisky1 fell from a high place
+[21:26:16] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-2234.699999988079,y=45.0,z=1674.9610756878467,pitch=75.450005,yaw=150.0892}
+[21:26:19] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[21:26:22] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[21:26:37] [Server thread/INFO]: Zatanna917 issued server command: /home
+[21:26:38] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[21:27:00] [Server thread/INFO]: Named entity ArmorStand['Lowisky1 died here!'/60689, uuid='3f7c97f1-4238-4dfd-813c-c03e42f35bd6', l='ServerLevel[world]', x=-2234.50, y=46.50, z=1674.50, cpos=[-140, 104], tl=882, v=true] died: Lowisky1 died here! died
+[21:27:00] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 21:26:16 UTC 2025'/60690, uuid='91f5dccc-8857-446c-baca-6a8f59fe94aa', l='ServerLevel[world]', x=-2234.50, y=46.25, z=1674.50, cpos=[-140, 104], tl=882, v=true] died: Died at Sun Sep 28 21:26:16 UTC 2025 died
+[21:27:00] [Server thread/INFO]: Named entity ArmorStand['Reason: Lowisky1 fell from a high place'/60691, uuid='e247179e-6134-416f-873b-af02afa2af06', l='ServerLevel[world]', x=-2234.50, y=46.00, z=1674.50, cpos=[-140, 104], tl=882, v=true] died: Reason: Lowisky1 fell from a high place died
+[21:27:06] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[21:27:08] [Server thread/INFO]: El_Heinsenberga issued server command: /home
+[21:27:12] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[21:30:54] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[21:30:55] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[21:31:17] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 300
+[21:31:30] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 300
+[21:31:31] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 300
+[21:31:50] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 300
+[21:32:06] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 300
+[21:32:36] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 300
+[21:32:39] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[21:32:40] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
