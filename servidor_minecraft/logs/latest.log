@@ -360,3 +360,22 @@ java.lang.NullPointerException: null
 [21:32:36] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 300
 [21:32:39] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
 [21:32:40] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[21:38:08] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[21:38:10] [Server thread/INFO]: Zatanna917 issued server command: /craft
+[21:38:30] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald_block 300
+[21:38:49] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[21:38:55] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:39:00] [Server thread/INFO]: Zatanna917 has reached the goal [Beaconator]
+[21:39:00] [Server thread/INFO]: Zatanna917 has made the advancement [Bring Home the Beacon]
+[21:39:43] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[21:39:47] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[21:39:50] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[21:42:37] [Server thread/INFO]: Villager Villager['█                  '/67, uuid='e52e3769-9187-495b-bad4-d65753e14a7e', l='ServerLevel[world]', x=-690.50, y=60.00, z=280.70, cpos=[-44, 17], tl=131285, v=true] died, message: '█                   was slain by Messi'
+[21:42:53] [Server thread/INFO]: Villager Villager['█                  '/65, uuid='5d8143ee-c72d-45b8-b0d6-a61938a4d902', l='ServerLevel[world]', x=-692.50, y=60.00, z=280.70, cpos=[-44, 17], tl=131587, v=true] died, message: '█                   was slain by Messi'
+[21:43:01] [Server thread/INFO]: Villager Villager['▌                   '/66, uuid='3e004c9d-7aa2-4207-ba43-9cada3cf3ad6', l='ServerLevel[world]', x=-694.50, y=60.00, z=280.70, cpos=[-44, 17], tl=131749, v=true] died, message: '▌                    was slain by Messi'
+[21:43:13] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 chest 64
+[21:43:19] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 chest 64
+[21:43:25] [Server thread/INFO]: Villager Villager['▌                   '/68, uuid='413e16ea-efd9-415d-aef2-fd383b02fba5', l='ServerLevel[world]', x=-696.50, y=60.00, z=280.70, cpos=[-44, 17], tl=132229, v=true] died, message: '▌                    was slain by Messi'
+[21:45:38] [Server thread/INFO]: Zatanna917 issued server command: /plugins
+[21:45:48] [Server thread/INFO]: Zatanna917 issued server command: /cristreecapitator:tc
+[21:45:52] [Server thread/INFO]: Zatanna917 issued server command: /cristreecapitator:help

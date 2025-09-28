@@ -11,7 +11,7 @@ powertoolsenabled: true
 accepting-pay: true
 baltop-exempt: false
 timestamps:
-  lastteleport: 1759094828523
+  lastteleport: 1759095590866
   lastheal: 0
   mute: 0
   jail: 0
@@ -23,11 +23,11 @@ last-account-name: El_Heinsenberga
 lastlocation:
   world: 91084f46-1926-44ac-a6af-cefb9c8223f7
   world-name: world
-  x: -2159.586946259441
-  y: 68.0
-  z: 1666.7801027618962
-  yaw: 136.7452392578125
-  pitch: 11.400045394897461
+  x: -705.0239081008715
+  y: 66.0
+  z: 289.6622048313701
+  yaw: -9.2987060546875
+  pitch: 4.949947834014893
 logoutlocation:
   world: f230b9c6-d9b4-4dd3-b000-3c7ff74ecb1c
   world-name: world_nether
