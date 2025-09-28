@@ -389,3 +389,57 @@ java.lang.NullPointerException: null
 [21:52:55] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
 [22:05:12] [Server thread/INFO]: El_Heinsenberga has reached the goal [Beaconator]
 [22:05:12] [Server thread/INFO]: El_Heinsenberga has made the advancement [Bring Home the Beacon]
+[22:11:52] [Server thread/INFO]: Villager Villager['Villager'/235, uuid='3ae30f16-08fb-43e8-a8d4-3160b6bdf1f7', l='ServerLevel[world]', x=-704.50, y=60.00, z=280.70, cpos=[-45, 17], tl=163896, v=true] died, message: 'Villager was slain by Messi'
+[22:13:56] [Server thread/INFO]: Villager Villager['▌                   '/64, uuid='5763f1d4-6383-4429-a613-1ff57ef7e5f8', l='ServerLevel[world]', x=-700.49, y=60.00, z=280.70, cpos=[-44, 17], tl=168857, v=true] died, message: '▌                    was slain by Messi'
+[22:13:57] [Server thread/INFO]: Villager Villager['Villager'/70, uuid='f1be5ccc-9c46-47ff-9a6a-b5cf29207651', l='ServerLevel[world]', x=-698.50, y=60.00, z=280.70, cpos=[-44, 17], tl=168879, v=true] died, message: 'Villager was slain by Messi'
+[22:14:02] [Server thread/INFO]: El_Heinsenberga issued server command: /home
+[22:14:12] [Async Chat Thread - #4/INFO]: <El_Heinsenberga> zzzzzzzzzzzz
+[22:14:13] [Async Chat Thread - #3/INFO]: <El_Heinsenberga> zzzz
+[22:14:16] [Server thread/INFO]: Villager Villager['▌                   '/237, uuid='97a819c9-8fa1-477d-8eb1-cfc01c4d2c89', l='ServerLevel[world]', x=-702.50, y=60.59, z=272.70, cpos=[-44, 17], tl=166789, v=true] died, message: '▌                    was slain by Bachata'
+[22:14:17] [Server thread/INFO]: Villager Villager['▌                   '/234, uuid='ef94fc8d-ce9a-48f4-9d25-ba07495d38ea', l='ServerLevel[world]', x=-702.50, y=60.00, z=280.70, cpos=[-44, 17], tl=166799, v=true] died, message: '▌                    was slain by Messi'
+[22:14:44] [Server thread/INFO]: Villager Villager['█                  '/62, uuid='5ae82e86-fee3-4cc5-8357-8a33f7351251', l='ServerLevel[world]', x=-698.50, y=60.00, z=272.30, cpos=[-44, 17], tl=169823, v=true] died, message: '█                   was slain by Bachata'
+[22:15:20] [Server thread/INFO]: Villager Villager['█                  '/69, uuid='185550be-8fa2-4add-88fe-6f1b8c69ad31', l='ServerLevel[world]', x=-700.50, y=60.00, z=272.30, cpos=[-44, 17], tl=170535, v=true] died, message: '█                   was slain by Bachata'
+[22:15:50] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa
+[22:15:55] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[22:16:10] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[22:16:11] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[22:17:06] [Server thread/INFO]: Villager Villager['▌                   '/239, uuid='ad71fded-d807-4d94-9577-a6a93dcc5106', l='ServerLevel[world]', x=-704.50, y=60.00, z=272.30, cpos=[-45, 17], tl=170178, v=true] died, message: '▌                    was slain by Bachata'
+[22:21:14] [Server thread/INFO]: Zatanna917 issued server command: /fix
+[22:21:17] [Server thread/INFO]: Zatanna917 issued server command: /fix all
+[22:30:12] [Server thread/INFO]: El_Heinsenberga issued server command: /home
+[22:33:04] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[22:37:52] [Async Chat Thread - #5/INFO]: <Lowisky1> Cayo desde muy alto
+[23:00:50] [Server thread/WARN]: Happy Ghast (vehicle of Zatanna917) moved wrongly! 0.32730665311486384
+[23:03:18] [Server thread/WARN]: Happy Ghast (vehicle of Zatanna917) moved wrongly! 0.4851480297177445
+[23:03:18] [Server thread/WARN]: Happy Ghast (vehicle of Zatanna917) moved wrongly! 0.4851480297177445
+[23:13:07] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 water_bucket 1
+[23:14:01] [Server thread/WARN]: Happy Ghast (vehicle of Zatanna917) moved wrongly! 0.48903455228954246
+[23:18:38] [Server thread/INFO]: Zatanna917 fell from a high place
+[23:18:40] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-775.3569082957475,y=66.0,z=380.74856741960303,pitch=72.299995,yaw=106.65021}
+[23:18:43] [Server thread/INFO]: Zatanna917 issued server command: /back
+[23:18:45] [Server thread/INFO]: Zatanna917 issued server command: /back
+[23:19:04] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/101931, uuid='0b5baaf3-901f-470f-b92b-476451181b15', l='ServerLevel[world]', x=-775.50, y=67.50, z=380.50, cpos=[-49, 23], tl=484, v=true] died: Zatanna917 died here! died
+[23:19:04] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 23:18:40 UTC 2025'/101932, uuid='1f0e2ade-6aaa-40d4-bfdd-8fdc9a5009b1', l='ServerLevel[world]', x=-775.50, y=67.25, z=380.50, cpos=[-49, 23], tl=484, v=true] died: Died at Sun Sep 28 23:18:40 UTC 2025 died
+[23:19:04] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 fell from a high place'/101933, uuid='17c32396-57d6-4985-89fc-825530d9a1b2', l='ServerLevel[world]', x=-775.50, y=67.00, z=380.50, cpos=[-49, 23], tl=484, v=true] died: Reason: Zatanna917 fell from a high place died
+[23:19:19] [Async Chat Thread - #8/INFO]: <El_Heinsenberga> dame la cuerda
+[23:19:30] [Async Chat Thread - #8/INFO]: <Lowisky1> colgate de esta
+[23:20:50] [Server thread/WARN]: El_Heinsenberga was kicked for floating too long!
+[23:20:50] [Server thread/INFO]: El_Heinsenberga lost connection: Flying is not enabled on this server
+[23:20:50] [Server thread/INFO]: [voicechat] Disconnecting client El_Heinsenberga
+[23:20:50] [Server thread/INFO]: El_Heinsenberga left the game
+[23:21:04] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[23:21:05] [User Authenticator #3/INFO]: UUID of player El_Heinsenberga is 40d2c7f8-5053-4955-bb1c-f4b9107602fd
+[23:21:06] [Server thread/INFO]: El_Heinsenberga joined the game
+[23:21:06] [Server thread/INFO]: El_Heinsenberga[/127.203.114.172:44451] logged in with entity id 102572 at ([world]-770.4610140111448, 114.44652281219793, 372.94762430011735)
+[23:21:10] [Server thread/INFO]: El_Heinsenberga fell from a high place
+[23:21:12] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[23:21:12] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-770.4610140111448,y=66.0,z=372.94762430011735,pitch=72.76886,yaw=-4.4801016}
+[23:21:48] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/102584, uuid='4e9a73a1-573c-4743-bc51-f3f8be4f2b9a', l='ServerLevel[world]', x=-770.50, y=67.50, z=372.50, cpos=[-49, 23], tl=719, v=true] died: El_Heinsenberga died here! died
+[23:21:48] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 23:21:12 UTC 2025'/102585, uuid='d9a90b2b-7137-4e1e-ba1f-cbcdcf2bdd80', l='ServerLevel[world]', x=-770.50, y=67.25, z=372.50, cpos=[-49, 23], tl=719, v=true] died: Died at Sun Sep 28 23:21:12 UTC 2025 died
+[23:21:48] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga fell from a high place'/102586, uuid='dcecd9ef-ac50-4dcf-b852-cd62c2aa777d', l='ServerLevel[world]', x=-770.50, y=67.00, z=372.50, cpos=[-49, 23], tl=719, v=true] died: Reason: El_Heinsenberga fell from a high place died
+[23:32:48] [Server thread/INFO]: Villager Villager['▌                   '/12909, uuid='7e1f63f9-8203-4bdc-9e7b-7e60f9792118', l='ServerLevel[world]', x=-698.50, y=60.00, z=280.70, cpos=[-44, 17], tl=256317, v=true] died, message: '▌                    was slain by Messi'
+[23:33:23] [Server thread/INFO]: Villager Villager['▌                   '/238, uuid='c2349346-6d4d-4af6-9615-c3a47c07c949', l='ServerLevel[world]', x=-698.50, y=60.00, z=272.30, cpos=[-44, 17], tl=261714, v=true] died, message: '▌                    was slain by Bachata'
+[23:52:06] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[23:52:11] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[23:52:44] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[23:56:53] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga

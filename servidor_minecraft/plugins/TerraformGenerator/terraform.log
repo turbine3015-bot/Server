@@ -6406,3 +6406,4 @@
 [2025-09-28 21:10:22] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1732 0 1881 in a room of size 19x20 
 [2025-09-28 21:10:22] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1685 0 1831 in a room of size 20x15 
 [2025-09-28 21:10:22] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1707 0 1859 in a room of size 19x17 
+[2025-09-28 23:07:15] [INFO   ] Spawning Creaking Heart at -1327,68,722 
