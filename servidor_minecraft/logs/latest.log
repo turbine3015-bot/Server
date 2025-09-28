@@ -224,3 +224,25 @@ java.lang.NullPointerException: null
 [04:32:55] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga fell from a high place'/7129, uuid='9b85c671-b1c6-4021-b31a-903d84a986d4', l='ServerLevel[world_nether]', x=-4075.50, y=44.00, z=5030.50, cpos=[-255, 314], tl=832, v=true] died: Reason: El_Heinsenberga fell from a high place died
 [04:34:01] [Server thread/INFO]: Zatanna917 issued server command: /home casa
 [04:34:28] [Server thread/INFO]: Zatanna917 issued server command: /back
+[04:38:57] [User Authenticator #2/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
+[04:38:59] [Server thread/INFO]: Lowisky1 joined the game
+[04:38:59] [Server thread/INFO]: Lowisky1[/127.84.252.18:58201] logged in with entity id 10171 at ([world]-684.3000000119209, 62.9375, 306.0920044717792)
+[04:39:13] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[04:39:15] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[04:39:40] [Server thread/INFO]: El_Heinsenberga died
+[04:39:42] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4038.0,y=75.0,z=5064.0,pitch=0.0,yaw=0.0}
+[04:39:45] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[04:39:50] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[04:40:02] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/13060, uuid='93b416c8-3119-4a36-865f-2773519b751f', l='ServerLevel[world_nether]', x=-4037.50, y=76.50, z=5064.50, cpos=[-253, 316], tl=393, v=true] died: El_Heinsenberga died here! died
+[04:40:02] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 04:39:42 UTC 2025'/13061, uuid='8203c15d-55a8-45ae-b241-36f504cf8737', l='ServerLevel[world_nether]', x=-4037.50, y=76.25, z=5064.50, cpos=[-253, 316], tl=393, v=true] died: Died at Sun Sep 28 04:39:42 UTC 2025 died
+[04:40:02] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga died'/13062, uuid='2018e3a3-13dd-423b-bd8e-fd6de65e4432', l='ServerLevel[world_nether]', x=-4037.50, y=76.00, z=5064.50, cpos=[-253, 316], tl=393, v=true] died: Reason: El_Heinsenberga died died
+[04:40:15] [Async Chat Thread - #4/INFO]: <Lowisky1> lowisky1 cayo desde muy alto
+[04:42:42] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[04:42:44] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[04:42:50] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[04:42:53] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[04:43:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
+[04:44:40] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[04:44:42] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[04:45:28] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[04:45:43] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
