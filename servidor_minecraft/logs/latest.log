@@ -270,3 +270,10 @@ java.lang.NullPointerException: null
 [19:57:47] [Server thread/INFO]: Zatanna917 issued server command: /home 1
 [19:58:07] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
 [19:58:11] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:03:50] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[20:03:51] [Server thread/INFO]: Zatanna917 has made the advancement [Withering Heights]
+[20:03:51] [Server thread/INFO]: El_Heinsenberga has made the advancement [Withering Heights]
+[20:03:54] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[20:04:25] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[20:05:16] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[20:05:20] [Server thread/INFO]: El_Heinsenberga issued server command: /home
