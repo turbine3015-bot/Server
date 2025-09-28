@@ -1,196 +1,196 @@
-[04:25:27] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[04:25:27] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[04:25:27] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[04:25:29] [ServerMain/INFO]: [PluginInitializerManager] Initialized 16 plugins
-[04:25:29] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
+[18:39:56] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[18:39:57] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[18:39:57] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[18:39:58] [ServerMain/INFO]: [PluginInitializerManager] Initialized 16 plugins
+[18:39:58] [ServerMain/INFO]: [PluginInitializerManager] Paper plugins (1):
  - Minepacks (2.5.1-T20250923210429)
-[04:25:29] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (15):
+[18:39:58] [ServerMain/INFO]: [PluginInitializerManager] Bukkit plugins (15):
  - BlockLocker (1.13), CrisTreeCapitator (6.4.4), Essentials (2.21.2), Geyser-Spigot (2.8.3-SNAPSHOT), GraveStonesPlus (1.8.1), HealthBar-Reloaded (2.0.4.2), InstantRestock (2.5.2), LuckPerms (5.5.10), MyPetDownloader (1.2), TerraformGenerator (21.0.1), ViaBackwards (5.4.2), ViaVersion (5.4.2), floodgate (2.2.4-SNAPSHOT (b118-40d320a)), sleep-most (5.6.0), voicechat (2.5.36)
-[04:25:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:25:39] [ServerMain/INFO]: Loaded 1407 recipes
-[04:25:39] [ServerMain/INFO]: Loaded 1520 advancements
-[04:25:39] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[04:25:40] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 644.2ms
-[04:25:40] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[04:25:40] [Server thread/INFO]: Loading properties
-[04:25:40] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[04:25:40] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[04:25:40] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[04:25:40] [Server thread/INFO]: Using 4 threads for Netty based IO
-[04:25:41] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[04:25:41] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[04:25:41] [Server thread/INFO]: Default game type: SURVIVAL
-[04:25:41] [Server thread/INFO]: Generating keypair
-[04:25:41] [Server thread/INFO]: Starting Minecraft server on *:25565
-[04:25:41] [Server thread/INFO]: Using epoll channel type
-[04:25:41] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[04:25:41] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[04:25:42] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
-[04:25:42] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loading 1 libraries... please wait
-[04:25:43] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar
-[04:25:43] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/ow2/asm/asm/7.3.1/asm-7.3.1.jar
-[04:25:43] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/ow2/asm/asm-commons/7.3.1/asm-commons-7.3.1.jar
-[04:25:43] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/ow2/asm/asm-analysis/7.3.1/asm-analysis-7.3.1.jar
-[04:25:43] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/ow2/asm/asm-tree/7.3.1/asm-tree-7.3.1.jar
-[04:25:43] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/ow2/asm/asm-util/7.3.1/asm-util-7.3.1.jar
-[04:25:43] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
-[04:25:43] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
-[04:25:43] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
-[04:25:44] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
-[04:25:44] [Server thread/INFO]: [ViaBackwards] Loading translations...
-[04:25:44] [Server thread/INFO]: [ViaBackwards] Registering protocols...
-[04:25:45] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.10
-[04:25:46] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[04:25:46] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
-[04:25:46] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[04:25:47] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
-[04:25:47] [Server thread/INFO]: [floodgate] Took 990ms to boot Floodgate
-[04:25:47] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
-[04:25:47] [Server thread/INFO]: [MyPetDownloader] Loading server plugin MyPetDownloader v1.2
-[04:25:47] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
-[04:25:47] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.36
-[04:25:47] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v21.0.1
-[04:25:47] [Server thread/INFO]: [Minepacks] Loading server plugin Minepacks v2.5.1-T20250923210429
-[04:25:47] [Server thread/INFO]: [CrisTreeCapitator] Loading server plugin CrisTreeCapitator v6.4.4
-[04:25:47] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.6.0
-[04:25:47] [Server thread/INFO]: [HealthBar-Reloaded] Loading server plugin HealthBar-Reloaded v2.0.4.2
-[04:25:47] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
-[04:25:48] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
-[04:25:48] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
-[04:25:48] [Server thread/INFO]: [GraveStonesPlus] Loading server plugin GraveStonesPlus v1.8.1
-[04:25:48] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.5.2
-[04:25:48] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[04:25:48] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.10
-[04:25:49] [Server thread/INFO]:         __    
-[04:25:49] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
-[04:25:49] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[04:25:49] [Server thread/INFO]: 
-[04:25:49] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[04:25:50] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[04:25:50] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[04:25:50] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 2205ms)
-[04:25:50] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
-[04:25:50] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v21.0.1
-[04:25:51] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
-[04:25:51] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
-[04:25:52] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.8, number: 21.8
-[04:25:52] [Server thread/INFO]: Preparing level "world"
-[04:25:53] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
-[04:25:53] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
-[04:25:53] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[04:25:53] [Server thread/INFO]: Preparing spawn area: 0%
-[04:25:54] [Server thread/INFO]: Preparing spawn area: 2%
-[04:25:54] [Server thread/INFO]: Preparing spawn area: 14%
-[04:25:54] [Server thread/INFO]: Preparing spawn area: 14%
-[04:25:55] [Server thread/INFO]: Time elapsed: 1816 ms
-[04:25:55] [Server thread/INFO]: [TerraformGenerator] world loaded.
-[04:25:55] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[04:25:55] [Server thread/INFO]: Preparing spawn area: 0%
-[04:25:55] [Server thread/INFO]: Preparing spawn area: 0%
-[04:25:56] [Server thread/INFO]: Preparing spawn area: 57%
-[04:25:56] [Server thread/INFO]: Time elapsed: 1030 ms
-[04:25:56] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[04:25:56] [Server thread/INFO]: Preparing spawn area: 0%
-[04:25:56] [Server thread/INFO]: Preparing spawn area: 48%
-[04:25:56] [Server thread/INFO]: Time elapsed: 565 ms
-[04:25:56] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
-[04:25:56] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
-[04:25:56] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
-[04:25:57] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
-[04:25:57] [Server thread/INFO]: [Essentials] No kits found to migrate.
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
-[04:25:57] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[04:25:58] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
-[04:25:58] [Server thread/INFO]: [Essentials] Using locale en
-[04:25:58] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
-[04:25:59] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
-[04:25:59] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
-[04:25:59] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
-[04:25:59] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
-[04:25:59] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[04:25:59] [Server thread/INFO]: [MyPetDownloader] Enabling MyPetDownloader v1.2
-[04:25:59] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
-[04:26:00] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.36
-[04:26:00] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.8-R0.1
-[04:26:00] [Server thread/INFO]: [voicechat] Compatibility version 18
-[04:26:00] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
-[04:26:00] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
-[04:26:00] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.5.1-T20250923210429
-[04:26:00] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
-[04:26:00] [Server thread/INFO]: [Minepacks] Config file successfully loaded.
-[04:26:00] [Server thread/WARN]: [Minepacks] Paper support is experimental! Use at your own risk!
-[04:26:00] [Server thread/WARN]: [Minepacks] No guarantee for data integrity! Backup constantly!
-[04:26:00] [Server thread/INFO]: [Minepacks] Language file successfully loaded. Language: english  Author: GeorgH93
-[04:26:00] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Starting...
-[04:26:01] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Start completed.
-[04:26:01] [Server thread/INFO]: [Minepacks] Item name language file successfully loaded. Language: english  Author: GeorgH93
-[04:26:01] [Server thread/INFO]: [Minepacks] Loading item translations ...
-[04:26:01] [Server thread/INFO]: [Minepacks] Finished loading item translations for 826 items.
-[04:26:01] [Server thread/INFO]: [Minepacks]  Minepacks has been enabled!  :) 
-[04:26:01] [Server thread/INFO]: [CrisTreeCapitator] Enabling CrisTreeCapitator v6.4.4
-[04:26:01] [Server thread/INFO]: [CrisTreeCapitator] WorldGuard not found. Maybe WorldGuard or this plugin are not up to date?
-[04:26:01] [Server thread/INFO]: [CrisTreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
-[04:26:01] [Server thread/INFO]: [CrisTreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
-[04:26:01] [Server thread/INFO]: [CrisTreeCapitator] Enabled
-[04:26:01] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.6.0
-[04:26:02] [Server thread/INFO]: [sleep-most] Hooked to Essentials
-[04:26:02] [Server thread/INFO]: [HealthBar-Reloaded] Enabling HealthBar-Reloaded v2.0.4.2
-[04:26:02] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
-[04:26:04] [Server thread/INFO]: [GraveStonesPlus] Enabling GraveStonesPlus v1.8.1
-[04:26:04] [Server thread/INFO]: [GraveStonesPlus] Loaded LuckPerms hook!
-[04:26:04] [Server thread/INFO]: [GraveStonesPlus] Enabled GraveStonesPlus!
-[04:26:04] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.5.2
-[04:26:05] [Server thread/INFO]: [InfiniteVillagerTrades] Enabled InstantRestock!
-[04:26:05] [Folia Async Scheduler Thread #1/INFO]: [InfiniteVillagerTrades] A new update is available!
-[04:26:05] [Folia Async Scheduler Thread #1/INFO]: [https://modrinth.com/plugin/infinite-villager-trading]
-[04:26:05] [Server thread/INFO]: [spark] Starting background profiler...
-[04:26:05] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[04:26:05] [Server thread/INFO]: [Geyser-Spigot] 
-[04:26:05] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b912 (git-master-dc5fc8f)
-[04:26:05] [Server thread/INFO]: [Geyser-Spigot] 
-[04:26:05] [Server thread/INFO]: [Geyser-Spigot] ******************************************
-[04:26:10] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
-[04:26:10] [Server thread/INFO]: [Geyser-Spigot] Done (4.855s)! Run /geyser help for help!
-[04:26:11] [Server thread/INFO]: Done preparing level "world" (18.763s)
-[04:26:11] [Server thread/INFO]: Running delayed init tasks
-[04:26:11] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
-[04:26:11] [Craft Scheduler Thread - 5 - HealthBar-Reloaded/INFO]: Found a new version: 2.0.5-beta (Yours: v2.0.4.2)
-[04:26:11] [Craft Scheduler Thread - 5 - HealthBar-Reloaded/INFO]: Download it on spigot:
-[04:26:11] [Craft Scheduler Thread - 5 - HealthBar-Reloaded/INFO]: spigotmc.org/resources/104616
-[04:26:11] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
-[04:26:11] [Craft Scheduler Thread - 8 - GraveStonesPlus/INFO]: [GraveStonesPlus] GraveStonesPlus has an update available! Your Version: 1.8.1 New Version: 1.9
-[04:26:12] [Server thread/INFO]: Done (46.186s)! For help, type "help"
-[04:26:12] [Server thread/INFO]: [voicechat] Loading plugins
-[04:26:12] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
-[04:26:12] [Server thread/INFO]: [voicechat] Initializing plugins
-[04:26:12] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
-[04:26:12] [VoiceChatServerThread/INFO]: [voicechat] Voice host is '147.185.221.31:2070'
-[04:26:12] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 2070
-[04:27:12] [User Authenticator #0/INFO]: UUID of player Zatanna917 is 6fd8954e-bb1f-4654-b42e-ce4c92b762eb
-[04:27:12] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, Essentials]
-[04:27:14] [Server thread/INFO]: Zatanna917 joined the game
-[04:27:14] [Folia Async Scheduler Thread #2/WARN]: [InstantRestock] Async task for InstantRestock v2.5.2 generated an exception
+[18:40:05] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[18:40:08] [ServerMain/INFO]: Loaded 1407 recipes
+[18:40:08] [ServerMain/INFO]: Loaded 1520 advancements
+[18:40:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[18:40:09] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 708.2ms
+[18:40:09] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[18:40:09] [Server thread/INFO]: Loading properties
+[18:40:09] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[18:40:10] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[18:40:10] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[18:40:10] [Server thread/INFO]: Using 4 threads for Netty based IO
+[18:40:10] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[18:40:10] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[18:40:10] [Server thread/INFO]: Default game type: SURVIVAL
+[18:40:10] [Server thread/INFO]: Generating keypair
+[18:40:11] [Server thread/INFO]: Starting Minecraft server on *:25565
+[18:40:11] [Server thread/INFO]: Using epoll channel type
+[18:40:11] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[18:40:11] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[18:40:12] [Server thread/INFO]: [Minepacks] PCGF-PluginLib not installed. Switching to standalone mode!
+[18:40:12] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loading 1 libraries... please wait
+[18:40:12] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/openjdk/nashorn/nashorn-core/15.3/nashorn-core-15.3.jar
+[18:40:12] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/ow2/asm/asm/7.3.1/asm-7.3.1.jar
+[18:40:12] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/ow2/asm/asm-commons/7.3.1/asm-commons-7.3.1.jar
+[18:40:12] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/ow2/asm/asm-analysis/7.3.1/asm-analysis-7.3.1.jar
+[18:40:12] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/ow2/asm/asm-tree/7.3.1/asm-tree-7.3.1.jar
+[18:40:12] [Server thread/INFO]: [SpigotLibraryLoader] [GraveStonesPlus] Loaded library /workspaces/Server/servidor_minecraft/libraries/org/ow2/asm/asm-util/7.3.1/asm-util-7.3.1.jar
+[18:40:12] [Server thread/INFO]: [ViaVersion] Loading server plugin ViaVersion v5.4.2
+[18:40:12] [Server thread/INFO]: [ViaVersion] ViaVersion 5.4.2 is now loaded. Registering protocol transformers and injecting...
+[18:40:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Loading block connection mappings ...
+[18:40:13] [Via-Mappingloader-0/INFO]: [ViaVersion] Using FastUtil Long2ObjectOpenHashMap for block connections
+[18:40:14] [Server thread/INFO]: [ViaBackwards] Loading translations...
+[18:40:14] [Server thread/INFO]: [ViaBackwards] Registering protocols...
+[18:40:15] [Server thread/INFO]: [LuckPerms] Loading server plugin LuckPerms v5.5.10
+[18:40:15] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[18:40:15] [Server thread/INFO]: [Essentials] Loading server plugin Essentials v2.21.2
+[18:40:15] [Server thread/INFO]: [floodgate] Loading server plugin floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[18:40:16] [Server thread/WARN]: [floodgate] en_ is not a supported Floodgate language.
+[18:40:16] [Server thread/INFO]: [floodgate] Took 896ms to boot Floodgate
+[18:40:16] [Server thread/INFO]: [BlockLocker] Loading server plugin BlockLocker v1.13
+[18:40:16] [Server thread/INFO]: [MyPetDownloader] Loading server plugin MyPetDownloader v1.2
+[18:40:16] [Server thread/INFO]: [ViaBackwards] Loading server plugin ViaBackwards v5.4.2
+[18:40:16] [Server thread/INFO]: [voicechat] Loading server plugin voicechat v2.5.36
+[18:40:16] [Server thread/INFO]: [TerraformGenerator] Loading server plugin TerraformGenerator v21.0.1
+[18:40:16] [Server thread/INFO]: [Minepacks] Loading server plugin Minepacks v2.5.1-T20250923210429
+[18:40:16] [Server thread/INFO]: [CrisTreeCapitator] Loading server plugin CrisTreeCapitator v6.4.4
+[18:40:16] [Server thread/INFO]: [sleep-most] Loading server plugin sleep-most v5.6.0
+[18:40:16] [Server thread/INFO]: [HealthBar-Reloaded] Loading server plugin HealthBar-Reloaded v2.0.4.2
+[18:40:16] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.8.3-SNAPSHOT
+[18:40:17] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[18:40:17] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[18:40:17] [Server thread/INFO]: [GraveStonesPlus] Loading server plugin GraveStonesPlus v1.8.1
+[18:40:17] [Server thread/INFO]: [InstantRestock] Loading server plugin InstantRestock v2.5.2
+[18:40:17] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[18:40:17] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.5.10
+[18:40:18] [Server thread/INFO]:         __    
+[18:40:18] [Server thread/INFO]:   |    |__)   LuckPerms v5.5.10
+[18:40:18] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[18:40:18] [Server thread/INFO]: 
+[18:40:18] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[18:40:19] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[18:40:19] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[18:40:19] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 1863ms)
+[18:40:19] [Server thread/INFO]: [BlockLocker] Enabling BlockLocker v1.13
+[18:40:19] [Server thread/INFO]: [TerraformGenerator] Enabling TerraformGenerator v21.0.1
+[18:40:20] [Server thread/INFO]: [TerraformGenerator] Custom Logger Initialized
+[18:40:20] [Server thread/INFO]: [TerraformGenerator] bStats Metrics enabled.
+[18:40:20] [Server thread/INFO]: [TerraformGenerator] Detected version: 1.21.8, number: 21.8
+[18:40:21] [Server thread/INFO]: Preparing level "world"
+[18:40:21] [Server thread/INFO]: [TerraformGenerator] Detected world: world, commencing injection... 
+[18:40:21] [Server thread/INFO]: [TerraformGenerator] Injection success! Proceeding with generation.
+[18:40:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[18:40:22] [Server thread/INFO]: Preparing spawn area: 0%
+[18:40:22] [Server thread/INFO]: Preparing spawn area: 0%
+[18:40:23] [Server thread/INFO]: Preparing spawn area: 2%
+[18:40:24] [Server thread/INFO]: Preparing spawn area: 14%
+[18:40:24] [Server thread/INFO]: Preparing spawn area: 14%
+[18:40:24] [Server thread/INFO]: Time elapsed: 2127 ms
+[18:40:24] [Server thread/INFO]: [TerraformGenerator] world loaded.
+[18:40:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[18:40:24] [Server thread/INFO]: Preparing spawn area: 0%
+[18:40:25] [Server thread/INFO]: Preparing spawn area: 4%
+[18:40:25] [Server thread/INFO]: Preparing spawn area: 4%
+[18:40:25] [Server thread/INFO]: Time elapsed: 1428 ms
+[18:40:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[18:40:25] [Server thread/INFO]: Preparing spawn area: 0%
+[18:40:26] [Server thread/INFO]: Time elapsed: 442 ms
+[18:40:26] [Server thread/INFO]: [ViaVersion] Enabling ViaVersion v5.4.2
+[18:40:26] [Server thread/INFO]: [ViaVersion] ViaVersion detected server version: 1.21.7-1.21.8 (772)
+[18:40:26] [Server thread/INFO]: [Essentials] Enabling Essentials v2.21.2
+[18:40:27] [Server thread/INFO]: [Essentials] Attempting to convert old kits in config.yml to new kits.yml
+[18:40:27] [Server thread/INFO]: [Essentials] No kits found to migrate.
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected Paper Known Commands Provider as the provider for KnownCommandsProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected Paper Container Provider as the provider for ContainerProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.21+ InventoryView Interface ABI Provider as the provider for InventoryViewProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected Paper Material Tag Provider as the provider for MaterialTagProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected Paper Serialization Provider as the provider for SerializationProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.20.6+ Potion Meta Provider as the provider for PotionMetaProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected Legacy Biome Name Provider as the provider for BiomeNameProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.17.1+ World Info Provider as the provider for WorldInfoProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.20.4+ Damage Event Provider as the provider for DamageEventProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected Paper Tick Count Provider as the provider for TickCountProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.21.4+ Sync Commands Provider as the provider for SyncCommandsProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected Paper Server State Provider as the provider for ServerStateProvider
+[18:40:27] [Server thread/INFO]: [Essentials] Selected Paper Biome Key Provider as the provider for BiomeKeyProvider
+[18:40:28] [Server thread/INFO]: [Essentials] Loaded 43880 items from items.json.
+[18:40:28] [Server thread/INFO]: [Essentials] Using locale en
+[18:40:28] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[18:40:28] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[18:40:28] [Server thread/WARN]: [Essentials] Detected supported permissions plugin LuckPerms without Vault installed.
+[18:40:28] [Server thread/WARN]: [Essentials] Features such as chat prefixes/suffixes and group-related functionality will not work until you install Vault.
+[18:40:28] [Server thread/INFO]: [Essentials] Using superperms-based permissions.
+[18:40:28] [Server thread/INFO]: [floodgate] Enabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
+[18:40:29] [Server thread/INFO]: [MyPetDownloader] Enabling MyPetDownloader v1.2
+[18:40:29] [Server thread/INFO]: [ViaBackwards] Enabling ViaBackwards v5.4.2
+[18:40:29] [Server thread/INFO]: [voicechat] Enabling voicechat v2.5.36
+[18:40:29] [Server thread/INFO]: [voicechat] Initializing compatibility for version 1.21.8-R0.1
+[18:40:29] [Server thread/INFO]: [voicechat] Compatibility version 18
+[18:40:29] [Server thread/INFO]: [voicechat] Successfully initialized commodore command completion
+[18:40:29] [Server thread/INFO]: [voicechat] Successfully added ViaVersion mappings
+[18:40:29] [Server thread/INFO]: [Minepacks] Enabling Minepacks v2.5.1-T20250923210429
+[18:40:29] [Server thread/INFO]: [Minepacks] Starting Minepacks in standalone mode!
+[18:40:30] [Server thread/INFO]: [Minepacks] Config file successfully loaded.
+[18:40:30] [Server thread/WARN]: [Minepacks] Paper support is experimental! Use at your own risk!
+[18:40:30] [Server thread/WARN]: [Minepacks] No guarantee for data integrity! Backup constantly!
+[18:40:30] [Server thread/INFO]: [Minepacks] Language file successfully loaded. Language: english  Author: GeorgH93
+[18:40:30] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Starting...
+[18:40:30] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Start completed.
+[18:40:30] [Server thread/INFO]: [Minepacks] Item name language file successfully loaded. Language: english  Author: GeorgH93
+[18:40:30] [Server thread/INFO]: [Minepacks] Loading item translations ...
+[18:40:30] [Server thread/INFO]: [Minepacks] Finished loading item translations for 826 items.
+[18:40:30] [Server thread/INFO]: [Minepacks]  Minepacks has been enabled!  :) 
+[18:40:30] [Server thread/INFO]: [CrisTreeCapitator] Enabling CrisTreeCapitator v6.4.4
+[18:40:30] [Server thread/INFO]: [CrisTreeCapitator] WorldGuard not found. Maybe WorldGuard or this plugin are not up to date?
+[18:40:31] [Server thread/INFO]: [CrisTreeCapitator] Logs from JSON: [OAK_LOG, OAK_LOG, OAK_LOG, OAK_LOG]
+[18:40:31] [Server thread/INFO]: [CrisTreeCapitator] Leaves from JSON: [OAK_LEAVES, OAK_LEAVES, OAK_LEAVES, OAK_LEAVES]
+[18:40:31] [Server thread/INFO]: [CrisTreeCapitator] Enabled
+[18:40:31] [Server thread/INFO]: [sleep-most] Enabling sleep-most v5.6.0
+[18:40:31] [Server thread/INFO]: [sleep-most] Hooked to Essentials
+[18:40:31] [Server thread/INFO]: [HealthBar-Reloaded] Enabling HealthBar-Reloaded v2.0.4.2
+[18:40:31] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.8.3-SNAPSHOT
+[18:40:33] [Server thread/INFO]: [GraveStonesPlus] Enabling GraveStonesPlus v1.8.1
+[18:40:33] [Server thread/INFO]: [GraveStonesPlus] Loaded LuckPerms hook!
+[18:40:34] [Server thread/INFO]: [GraveStonesPlus] Enabled GraveStonesPlus!
+[18:40:34] [Server thread/INFO]: [InstantRestock] Enabling InstantRestock v2.5.2
+[18:40:34] [Server thread/INFO]: [InfiniteVillagerTrades] Enabled InstantRestock!
+[18:40:35] [Folia Async Scheduler Thread #1/INFO]: [InfiniteVillagerTrades] A new update is available!
+[18:40:35] [Folia Async Scheduler Thread #1/INFO]: [https://modrinth.com/plugin/infinite-villager-trading]
+[18:40:35] [Server thread/INFO]: [spark] Starting background profiler...
+[18:40:36] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:40:36] [Server thread/INFO]: [Geyser-Spigot] 
+[18:40:36] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.8.3-b912 (git-master-dc5fc8f)
+[18:40:36] [Server thread/INFO]: [Geyser-Spigot] 
+[18:40:36] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[18:40:42] [GeyserServer-3-1/INFO]: [Geyser-Spigot] Started Geyser on UDP port 25565
+[18:40:42] [Server thread/INFO]: [Geyser-Spigot] Done (6.329s)! Run /geyser help for help!
+[18:40:42] [Server thread/INFO]: Done preparing level "world" (21.356s)
+[18:40:42] [Server thread/INFO]: Running delayed init tasks
+[18:40:42] [Craft Scheduler Thread - 5 - ViaVersion/INFO]: [ViaVersion] Finished mapping loading, shutting down loader executor.
+[18:40:42] [Craft Scheduler Thread - 8 - HealthBar-Reloaded/INFO]: Found a new version: 2.0.5-beta (Yours: v2.0.4.2)
+[18:40:42] [Craft Scheduler Thread - 8 - HealthBar-Reloaded/INFO]: Download it on spigot:
+[18:40:42] [Craft Scheduler Thread - 8 - HealthBar-Reloaded/INFO]: spigotmc.org/resources/104616
+[18:40:42] [Craft Scheduler Thread - 6 - Essentials/INFO]: [Essentials] Fetching version information...
+[18:40:42] [Craft Scheduler Thread - 5 - GraveStonesPlus/INFO]: [GraveStonesPlus] GraveStonesPlus has an update available! Your Version: 1.8.1 New Version: 1.9
+[18:40:43] [Server thread/INFO]: Done (47.759s)! For help, type "help"
+[18:40:43] [Server thread/INFO]: [voicechat] Loading plugins
+[18:40:43] [Server thread/INFO]: [voicechat] Loaded 0 plugin(s)
+[18:40:43] [Server thread/INFO]: [voicechat] Initializing plugins
+[18:40:43] [Server thread/INFO]: [voicechat] Initialized 0 plugin(s)
+[18:40:43] [VoiceChatServerThread/INFO]: [voicechat] Voice host is '147.185.221.31:2070'
+[18:40:43] [VoiceChatServerThread/INFO]: [voicechat] Voice chat server started at port 2070
+[18:40:57] [User Authenticator #0/INFO]: UUID of player Zatanna917 is 6fd8954e-bb1f-4654-b42e-ce4c92b762eb
+[18:40:57] [Server thread/INFO]: [HorriblePlayerLoginEventHack] You have plugins listening to the PlayerLoginEvent, this will cause re-configuration APIs to be unavailable: [LuckPerms, Essentials]
+[18:41:00] [Server thread/INFO]: Zatanna917 joined the game
+[18:41:00] [Folia Async Scheduler Thread #2/WARN]: [InstantRestock] Async task for InstantRestock v2.5.2 generated an exception
 java.lang.NullPointerException: null
 	at instantrestock_2.5.2.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.get(Unknown Source) ~[instantrestock_2.5.2.jar:?]
 	at instantrestock_2.5.2.jar/me.spartacus04.colosseum.i18n.ColosseumI18nManager.getFormatted(Unknown Source) ~[instantrestock_2.5.2.jar:?]
@@ -202,445 +202,9 @@ java.lang.NullPointerException: null
 	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
 	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
 	at java.base/java.lang.Thread.run(Thread.java:1583) ~[?:?]
-[04:27:15] [Server thread/INFO]: Zatanna917[/127.239.60.92:59655] logged in with entity id 305 at ([world]-715.549643685079, 66.0, 295.4584754138868)
-[04:27:27] [Paper Common Worker #0/WARN]: [ca.spottedleaf.moonrise.patches.chunk_system.scheduling.task.ChunkUpgradeGenericStatusTask] Future status not complete after scheduling: minecraft:biomes, generate: true
-[04:27:34] [Server thread/INFO]: Zatanna917 issued server command: /home 5
-[04:27:57] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[04:29:08] [User Authenticator #1/INFO]: UUID of player El_Heinsenberga is 40d2c7f8-5053-4955-bb1c-f4b9107602fd
-[04:29:09] [Server thread/INFO]: El_Heinsenberga joined the game
-[04:29:09] [Server thread/INFO]: El_Heinsenberga[/127.203.114.172:38191] logged in with entity id 2659 at ([world]-707.2322266125901, 66.0, 285.670596652703)
-[04:29:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2688ms or 53 ticks behind
-[04:29:58] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 6569ms or 131 ticks behind
-[04:30:47] [Server thread/INFO]: Zatanna917 |||||||||| has made the advancement [Spooky Scary Skeleton]
-[04:30:48] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[04:31:00] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[04:32:11] [Server thread/INFO]: El_Heinsenberga fell from a high place
-[04:32:13] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4075.9149951189233,y=43.0,z=5030.9931982169965,pitch=90.0,yaw=-106.17801}
-[04:32:14] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[04:32:17] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[04:32:22] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[04:32:55] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/7127, uuid='21896bb8-82cc-4ee1-be87-7b3cec8d5fb3', l='ServerLevel[world_nether]', x=-4075.50, y=44.50, z=5030.50, cpos=[-255, 314], tl=832, v=true] died: El_Heinsenberga died here! died
-[04:32:55] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 04:32:13 UTC 2025'/7128, uuid='ee48cb32-6a27-4449-bcc9-d82f63657625', l='ServerLevel[world_nether]', x=-4075.50, y=44.25, z=5030.50, cpos=[-255, 314], tl=832, v=true] died: Died at Sun Sep 28 04:32:13 UTC 2025 died
-[04:32:55] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga fell from a high place'/7129, uuid='9b85c671-b1c6-4021-b31a-903d84a986d4', l='ServerLevel[world_nether]', x=-4075.50, y=44.00, z=5030.50, cpos=[-255, 314], tl=832, v=true] died: Reason: El_Heinsenberga fell from a high place died
-[04:34:01] [Server thread/INFO]: Zatanna917 issued server command: /home casa
-[04:34:28] [Server thread/INFO]: Zatanna917 issued server command: /back
-[04:38:57] [User Authenticator #2/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
-[04:38:59] [Server thread/INFO]: Lowisky1 joined the game
-[04:38:59] [Server thread/INFO]: Lowisky1[/127.84.252.18:58201] logged in with entity id 10171 at ([world]-684.3000000119209, 62.9375, 306.0920044717792)
-[04:39:13] [Server thread/INFO]: Zatanna917 issued server command: /home 5
-[04:39:15] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[04:39:40] [Server thread/INFO]: El_Heinsenberga died
-[04:39:42] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4038.0,y=75.0,z=5064.0,pitch=0.0,yaw=0.0}
-[04:39:45] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[04:39:50] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[04:40:02] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/13060, uuid='93b416c8-3119-4a36-865f-2773519b751f', l='ServerLevel[world_nether]', x=-4037.50, y=76.50, z=5064.50, cpos=[-253, 316], tl=393, v=true] died: El_Heinsenberga died here! died
-[04:40:02] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 04:39:42 UTC 2025'/13061, uuid='8203c15d-55a8-45ae-b241-36f504cf8737', l='ServerLevel[world_nether]', x=-4037.50, y=76.25, z=5064.50, cpos=[-253, 316], tl=393, v=true] died: Died at Sun Sep 28 04:39:42 UTC 2025 died
-[04:40:02] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga died'/13062, uuid='2018e3a3-13dd-423b-bd8e-fd6de65e4432', l='ServerLevel[world_nether]', x=-4037.50, y=76.00, z=5064.50, cpos=[-253, 316], tl=393, v=true] died: Reason: El_Heinsenberga died died
-[04:40:15] [Async Chat Thread - #4/INFO]: <Lowisky1> lowisky1 cayo desde muy alto
-[04:42:42] [Server thread/INFO]: Zatanna917 issued server command: /home 5
-[04:42:44] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[04:42:50] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[04:42:53] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[04:43:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2529ms or 50 ticks behind
-[04:44:40] [Server thread/INFO]: Zatanna917 issued server command: /home 5
-[04:44:42] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[04:45:28] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
-[04:45:43] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
-[04:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
-[04:46:30] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
-[04:46:34] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[04:46:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18427ms or 368 ticks behind
-[04:49:13] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[04:49:17] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[04:50:06] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[04:50:58] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[04:51:05] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[04:51:06] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[04:52:02] [Server thread/INFO]: Zatanna917 issued server command: /home casa
-[04:53:40] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
-[04:53:48] [Server thread/INFO]: El_Heinsenberga was slain by Wither Skeleton
-[04:53:50] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4004.4582776925477,y=74.0,z=5099.736607464465,pitch=-4.0499754,yaw=-15.577087}
-[04:53:57] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[04:54:02] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[04:54:06] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[04:54:09] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
-[04:55:12] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/18830, uuid='ddf64402-a412-4031-93dd-f5e71d84c9c8', l='ServerLevel[world_nether]', x=-4004.50, y=75.50, z=5099.50, cpos=[-251, 318], tl=1656, v=true] died: El_Heinsenberga died here! died
-[04:55:12] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 04:53:50 UTC 2025'/18831, uuid='a1c4f88a-e247-4481-81ea-08d1837bf1dd', l='ServerLevel[world_nether]', x=-4004.50, y=75.25, z=5099.50, cpos=[-251, 318], tl=1656, v=true] died: Died at Sun Sep 28 04:53:50 UTC 2025 died
-[04:55:12] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Wither Skeleton'/18832, uuid='4a122db2-9965-44aa-a463-13f3bbf554de', l='ServerLevel[world_nether]', x=-4004.50, y=75.00, z=5099.50, cpos=[-251, 318], tl=1656, v=true] died: Reason: El_Heinsenberga was slain by Wither Skeleton died
-[04:56:12] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:01:16] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:01:37] [Async Chat Thread - #5/INFO]: <El_Heinsenberga> nachoooooo
-[05:01:49] [Async Chat Thread - #6/INFO]: <Lowisky1> decime
-[05:01:55] [Async Chat Thread - #5/INFO]: <El_Heinsenberga> que haces?
-[05:02:14] [Async Chat Thread - #6/INFO]: <Lowisky1> me estoy haciendo una paja
-[05:02:40] [Async Chat Thread - #6/INFO]: <El_Heinsenberga> hacete pociones de resistencia al fuego
-[05:03:18] [Async Chat Thread - #7/INFO]: <Lowisky1> no
-[05:03:28] [Async Chat Thread - #7/INFO]: <Lowisky1> no escucho ordenes de un boliviano
-[05:03:41] [Async Chat Thread - #7/INFO]: <Lowisky1> que me lo diga el otro tucumano
-[05:03:56] [Async Chat Thread - #6/INFO]: <El_Heinsenberga> ya te pones a hacer porque voy a llamo a migracion
-[05:04:27] [Async Chat Thread - #6/INFO]: <Lowisky1> ay no
-[05:04:31] [Async Chat Thread - #6/INFO]: <Lowisky1> que miedo
-[05:04:42] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
-[05:04:50] [Async Chat Thread - #7/INFO]: <El_Heinsenberga> anda haciendo esas pociones
-[05:05:00] [Async Chat Thread - #6/INFO]: <El_Heinsenberga> y bajame el precio del tomate tambien
-[05:05:16] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[05:05:16] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
-[05:05:21] [Async Chat Thread - #6/INFO]: <Lowisky1> cuando gane volibya el repechaje lo hago
-[05:05:23] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[05:05:29] [Server thread/INFO]: Zatanna917 issued server command: /back
-[05:05:33] [Server thread/INFO]: Zatanna917 issued server command: /back
-[05:08:28] [Async Chat Thread - #8/INFO]: <Lowisky1> como pingo queres que haga si no hay una puta vara de blaze
-[05:08:31] [Async Chat Thread - #8/INFO]: <Lowisky1> pedazo de gil
-[05:08:49] [Server thread/INFO]: Zatanna917 issued server command: /home 4
-[05:08:50] [Async Chat Thread - #8/INFO]: <El_Heinsenberga> andate a la granja de blaze
-[05:08:52] [Server thread/INFO]: Zatanna917 issued server command: /home 3
-[05:09:11] [Async Chat Thread - #9/INFO]: <El_Heinsenberga> mandale tpa al gay
-[05:09:16] [Async Chat Thread - #8/INFO]: <Lowisky1> pero chupame bien el pingo
-[05:09:42] [Server thread/INFO]: Zatanna917 issued server command: /tp Lowisky1
-[05:09:42] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2506ms or 50 ticks behind
-[05:09:55] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[05:10:00] [Server thread/INFO]: Lowisky1 has made the advancement [Into Fire]
-[05:10:14] [Async Chat Thread - #8/INFO]: <Lowisky1> poquitas son
-[05:10:29] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:10:32] [Async Chat Thread - #8/INFO]: <El_Heinsenberga> ya no hay excusa
-[05:10:36] [Async Chat Thread - #8/INFO]: <El_Heinsenberga> ponete a laburar
-[05:10:39] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:11:00] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:11:16] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:12:14] [Async Chat Thread - #11/INFO]: <Lowisky1> y los ojos de araña?
-[05:13:08] [Async Chat Thread - #12/INFO]: <El_Heinsenberga> pedile al aldeano
-[05:13:17] [Async Chat Thread - #11/INFO]: <Lowisky1> cual?
-[05:13:26] [Async Chat Thread - #12/INFO]: <El_Heinsenberga> el de las pociones
-[05:13:32] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[05:13:37] [Async Chat Thread - #12/INFO]: <Lowisky1> como si tuviera uno
-[05:13:49] [Async Chat Thread - #12/INFO]: <El_Heinsenberga> en el segundo piso hay cajeta
-[05:14:18] [Async Chat Thread - #12/INFO]: <Lowisky1> ninguno tiene
-[05:14:34] [Async Chat Thread - #11/INFO]: <El_Heinsenberga> fijate bien
-[05:15:07] [Async Chat Thread - #11/INFO]: <Lowisky1> te juro
-[05:15:16] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:15:30] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:16:02] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:16:22] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[05:16:44] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[05:16:50] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[05:16:54] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[05:18:49] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[05:18:52] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:20:57] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:21:02] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:22:54] [Server thread/INFO]: El_Heinsenberga was slain by Wither Skeleton
-[05:22:56] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4002.2016881752074,y=75.16610926093821,z=5091.496050750309,pitch=35.54976,yaw=-115.77783}
-[05:23:00] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[05:23:08] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[05:23:13] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/26422, uuid='bbb9e94e-962f-4f73-97a4-e064ad3570be', l='ServerLevel[world_nether]', x=-4002.50, y=76.50, z=5091.50, cpos=[-251, 318], tl=341, v=true] died: El_Heinsenberga died here! died
-[05:23:13] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 05:22:56 UTC 2025'/26423, uuid='9931d976-d712-4a4b-8057-2e82e19ca861', l='ServerLevel[world_nether]', x=-4002.50, y=76.25, z=5091.50, cpos=[-251, 318], tl=341, v=true] died: Died at Sun Sep 28 05:22:56 UTC 2025 died
-[05:23:13] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Wither Skeleton'/26424, uuid='71984437-04c1-47b3-816a-140e0f1981e1', l='ServerLevel[world_nether]', x=-4002.50, y=76.00, z=5091.50, cpos=[-251, 318], tl=341, v=true] died: Reason: El_Heinsenberga was slain by Wither Skeleton died
-[05:24:12] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:24:30] [Server thread/INFO]: Zatanna917 issued server command: /home casa
-[05:25:16] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 30
-[05:25:24] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[05:25:41] [Server thread/INFO]: Zatanna917 issued server command: /fix all
-[05:26:33] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:33:34] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[05:34:55] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:35:18] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:35:42] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:40:04] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 lava_bucket 30
-[05:40:05] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 lava_bucket 30
-[05:43:52] [Async Chat Thread - #13/INFO]: <Lowisky1> eh
-[05:43:56] [Async Chat Thread - #13/INFO]: <Lowisky1> aca esta el peruano
-[05:44:44] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:47:43] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[05:48:31] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[05:55:30] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 lava_bucket 30
-[05:55:46] [Server thread/INFO]: Lowisky1 was slain by Drowned
-[05:55:48] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-689.5941307484892,y=62.19257583822347,z=277.69999998807907,pitch=-20.4,yaw=-89.10205}
-[05:55:57] [Server thread/INFO]: Named entity ArmorStand['Lowisky1 died here!'/34948, uuid='f82223a9-fd92-4dce-90af-c314e5bcb7fc', l='ServerLevel[world]', x=-689.50, y=63.50, z=277.50, cpos=[-44, 17], tl=166, v=true] died: Lowisky1 died here! died
-[05:55:57] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 05:55:48 UTC 2025'/34949, uuid='8ec5456e-6788-4f56-a1fc-b862305e5d19', l='ServerLevel[world]', x=-689.50, y=63.25, z=277.50, cpos=[-44, 17], tl=166, v=true] died: Died at Sun Sep 28 05:55:48 UTC 2025 died
-[05:55:57] [Server thread/INFO]: Named entity ArmorStand['Reason: Lowisky1 was slain by Drowned'/34950, uuid='09c0ce2c-8125-45ef-895b-033933a65ecd', l='ServerLevel[world]', x=-689.50, y=63.00, z=277.50, cpos=[-44, 17], tl=166, v=true] died: Reason: Lowisky1 was slain by Drowned died
-[05:56:02] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[05:56:10] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[05:57:14] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[05:58:07] [Server thread/INFO]: Zatanna917 died
-[05:58:08] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4018.171542096558,y=78.0,z=5009.181863143788,pitch=9.149927,yaw=58.97953}
-[05:58:11] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[05:58:14] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/35678, uuid='2d8e6286-e434-4852-be32-0ec374e26814', l='ServerLevel[world_nether]', x=-4018.50, y=79.50, z=5009.50, cpos=[-252, 313], tl=115, v=true] died: Zatanna917 died here! died
-[05:58:14] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 05:58:08 UTC 2025'/35679, uuid='84cb318f-f772-43af-8c19-4686ac18ff8c', l='ServerLevel[world_nether]', x=-4018.50, y=79.25, z=5009.50, cpos=[-252, 313], tl=115, v=true] died: Died at Sun Sep 28 05:58:08 UTC 2025 died
-[05:58:14] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 died'/35680, uuid='59416f36-550f-4155-a0fa-daaf3f4a6202', l='ServerLevel[world_nether]', x=-4018.50, y=79.00, z=5009.50, cpos=[-252, 313], tl=115, v=true] died: Reason: Zatanna917 died died
-[05:59:22] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:04:16] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:04:53] [Server thread/INFO]: Zatanna917 issued server command: /back
-[06:05:34] [Async Chat Thread - #15/INFO]: <Lowisky1> fue asesinado por un pez globo
-[06:05:35] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:05:43] [Server thread/INFO]: Zatanna917 was slain by Wither Skeleton
-[06:05:45] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4003.477640577338,y=74.0,z=5025.863864542692,pitch=13.499978,yaw=6.4532166}
-[06:05:47] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:05:50] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/38839, uuid='c1f4d589-2abf-4482-8681-f4e348b0a0e4', l='ServerLevel[world_nether]', x=-4003.50, y=75.50, z=5025.50, cpos=[-251, 314], tl=94, v=true] died: Zatanna917 died here! died
-[06:05:50] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:05:45 UTC 2025'/38840, uuid='87d2e7c7-75a7-49ac-b12d-b06583141802', l='ServerLevel[world_nether]', x=-4003.50, y=75.25, z=5025.50, cpos=[-251, 314], tl=94, v=true] died: Died at Sun Sep 28 06:05:45 UTC 2025 died
-[06:05:50] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Wither Skeleton'/38841, uuid='c4e5241a-a3e4-4709-9b97-a72d0b69cb49', l='ServerLevel[world_nether]', x=-4003.50, y=75.00, z=5025.50, cpos=[-251, 314], tl=94, v=true] died: Reason: Zatanna917 was slain by Wither Skeleton died
-[06:06:55] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[06:07:30] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[06:07:36] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[06:08:16] [Async Chat Thread - #17/INFO]: <Lowisky1> van a querer las pociones ?
-[06:08:19] [Async Chat Thread - #17/INFO]: <~Elantibolitas> si
-[06:09:20] [Async Chat Thread - #19/INFO]: <Lowisky1> para matar arañas
-[06:09:21] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
-[06:09:24] [Async Chat Thread - #19/INFO]: <Lowisky1> o veo si encuentro
-[06:09:34] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
-[06:10:13] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
-[06:10:52] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
-[06:11:03] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:12:56] [Server thread/INFO]: El_Heinsenberga was slain by Magma Cube
-[06:12:58] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4004.2859244095866,y=53.19366615334313,z=5072.484441658974,pitch=0.6000662,yaw=-85.62195}
-[06:13:11] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[06:13:12] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[06:13:15] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/40866, uuid='7bfde42c-ab6e-40d2-b586-02b748468bed', l='ServerLevel[world_nether]', x=-4004.50, y=54.50, z=5072.50, cpos=[-251, 317], tl=331, v=true] died: El_Heinsenberga died here! died
-[06:13:15] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:12:58 UTC 2025'/40867, uuid='1a43ae7d-dee1-49fd-9f80-d8f03f0ab275', l='ServerLevel[world_nether]', x=-4004.50, y=54.25, z=5072.50, cpos=[-251, 317], tl=331, v=true] died: Died at Sun Sep 28 06:12:58 UTC 2025 died
-[06:13:15] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Magma Cube'/40868, uuid='af7e750c-f0d9-4fa5-b234-792f08e0fa4b', l='ServerLevel[world_nether]', x=-4004.50, y=54.00, z=5072.50, cpos=[-251, 317], tl=331, v=true] died: Reason: El_Heinsenberga was slain by Magma Cube died
-[06:13:22] [Server thread/INFO]: Lowisky1 has made the advancement [Cover Me with Diamonds]
-[06:17:42] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:17:53] [Async Chat Thread - #21/INFO]: <Lowisky1> bueno
-[06:18:00] [Async Chat Thread - #21/INFO]: <Lowisky1> no encontre ninguna
-[06:18:01] [Server thread/INFO]: Zatanna917 died
-[06:18:03] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-3987.5710056325593,y=53.7531999805212,z=5091.6283345540105,pitch=15.59998,yaw=-5.228912}
-[06:18:07] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:18:11] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/42526, uuid='972ff2e7-7069-443c-bebc-27cf7c97d879', l='ServerLevel[world_nether]', x=-3987.50, y=54.50, z=5091.50, cpos=[-250, 318], tl=151, v=true] died: Zatanna917 died here! died
-[06:18:11] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:18:03 UTC 2025'/42527, uuid='9f143f38-f5d8-4631-b77e-7ff956c47bde', l='ServerLevel[world_nether]', x=-3987.50, y=54.25, z=5091.50, cpos=[-250, 318], tl=151, v=true] died: Died at Sun Sep 28 06:18:03 UTC 2025 died
-[06:18:11] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 died'/42528, uuid='fc45a149-1555-4b10-8030-03e84118f15a', l='ServerLevel[world_nether]', x=-3987.50, y=54.00, z=5091.50, cpos=[-250, 318], tl=151, v=true] died: Reason: Zatanna917 died died
-[06:19:00] [Server thread/INFO]: El_Heinsenberga has made the advancement [Spooky Scary Skeleton]
-[06:19:22] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:20:13] [Server thread/INFO]: Zatanna917 was slain by Wither Skeleton
-[06:20:15] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4010.2936281161456,y=53.0,z=5092.785866148682,pitch=-0.59996307,yaw=-72.88168}
-[06:20:17] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:20:38] [Server thread/INFO]: Zatanna917 was slain by Wither Skeleton
-[06:20:40] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4003.7900394345816,y=54.24918707874468,z=5093.601211282893,pitch=-0.44996446,yaw=-98.38025}
-[06:20:42] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:21:11] [Server thread/INFO]: Zatanna917was fireballed by Blaze
-[06:21:12] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4009.615626068103,y=53.0,z=5091.300000011921,pitch=48.149998,yaw=35.870148}
-[06:21:15] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:21:18] [Async Chat Thread - #23/INFO]: <Lowisky1> fue asesinado por tu vieja
-[06:21:20] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/43151, uuid='02c60b76-4678-4538-8876-d50c6849503c', l='ServerLevel[world_nether]', x=-4010.50, y=54.50, z=5092.50, cpos=[-251, 318], tl=1288, v=true] died: Zatanna917 died here! died
-[06:21:20] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:20:15 UTC 2025'/43152, uuid='af3a31d3-f9f9-40cc-8040-4bd814d9dc60', l='ServerLevel[world_nether]', x=-4010.50, y=54.25, z=5092.50, cpos=[-251, 318], tl=1288, v=true] died: Died at Sun Sep 28 06:20:15 UTC 2025 died
-[06:21:20] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Wither Skeleton'/43153, uuid='c260e2fd-e016-412f-b64e-67c36d34b00f', l='ServerLevel[world_nether]', x=-4010.50, y=54.00, z=5092.50, cpos=[-251, 318], tl=1288, v=true] died: Reason: Zatanna917 was slain by Wither Skeleton died
-[06:21:27] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/43246, uuid='5e133cac-cacb-4b71-9f33-fbe133a5faa9', l='ServerLevel[world_nether]', x=-4003.50, y=55.50, z=5093.50, cpos=[-251, 318], tl=932, v=true] died: Zatanna917 died here! died
-[06:21:27] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:20:40 UTC 2025'/43247, uuid='78d0dd5a-c276-46a8-8167-e83a5b3871e0', l='ServerLevel[world_nether]', x=-4003.50, y=55.25, z=5093.50, cpos=[-251, 318], tl=932, v=true] died: Died at Sun Sep 28 06:20:40 UTC 2025 died
-[06:21:27] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Wither Skeleton'/43248, uuid='379827cd-d463-4134-a2e6-c9a824d99f42', l='ServerLevel[world_nether]', x=-4003.50, y=55.00, z=5093.50, cpos=[-251, 318], tl=932, v=true] died: Reason: Zatanna917 was slain by Wither Skeleton died
-[06:21:31] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/43385, uuid='9c8d1987-2d8d-401d-8757-0548502c5ddd', l='ServerLevel[world_nether]', x=-4009.50, y=54.50, z=5091.50, cpos=[-251, 318], tl=371, v=true] died: Zatanna917 died here! died
-[06:21:31] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:21:12 UTC 2025'/43386, uuid='fb5ee8f6-072f-4252-9486-72dc51bdad0c', l='ServerLevel[world_nether]', x=-4009.50, y=54.25, z=5091.50, cpos=[-251, 318], tl=371, v=true] died: Died at Sun Sep 28 06:21:12 UTC 2025 died
-[06:21:31] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917was fireballed by Blaze'/43387, uuid='a647b522-2d97-4f8e-933b-ef3a8c2e4b65', l='ServerLevel[world_nether]', x=-4009.50, y=54.00, z=5091.50, cpos=[-251, 318], tl=371, v=true] died: Reason: Zatanna917was fireballed by Blaze died
-[06:23:18] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:25:10] [Server thread/INFO]: Lowisky1 has made the advancement [Local Brewery]
-[06:25:23] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:25:36] [Async Chat Thread - #24/INFO]: <Lowisky1> tienen verrugas?
-[06:26:08] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:26:11] [Async Chat Thread - #25/INFO]: <El_Heinsenberga> habajo de la escalera hay una cueva
-[06:26:14] [Async Chat Thread - #25/INFO]: <El_Heinsenberga> ahi estan
-[06:26:26] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:26:27] [Async Chat Thread - #24/INFO]: <Lowisky1> habajo?
-[06:26:50] [Async Chat Thread - #25/INFO]: <El_Heinsenberga> fijate bine atras de las escaleras
-[06:27:08] [Async Chat Thread - #24/INFO]: <Lowisky1> que escaleras?
-[06:27:14] [Async Chat Thread - #25/INFO]: <~Elantibolitas> de donde estan los aldeanos
-[06:27:19] [Async Chat Thread - #24/INFO]: <~Elantibolitas> en las escaleras de caracol
-[06:27:21] [Async Chat Thread - #24/INFO]: <El_Heinsenberga> donde se tradea con los aldeanos
-[06:27:25] [Async Chat Thread - #24/INFO]: <~Elantibolitas> abajo hay un pasillo secreto
-[06:27:30] [Async Chat Thread - #24/INFO]: <El_Heinsenberga> pelotudo
-[06:28:05] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:29:21] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:29:33] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:29:39] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:29:57] [Async Chat Thread - #26/INFO]: <Lowisky1> anda saber
-[06:30:15] [Async Chat Thread - #26/INFO]: <El_Heinsenberga> ciego ql fijate bien
-[06:30:16] [Server thread/INFO]: Zatanna917 issued server command: /tp Lowisky1
-[06:30:28] [Async Chat Thread - #26/INFO]: <El_Heinsenberga> hay un puto hueco en el piso
-[06:30:30] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:30:42] [Server thread/INFO]: Zatanna917 issued server command: /fix
-[06:30:44] [Async Chat Thread - #27/INFO]: <Lowisky1> ya era no les hago
-[06:31:12] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:31:16] [Server thread/INFO]: Zatanna917 issued server command: /fix all
-[06:32:14] [Server thread/INFO]: El_Heinsenberga was slain by Zombified Piglin
-[06:32:16] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4014.699999988079,y=53.42527412219723,z=5072.300000011921,pitch=26.4002,yaw=-25.787354}
-[06:32:20] [Async Chat Thread - #28/INFO]: <El_Heinsenberga> hay un puto hueco en el piso
-[06:32:29] [Async Chat Thread - #28/INFO]: <Lowisky1> na mentira boludo
-[06:32:31] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[06:32:33] [Async Chat Thread - #29/INFO]: <Lowisky1> venga uno a buscar
-[06:32:34] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[06:32:46] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/45850, uuid='81cf3522-2ac1-4877-92e6-9e766e4786b5', l='ServerLevel[world_nether]', x=-4014.50, y=54.50, z=5072.50, cpos=[-251, 317], tl=606, v=true] died: El_Heinsenberga died here! died
-[06:32:46] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:32:16 UTC 2025'/45851, uuid='44073892-5c9b-4071-82b2-335ea2d8f090', l='ServerLevel[world_nether]', x=-4014.50, y=54.25, z=5072.50, cpos=[-251, 317], tl=606, v=true] died: Died at Sun Sep 28 06:32:16 UTC 2025 died
-[06:32:46] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Zombified Piglin'/45852, uuid='4ea44d32-7017-47e8-8259-5739042e1dae', l='ServerLevel[world_nether]', x=-4014.50, y=54.00, z=5072.50, cpos=[-251, 317], tl=606, v=true] died: Reason: El_Heinsenberga was slain by Zombified Piglin died
-[06:35:48] [Async Chat Thread - #30/INFO]: <Lowisky1> i diai?
-[06:37:43] [Server thread/INFO]: Villager Villager['█                  '/24781, uuid='0a69fe29-1266-4c74-b850-d19ec0b614b7', l='ServerLevel[world]', x=-690.50, y=60.00, z=272.70, cpos=[-44, 17], tl=99014, v=true] died, message: '█                   was slain by Bachata'
-[06:38:11] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[06:38:24] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[06:38:25] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[06:38:27] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[06:39:29] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:40:53] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:41:34] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
-[06:41:34] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
-[06:41:34] [Server thread/INFO]: Lowisky1 |||||||||| left the game
-[06:41:40] [Server thread/INFO]: Villager Villager['▌                   '/184, uuid='0350a171-59f6-4157-b65d-5a2be220eaf8', l='ServerLevel[world]', x=-692.50, y=60.59, z=272.70, cpos=[-44, 17], tl=150494, v=true] died, message: '▌                    was slain by Bachata'
-[06:41:43] [User Authenticator #3/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
-[06:41:44] [Server thread/INFO]: Lowisky1 joined the game
-[06:41:44] [Server thread/INFO]: Lowisky1[/127.84.252.18:39175] logged in with entity id 47927 at ([world]-692.2466734090461, 61.0, 273.6762910887849)
-[06:41:56] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
-[06:41:56] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
-[06:41:56] [Server thread/INFO]: Lowisky1 |||||||||| left the game
-[06:41:56] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[06:42:03] [Server thread/INFO]: Villager Villager['▌                   '/27082, uuid='7e6973ad-8943-439e-b857-bf31e923a4cf', l='ServerLevel[world]', x=-694.50, y=60.00, z=272.70, cpos=[-44, 17], tl=91559, v=true] died, message: '▌                    was slain by Bachata'
-[06:42:03] [User Authenticator #3/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
-[06:42:04] [Server thread/INFO]: Lowisky1 joined the game
-[06:42:04] [Server thread/INFO]: Lowisky1[/127.84.252.18:57569] logged in with entity id 48000 at ([world]-694.5386043542214, 61.0, 273.44640456878346)
-[06:42:18] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
-[06:42:18] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
-[06:42:18] [Server thread/INFO]: Lowisky1 |||||||||| left the game
-[06:42:26] [User Authenticator #3/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
-[06:42:26] [Server thread/INFO]: Lowisky1 joined the game
-[06:42:26] [Server thread/INFO]: Lowisky1[/127.84.252.18:49235] logged in with entity id 48063 at ([world]-696.1898169103721, 61.0, 273.5468068452007)
-[06:42:37] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
-[06:42:37] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
-[06:42:37] [Server thread/INFO]: Lowisky1 left the game
-[06:42:45] [Server thread/INFO]: Villager Villager['█                  '/191, uuid='e8f81e49-aa25-400c-9b6c-db6924adf80b', l='ServerLevel[world]', x=-696.50, y=60.59, z=272.70, cpos=[-44, 17], tl=151801, v=true] died, message: '█                   was slain by Bachata'
-[06:42:46] [User Authenticator #3/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
-[06:42:47] [Server thread/INFO]: Lowisky1 joined the game
-[06:42:47] [Server thread/INFO]: Lowisky1[/127.84.252.18:40785] logged in with entity id 48116 at ([world]-696.5255459126489, 61.0, 274.3853852212292)
-[06:43:51] [Server thread/INFO]: Zatanna917 issued server command: /home 5
-[06:43:56] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:44:16] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[06:44:17] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[06:44:50] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[06:45:29] [Async Chat Thread - #33/INFO]: <Lowisky1> van a querer las pociones de fuego?
-[06:45:31] [Server thread/INFO]: Zatanna917 was slain by Wither Skeleton
-[06:45:33] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4072.41360127508,y=74.0,z=5064.746047057382,pitch=29.69998,yaw=85.372025}
-[06:45:38] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[06:45:40] [Async Chat Thread - #33/INFO]: <El_Heinsenberga> ci
-[06:45:42] [Server thread/INFO]: Zatanna917 issued server command: /god
-[06:45:46] [Async Chat Thread - #33/INFO]: <Lowisky1> venga por ellas
-[06:45:53] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/49628, uuid='8e1f4b64-dc6d-492f-81fb-bfa152f6b6c7', l='ServerLevel[world_nether]', x=-4072.50, y=75.50, z=5064.50, cpos=[-255, 316], tl=405, v=true] died: Zatanna917 died here! died
-[06:45:53] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 06:45:33 UTC 2025'/49629, uuid='fc678955-95c5-4aa7-b285-f4574300e315', l='ServerLevel[world_nether]', x=-4072.50, y=75.25, z=5064.50, cpos=[-255, 316], tl=405, v=true] died: Died at Sun Sep 28 06:45:33 UTC 2025 died
-[06:45:53] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 was slain by Wither Skeleton'/49630, uuid='66624079-5ff8-4fa3-8904-6b6087ed21cc', l='ServerLevel[world_nether]', x=-4072.50, y=75.00, z=5064.50, cpos=[-255, 316], tl=405, v=true] died: Reason: Zatanna917 was slain by Wither Skeleton died
-[06:46:21] [Server thread/INFO]: Lowisky1 has reached the goal [Zombie Doctor]
-[06:46:40] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[06:46:48] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[06:46:52] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[06:46:54] [Server thread/INFO]: Zatanna917 issued server command: /fix all
-[06:46:56] [Server thread/INFO]: Zatanna917 issued server command: /god
-[06:47:14] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[06:47:23] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[06:47:35] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[06:47:58] [Async Chat Thread - #36/INFO]: <Lowisky1> tambien les hice un trading hall
-[06:48:53] [Async Chat Thread - #36/INFO]: <Lowisky1> bueno yo me voy a dormir
-[06:48:56] [Async Chat Thread - #36/INFO]: <Lowisky1> suerte
-[06:49:02] [Async Chat Thread - #36/INFO]: <El_Heinsenberga> chau
-[06:49:05] [Server thread/INFO]: Lowisky1 lost connection: Disconnected
-[06:49:05] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
-[06:49:05] [Server thread/INFO]: Lowisky1 left the game
-[06:49:22] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
-[06:49:35] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept+
-[06:49:37] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[06:57:17] [Server thread/INFO]: Zatanna917 issued server command: /home casa
-[06:57:35] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
-[06:57:48] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
-[06:58:58] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[07:04:48] [Server thread/INFO]: Zatanna917 issued server command: /heal
-[07:11:42] [Server thread/INFO]: Zatanna917 issued server command: /home 2
-[07:11:59] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_wart_block 1
-[07:12:08] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_brick 1
-[07:12:18] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_brick_fence 1
-[07:12:25] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_brick_wall
-[07:12:35] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 1
-[07:12:38] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
-[07:12:38] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
-[07:12:39] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
-[07:12:39] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
-[07:12:41] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
-[07:12:42] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
-[07:12:44] [Server thread/INFO]: Zatanna917 issued server command: /tp
-[07:12:46] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[07:18:50] [Server thread/INFO]: Zatanna917 issued server command: /home 2
-[07:19:14] [Server thread/INFO]: Zatanna917 issued server command: /back
-[07:19:19] [Server thread/INFO]: Zatanna917 issued server command: /craft
-[07:21:23] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 300
-[07:22:30] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 30
-[07:23:31] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 300
-[07:27:38] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
-[07:27:49] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
-[07:28:56] [Server thread/INFO]: Zatanna917 issued server command: /home 4
-[07:28:59] [Server thread/INFO]: Zatanna917 issued server command: /home 3
-[07:29:22] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 glass 300
-[07:29:25] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[07:33:16] [Server thread/INFO]: Zatanna917 issued server command: /craft
-[07:34:20] [Server thread/INFO]: Zatanna917 issued server command: /craft
-[07:35:26] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
-[07:35:37] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
-[07:36:26] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[07:39:28] [Server thread/INFO]: El_Heinsenberga lost connection: Disconnected
-[07:39:28] [Server thread/INFO]: [voicechat] Disconnecting client El_Heinsenberga
-[07:39:28] [Server thread/INFO]: El_Heinsenberga left the game
-[07:39:30] [Server thread/INFO]: Zatanna917 issued server command: /stop
-[07:39:30] [Server thread/INFO]: [Zatanna917: Stopping the server]
-[07:39:30] [Server thread/INFO]: Stopping server
-[07:39:30] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.2
-[07:39:30] [Server thread/INFO]: [GraveStonesPlus] Disabling GraveStonesPlus v1.8.1
-[07:39:30] [Server thread/INFO]: [GraveStonesPlus] Allowing background tasks to finish, this could take up to 5 seconds
-[07:39:30] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/242, uuid='42387a46-6400-4552-b3b3-5296fc0f543d', l='ServerLevel[world_nether]', x=-108.50, y=33.50, z=-31.50, cpos=[-7, -2], tl=231275, v=true] died: El_Heinsenberga died here! died
-[07:39:30] [Server thread/INFO]: Named entity ArmorStand['Died at Wed Sep 24 00:17:10 UTC 2025'/243, uuid='1b7dc771-e8f3-4dce-b70f-274069beeb24', l='ServerLevel[world_nether]', x=-108.50, y=33.25, z=-31.50, cpos=[-7, -2], tl=231275, v=true] died: Died at Wed Sep 24 00:17:10 UTC 2025 died
-[07:39:30] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga tried to swim in lava'/244, uuid='a56255a0-b4b1-49e1-bb5e-37a353235c90', l='ServerLevel[world_nether]', x=-108.50, y=33.00, z=-31.50, cpos=[-7, -2], tl=231275, v=true] died: Reason: El_Heinsenberga tried to swim in lava died
-[07:39:30] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
-[07:39:30] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[07:39:30] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[07:39:30] [Server thread/INFO]: [HealthBar-Reloaded] Disabling HealthBar-Reloaded v2.0.4.2
-[07:39:30] [Server thread/INFO]: HealthBar disabled: all the health bars have been removed.
-[07:39:30] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.6.0
-[07:39:30] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
-[07:39:30] [Server thread/INFO]: [CrisTreeCapitator] Disabled
-[07:39:30] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.5.1-T20250923210429
-[07:39:30] [WebSocketConnectReadThread-129/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[07:39:31] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Shutdown initiated...
-[07:39:31] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Shutdown completed.
-[07:39:31] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
-[07:39:31] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v21.0.1
-[07:39:31] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.36
-[07:39:31] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.2
-[07:39:31] [Server thread/INFO]: [MyPetDownloader] Disabling MyPetDownloader v1.2
-[07:39:31] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
-[07:39:31] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[07:39:31] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
-[07:39:31] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.10
-[07:39:31] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[07:39:31] [Server thread/INFO]: [LuckPerms] Closing storage...
-[07:39:31] [Server thread/INFO]: [LuckPerms] Goodbye!
-[07:39:31] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
-[07:39:31] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[07:39:31] [Server thread/INFO]: Saving players
-[07:39:31] [Server thread/INFO]: Zatanna917 lost connection: Server closed
-[07:39:31] [Server thread/INFO]: Zatanna917 left the game
-[07:39:31] [Server thread/INFO]: Saving worlds
-[07:39:31] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[07:39:31] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[07:39:31] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[07:39:31] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Saved 7 block chunks, 174 entity chunks, 0 poi chunks in world 'world' in 0.12s
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[07:39:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Saved 563 block chunks, 329 entity chunks, 0 poi chunks in world 'world_nether' in 0.45s
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[07:39:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[07:39:32] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[07:39:33] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
-[07:39:33] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[07:39:33] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[07:39:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[07:39:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[07:39:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[07:39:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[07:39:33] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[07:39:33] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[07:39:33] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[07:39:33] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[18:41:00] [Server thread/INFO]: Zatanna917[/127.239.60.92:47839] logged in with entity id 311 at ([world_nether]-4077.526160477957, 74.0, 5057.893064571201)
+[18:42:50] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[18:49:38] [User Authenticator #1/INFO]: UUID of player El_Heinsenberga is 40d2c7f8-5053-4955-bb1c-f4b9107602fd
+[18:49:39] [Server thread/INFO]: El_Heinsenberga joined the game
+[18:49:39] [Server thread/INFO]: El_Heinsenberga[/127.203.114.172:56023] logged in with entity id 1909 at ([world_nether]-4078.6735905724368, 74.0, 5061.571841541493)
+[18:49:44] [Server thread/WARN]: Zatanna917 moved wrongly!
