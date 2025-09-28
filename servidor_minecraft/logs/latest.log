@@ -324,3 +324,20 @@ java.lang.NullPointerException: null
 [05:16:44] [Server thread/INFO]: Zatanna917 issued server command: /home 6
 [05:16:50] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
 [05:16:54] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[05:18:49] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[05:18:52] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:20:57] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:21:02] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:22:54] [Server thread/INFO]: El_Heinsenberga was slain by Wither Skeleton
+[05:22:56] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4002.2016881752074,y=75.16610926093821,z=5091.496050750309,pitch=35.54976,yaw=-115.77783}
+[05:23:00] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[05:23:08] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[05:23:13] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/26422, uuid='bbb9e94e-962f-4f73-97a4-e064ad3570be', l='ServerLevel[world_nether]', x=-4002.50, y=76.50, z=5091.50, cpos=[-251, 318], tl=341, v=true] died: El_Heinsenberga died here! died
+[05:23:13] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 05:22:56 UTC 2025'/26423, uuid='9931d976-d712-4a4b-8057-2e82e19ca861', l='ServerLevel[world_nether]', x=-4002.50, y=76.25, z=5091.50, cpos=[-251, 318], tl=341, v=true] died: Died at Sun Sep 28 05:22:56 UTC 2025 died
+[05:23:13] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Wither Skeleton'/26424, uuid='71984437-04c1-47b3-816a-140e0f1981e1', l='ServerLevel[world_nether]', x=-4002.50, y=76.00, z=5091.50, cpos=[-251, 318], tl=341, v=true] died: Reason: El_Heinsenberga was slain by Wither Skeleton died
+[05:24:12] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:24:30] [Server thread/INFO]: Zatanna917 issued server command: /home casa
+[05:25:16] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 30
+[05:25:24] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[05:25:41] [Server thread/INFO]: Zatanna917 issued server command: /fix all
+[05:26:33] [Server thread/INFO]: Zatanna917 issued server command: /heal
