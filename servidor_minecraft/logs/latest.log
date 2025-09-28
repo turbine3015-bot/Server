@@ -379,3 +379,11 @@ java.lang.NullPointerException: null
 [21:45:38] [Server thread/INFO]: Zatanna917 issued server command: /plugins
 [21:45:48] [Server thread/INFO]: Zatanna917 issued server command: /cristreecapitator:tc
 [21:45:52] [Server thread/INFO]: Zatanna917 issued server command: /cristreecapitator:help
+[21:45:56] [Server thread/INFO]: Zatanna917 issued server command: /tc help
+[21:47:14] [Server thread/INFO]: Zatanna917 issued server command: /fix
+[21:49:53] [Server thread/INFO]: Zatanna917 issued server command: /home blazes
+[21:49:55] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[21:49:59] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[21:50:05] [Server thread/INFO]: Zatanna917 issued server command: /back
+[21:52:47] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[21:52:55] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
