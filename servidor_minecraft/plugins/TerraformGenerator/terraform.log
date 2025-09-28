@@ -6265,3 +6265,9 @@
 [2025-09-28 04:43:18] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -31941 -2 40778 in a room of size 14x13 
 [2025-09-28 04:43:18] [INFO   ] Registered: org.terraform.structure.mineshaft.CaveSpiderDenPopulator at -31864 -2 40813 in a room of size 13x15 
 [2025-09-28 04:43:18] [INFO   ] Registered: org.terraform.structure.mineshaft.SmeltingHallPopulator at -31863 -2 40774 in a room of size 14x13 
+[2025-09-28 04:46:38] [INFO   ] Generating org.terraform.structure.small.ruinedportal.RuinedPortalPopulator at chunk: -2053,2533 
+[2025-09-28 04:46:42] [INFO   ] Generating org.terraform.structure.small.shipwreck.ShipwreckPopulator at chunk: -2038,2549 
+[2025-09-28 04:46:42] [INFO   ] Spawning shipwreck at -32600, 56, 40795 with rotation of WEST 
+[2025-09-28 04:46:47] [INFO   ] Generating org.terraform.structure.small.dungeon.SmallDungeonPopulator at chunk: -2030,2504 
+[2025-09-28 04:46:47] [INFO   ] Spawning Underground Dungeon at -32471,28,40065 
+[2025-09-28 04:46:54] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -2028,2548 

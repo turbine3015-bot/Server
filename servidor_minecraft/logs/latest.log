@@ -246,3 +246,25 @@ java.lang.NullPointerException: null
 [04:44:42] [Server thread/INFO]: Zatanna917 issued server command: /home 6
 [04:45:28] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
 [04:45:43] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[04:46:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2739ms or 54 ticks behind
+[04:46:30] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[04:46:34] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[04:46:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 18427ms or 368 ticks behind
+[04:49:13] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[04:49:17] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[04:50:06] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[04:50:58] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[04:51:05] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[04:51:06] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[04:52:02] [Server thread/INFO]: Zatanna917 issued server command: /home casa
+[04:53:40] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[04:53:48] [Server thread/INFO]: El_Heinsenberga was slain by Wither Skeleton
+[04:53:50] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_nether},x=-4004.4582776925477,y=74.0,z=5099.736607464465,pitch=-4.0499754,yaw=-15.577087}
+[04:53:57] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[04:54:02] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[04:54:06] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[04:54:09] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[04:55:12] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/18830, uuid='ddf64402-a412-4031-93dd-f5e71d84c9c8', l='ServerLevel[world_nether]', x=-4004.50, y=75.50, z=5099.50, cpos=[-251, 318], tl=1656, v=true] died: El_Heinsenberga died here! died
+[04:55:12] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 04:53:50 UTC 2025'/18831, uuid='a1c4f88a-e247-4481-81ea-08d1837bf1dd', l='ServerLevel[world_nether]', x=-4004.50, y=75.25, z=5099.50, cpos=[-251, 318], tl=1656, v=true] died: Died at Sun Sep 28 04:53:50 UTC 2025 died
+[04:55:12] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Wither Skeleton'/18832, uuid='4a122db2-9965-44aa-a463-13f3bbf554de', l='ServerLevel[world_nether]', x=-4004.50, y=75.00, z=5099.50, cpos=[-251, 318], tl=1656, v=true] died: Reason: El_Heinsenberga was slain by Wither Skeleton died
+[04:56:12] [Server thread/INFO]: Zatanna917 issued server command: /heal
