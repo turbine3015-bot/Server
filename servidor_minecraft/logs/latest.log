@@ -303,3 +303,38 @@ java.lang.NullPointerException: null
 [20:54:00] [Server thread/INFO]: Named entity ArmorStand['Lowisky1 died here!'/32777, uuid='f1fa7c7a-f263-4e20-81dc-d5e5160b2263', l='ServerLevel[world]', x=-721.50, y=67.50, z=293.50, cpos=[-46, 18], tl=238, v=true] died: Lowisky1 died here! died
 [20:54:00] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 20:53:48 UTC 2025'/32778, uuid='2e7ea04e-88d3-440d-b135-f9877c9f4c3a', l='ServerLevel[world]', x=-721.50, y=67.25, z=293.50, cpos=[-46, 18], tl=238, v=true] died: Died at Sun Sep 28 20:53:48 UTC 2025 died
 [20:54:00] [Server thread/INFO]: Named entity ArmorStand['Reason: Lowisky1 was slain by El_Heinsenberga'/32779, uuid='20cdc2b9-6554-42c1-b36e-55161a98b321', l='ServerLevel[world]', x=-721.50, y=67.00, z=293.50, cpos=[-46, 18], tl=238, v=true] died: Reason: Lowisky1 was slain by El_Heinsenberga died
+[21:09:57] [Server thread/INFO]: Zatanna917 issued server command: /home 1
+[21:10:00] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[21:10:00] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[21:10:22] [Server thread/WARN]: Zatanna917 moved too quickly! 21.465902650339558,0.0,-32.44297943655533
+[21:10:22] [Server thread/WARN]: El_Heinsenberga moved too quickly! 10.833023826472981,1.4466019035910733,-1.3524798063710932
+[21:10:39] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[21:11:21] [Server thread/INFO]: Zatanna917 issued server command: /fix all
+[21:11:24] [Server thread/INFO]: Zatanna917 issued server command: /back
+[21:11:26] [Server thread/INFO]: Zatanna917 issued server command: /back
+[21:12:46] [Server thread/INFO]: Zatanna917 issued server command: /back
+[21:13:31] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[21:13:41] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[21:13:41] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[21:14:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2508ms or 50 ticks behind
+[21:16:11] [Server thread/INFO]: El_Heinsenberga issued server command: /home
+[21:16:39] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 diamond_axe 1
+[21:16:50] [Server thread/INFO]: Zatanna917 issued server command: /enchant efficiency 5
+[21:16:54] [Server thread/INFO]: Zatanna917 issued server command: /enchant unbreaking 3
+[21:17:00] [Server thread/INFO]: Zatanna917 issued server command: /enchant mending
+[21:17:11] [Server thread/INFO]: Zatanna917 issued server command: /enchant fortune 3
+[21:17:17] [Server thread/INFO]: Zatanna917 issued server command: /enchant sharpness 5
+[21:18:31] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Zatanna917
+[21:18:37] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[21:18:43] [Server thread/INFO]: Zatanna917 issued server command: /back
+[21:19:24] [Server thread/INFO]: Zatanna917 issued server command: /back
+[21:21:10] [Server thread/INFO]: Zatanna917 fell from a high place
+[21:21:12] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-2117.0228803668642,y=65.0,z=1733.2252199261704,pitch=-30.900017,yaw=-171.05566}
+[21:21:16] [Server thread/INFO]: Zatanna917 issued server command: /back
+[21:21:20] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[21:21:27] [Server thread/INFO]: Named entity ArmorStand['Zatanna917 died here!'/58223, uuid='eb7a18ab-1831-4ea6-9815-5ca09d872279', l='ServerLevel[world]', x=-2117.50, y=66.50, z=1733.50, cpos=[-133, 108], tl=313, v=true] died: Zatanna917 died here! died
+[21:21:27] [Server thread/INFO]: Named entity ArmorStand['Died at Sun Sep 28 21:21:12 UTC 2025'/58224, uuid='8b04d83e-dcde-4540-909d-118e67dcb542', l='ServerLevel[world]', x=-2117.50, y=66.25, z=1733.50, cpos=[-133, 108], tl=313, v=true] died: Died at Sun Sep 28 21:21:12 UTC 2025 died
+[21:21:27] [Server thread/INFO]: Named entity ArmorStand['Reason: Zatanna917 fell from a high place'/58225, uuid='ec7f8c42-da9b-4040-bc4e-1c27c505b33f', l='ServerLevel[world]', x=-2117.50, y=66.00, z=1733.50, cpos=[-133, 108], tl=313, v=true] died: Reason: Zatanna917 fell from a high place died
+[21:24:15] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[21:24:32] [Server thread/INFO]: El_Heinsenberga issued server command: /tpac
+[21:24:38] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept

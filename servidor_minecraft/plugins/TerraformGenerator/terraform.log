@@ -6390,3 +6390,19 @@
 [2025-09-28 20:37:42] [INFO   ] Generating org.terraform.structure.caves.LargeCavePopulator at chunk: -140,148 
 [2025-09-28 20:38:02] [INFO   ] Generating org.terraform.structure.mineshaft.MineshaftPopulator at chunk: -172,148 
 [2025-09-28 20:46:51] [INFO   ] Large Cave at -1216,28,320 has water level > -5 with populator MushroomCavePopulator 
+[2025-09-28 21:10:20] [INFO   ] Generating org.terraform.structure.village.VillagePopulator at chunk: -108,116 
+[2025-09-28 21:10:20] [INFO   ] Spawning plains village at -1728,50,1856 
+[2025-09-28 21:10:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1712 0 1878 in a room of size 16x15 
+[2025-09-28 21:10:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageForgePopulator at -1666 0 1831 in a room of size 19x15 
+[2025-09-28 21:10:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1687 0 1850 in a room of size 17x15 
+[2025-09-28 21:10:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTownhallPopulator at -1728 71 1856 in a room of size 24x24 
+[2025-09-28 21:10:21] [INFO   ] Spawning farmhouse at -1728,71,1856 with rotation of SOUTH 
+[2025-09-28 21:10:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1751 0 1879 in a room of size 18x17 
+[2025-09-28 21:10:21] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageTemplePopulator at -1655 0 1848 in a room of size 17x16 
+[2025-09-28 21:10:22] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillagePondPopulator at -1671 0 1845 in a room of size 10x7 
+[2025-09-28 21:10:22] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1749 0 1857 in a room of size 18x20 
+[2025-09-28 21:10:22] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageFountainPopulator at -1660 0 1862 in a room of size 7x10 
+[2025-09-28 21:10:22] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1687 0 1868 in a room of size 17x19 
+[2025-09-28 21:10:22] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageStandardHousePopulator at -1732 0 1881 in a room of size 19x20 
+[2025-09-28 21:10:22] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1685 0 1831 in a room of size 20x15 
+[2025-09-28 21:10:22] [INFO   ] Registered: org.terraform.structure.village.plains.PlainsVillageCropFarmPopulator at -1707 0 1859 in a room of size 19x17 
