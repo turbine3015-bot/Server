@@ -341,3 +341,7 @@ java.lang.NullPointerException: null
 [05:25:24] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
 [05:25:41] [Server thread/INFO]: Zatanna917 issued server command: /fix all
 [05:26:33] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:33:34] [Server thread/INFO]: Zatanna917 issued server command: /home 6
+[05:34:55] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:35:18] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[05:35:42] [Server thread/INFO]: Zatanna917 issued server command: /heal
