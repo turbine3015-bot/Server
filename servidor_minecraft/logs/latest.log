@@ -559,3 +559,12 @@ java.lang.NullPointerException: null
 [07:18:50] [Server thread/INFO]: Zatanna917 issued server command: /home 2
 [07:19:14] [Server thread/INFO]: Zatanna917 issued server command: /back
 [07:19:19] [Server thread/INFO]: Zatanna917 issued server command: /craft
+[07:21:23] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 300
+[07:22:30] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 30
+[07:23:31] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 torch 300
+[07:27:38] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[07:27:49] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[07:28:56] [Server thread/INFO]: Zatanna917 issued server command: /home 4
+[07:28:59] [Server thread/INFO]: Zatanna917 issued server command: /home 3
+[07:29:22] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 glass 300
+[07:29:25] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
