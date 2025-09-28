@@ -542,3 +542,20 @@ java.lang.NullPointerException: null
 [06:57:48] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
 [06:58:58] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
 [07:04:48] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[07:11:42] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[07:11:59] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_wart_block 1
+[07:12:08] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_brick 1
+[07:12:18] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_brick_fence 1
+[07:12:25] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_brick_wall
+[07:12:35] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 1
+[07:12:38] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
+[07:12:38] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
+[07:12:39] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
+[07:12:39] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
+[07:12:41] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
+[07:12:42] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 nether_bricks 300
+[07:12:44] [Server thread/INFO]: Zatanna917 issued server command: /tp
+[07:12:46] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[07:18:50] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[07:19:14] [Server thread/INFO]: Zatanna917 issued server command: /back
+[07:19:19] [Server thread/INFO]: Zatanna917 issued server command: /craft
