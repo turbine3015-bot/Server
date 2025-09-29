@@ -33,3 +33,13 @@
 [00:57:58] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
 [00:58:10] [Server thread/INFO]: Zatanna917 issued server command: /gamemode s
 [00:58:54] [Server thread/INFO]: Zatanna917 issued server command: /craft
+[01:00:04] [Server thread/INFO]: Lowisky1 issued server command: /tpa Zatanna917
+[01:00:08] [Async Chat Thread - #16/INFO]: <Lowisky1> me aceptas?
+[01:00:08] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
+[01:00:12] [Async Chat Thread - #17/INFO]: <Lowisky1> gracias
+[01:00:43] [Server thread/INFO]: Villager Villager['Villager'/117599, uuid='5642bc64-42cd-46da-bcfe-0d25414bb01d', l='ServerLevel[world]', x=-678.89, y=64.00, z=265.30, cpos=[-43, 16], tl=25168, v=true] died, message: 'Villager was squished too much'
+[01:00:49] [Server thread/INFO]: Villager Villager['Villager'/110050, uuid='3c001a54-8966-4653-b046-9813f66e3e86', l='ServerLevel[world]', x=-678.88, y=64.00, z=265.70, cpos=[-43, 16], tl=77352, v=true] died, message: 'Villager was squished too much'
+[01:01:04] [Server thread/INFO]: Zatanna917 issued server command: /craft
+[01:01:13] [Server thread/INFO]: Villager Villager['Villager'/245, uuid='afd9319d-8b39-4774-912a-b9a8f6906418', l='ServerLevel[world]', x=-678.87, y=64.00, z=265.70, cpos=[-43, 16], tl=367118, v=true] died, message: 'Villager was squished too much'
+[01:02:28] [Server thread/INFO]: Villager Villager['Villager'/113070, uuid='2ae80f08-d323-4cf4-8112-09b2204dc78a', l='ServerLevel[world]', x=-678.83, y=64.00, z=265.70, cpos=[-43, 16], tl=63911, v=true] died, message: 'Villager was squished too much'
+[01:03:46] [Server thread/INFO]: Zatanna917 issued server command: /fly
