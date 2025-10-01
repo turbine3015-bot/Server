@@ -235,3 +235,8 @@ java.lang.NullPointerException: null
 [20:22:19] [Server thread/INFO]: Zatanna917 issued server command: /heal
 [20:23:15] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
 [20:23:21] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[20:29:55] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[20:30:30] [Server thread/INFO]: Villager Villager['█▌                 '/123, uuid='70d9707c-c27c-4577-9eb3-2643cc8798d5', l='ServerLevel[world]', x=-711.67, y=62.73, z=268.18, cpos=[-45, 16], tl=38490, v=true] died, message: '█▌                  was slain by Drowned'
+[20:32:45] [User Authenticator #2/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
+[20:32:47] [Server thread/INFO]: Lowisky1 joined the game
+[20:32:47] [Server thread/INFO]: Lowisky1[/127.235.72.137:32961] logged in with entity id 7244 at ([world]-688.5326131602238, 59.97890652375949, 154.86533448564015)
