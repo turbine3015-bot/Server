@@ -505,3 +505,34 @@ java.lang.NullPointerException: null
 [23:42:19] [Server thread/INFO]: Zatanna917 issued server command: /home whiters
 [23:42:26] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
 [23:42:50] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga Zatanna917
+[23:43:19] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[23:43:40] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[23:43:44] [Server thread/INFO]: Lowisky1 issued server command: /home
+[23:43:47] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[23:43:49] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[23:44:17] [Server thread/INFO]: Zatanna917 issued server command: /invsee Lowisky1
+[23:44:22] [Server thread/INFO]: Zatanna917 issued server command: /invsee
+[23:44:24] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[23:44:29] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[23:44:47] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[23:44:49] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[23:46:04] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[23:47:27] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[23:47:29] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[23:47:56] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[23:48:06] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[23:48:08] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[23:48:30] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[23:49:02] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[23:49:24] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[23:51:03] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[23:51:08] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberg
+[23:51:08] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[23:51:13] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[23:51:43] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[23:52:04] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberg
+[23:52:07] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[23:52:15] [Server thread/INFO]: Zatanna917 issued server command: /invsee El_Heinsenberga
+[23:52:40] [Server thread/INFO]: Zatanna917 issued server command: /heal
+[23:52:45] [Server thread/INFO]: Zatanna917 issued server command: /hal
+[23:52:46] [Server thread/INFO]: Zatanna917 issued server command: /heal
