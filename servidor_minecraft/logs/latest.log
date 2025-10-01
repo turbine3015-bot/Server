@@ -338,3 +338,12 @@ java.lang.NullPointerException: null
 [21:55:36] [Server thread/INFO]: Lowisky1 |||||||||| has made the advancement [The City at the End of the Game]
 [21:56:38] [Server thread/INFO]: Lowisky1 |||||||||| has reached the goal [Sky's the Limit]
 [21:56:47] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[22:05:27] [Server thread/INFO]: Zatanna917 issued server command: /delhome ender_portal
+[22:05:32] [Server thread/INFO]: Zatanna917 issued server command: /sethome end
+[22:05:35] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[22:05:44] [Server thread/INFO]: Zatanna917 issued server command: /back
+[22:05:49] [Server thread/INFO]: Lowisky1 fell out of the world
+[22:05:51] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_the_end},x=2013.0,y=0.0,z=99.0,pitch=0.0,yaw=0.0}
+[22:05:51] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:06:40] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[22:07:43] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
