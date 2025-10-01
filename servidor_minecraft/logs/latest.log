@@ -358,3 +358,22 @@ java.lang.NullPointerException: null
 [22:14:17] [Server thread/INFO]: Zatanna917 issued server command: /fly
 [22:16:42] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
 [22:18:34] [Server thread/INFO]: El_Heinsenberga has made the advancement [Local Brewery]
+[22:18:59] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2523ms or 50 ticks behind
+[22:19:07] [Server thread/INFO]: Zatanna917 issued server command: /craft Zatanna917
+[22:19:07] [Server thread/INFO]: El_Heinsenberga has reached the goal [Sky's the Limit]
+[22:19:17] [Server thread/INFO]: Zatanna917 issued server command: /craft Zatanna917
+[22:22:53] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[22:22:57] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[22:23:15] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[22:23:21] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[22:23:38] [Server thread/INFO]: Lowisky1 |||||||||| has completed the challenge [Great View From Up Here]
+[22:25:13] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[22:26:06] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[22:26:09] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[22:26:16] [Server thread/INFO]: El_Heinsenberga was slain by Enderman
+[22:26:18] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world_the_end},x=-66.52878317880693,y=58.0,z=-2508.26473834201,pitch=40.64973,yaw=156.18451}
+[22:26:23] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[22:26:26] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[22:26:31] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/53404, uuid='f5cc30a1-b998-4ab5-9978-e40736f1e461', l='ServerLevel[world_the_end]', x=-66.50, y=59.50, z=-2508.50, cpos=[-5, -157], tl=251, v=true] died: El_Heinsenberga died here! died
+[22:26:31] [Server thread/INFO]: Named entity ArmorStand['Died at Wed Oct 01 22:26:18 UTC 2025'/53405, uuid='7aae1a9b-7bef-40b8-84a4-f93efbba3868', l='ServerLevel[world_the_end]', x=-66.50, y=59.25, z=-2508.50, cpos=[-5, -157], tl=251, v=true] died: Died at Wed Oct 01 22:26:18 UTC 2025 died
+[22:26:31] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Enderman'/53406, uuid='48702579-cbee-43fb-996d-fdebc0e72d30', l='ServerLevel[world_the_end]', x=-66.50, y=59.00, z=-2508.50, cpos=[-5, -157], tl=251, v=true] died: Reason: El_Heinsenberga was slain by Enderman died

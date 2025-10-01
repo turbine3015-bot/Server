@@ -304,4 +304,224 @@ graves:
   World: 60580266-bd10-4c5a-8bfd-19ed4fc190a7
   EXP: 100
   DeathMessage: Lowisky1 fell out of the world
-brokengraves: []
+brokengraves:
+- ==: com.bencodez.gravestonesplus.graves.GravesConfig
+  DestroyedTime: 1759357591068
+  Destroyed: true
+  PlayerName: El_Heinsenberga
+  X: -67
+  Y: 58
+  Time: 1759357578495
+  Z: -2509
+  Items:
+    0:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_sword
+      count: 1
+      components:
+        minecraft:repair_cost: '31'
+        minecraft:enchantments: '{"minecraft:fire_aspect":2,"minecraft:looting":3,"minecraft:mending":1,"minecraft:smite":4,"minecraft:sweeping_edge":3}'
+      schema_version: 1
+    -1:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:dragon_head
+      count: 1
+      schema_version: 1
+    1:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:water_bucket
+      count: 1
+      schema_version: 1
+    -2:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:elytra
+      count: 1
+      components:
+        minecraft:damage: '13'
+      schema_version: 1
+    2:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:crossbow
+      count: 1
+      components:
+        minecraft:enchantments: '{"minecraft:piercing":2,"minecraft:unbreaking":2}'
+        minecraft:charged_projectiles: '[{count:1,id:"minecraft:arrow"}]'
+        minecraft:damage: '130'
+      schema_version: 1
+    -3:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_leggings
+      count: 1
+      components:
+        minecraft:enchantments: '{"minecraft:protection":2}'
+        minecraft:damage: '193'
+      schema_version: 1
+    3:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_pickaxe
+      count: 1
+      components:
+        minecraft:repair_cost: '31'
+        minecraft:enchantments: '{"minecraft:efficiency":5,"minecraft:mending":1,"minecraft:unbreaking":3}'
+        minecraft:damage: '466'
+      schema_version: 1
+    -4:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_boots
+      count: 1
+      components:
+        minecraft:enchantments: '{"minecraft:protection":3}'
+        minecraft:damage: '193'
+      schema_version: 1
+    4:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:end_stone
+      count: 42
+      schema_version: 1
+    -5:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:shield
+      count: 1
+      components:
+        minecraft:banner_patterns: '[{color:"light_blue",pattern:"minecraft:stripe_left"},{color:"light_blue",pattern:"minecraft:stripe_right"},{color:"yellow",pattern:"minecraft:circle"},{color:"black",pattern:"minecraft:gradient_up"},{color:"black",pattern:"minecraft:gradient"}]'
+        minecraft:repair_cost: '1'
+        minecraft:enchantments: '{"minecraft:mending":1}'
+        minecraft:base_color: '"white"'
+      schema_version: 1
+    5:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:golden_carrot
+      count: 51
+      schema_version: 1
+    7:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:spyglass
+      count: 1
+      schema_version: 1
+    8:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:potion
+      count: 1
+      components:
+        minecraft:potion_contents: '{potion:"minecraft:strong_healing"}'
+      schema_version: 1
+    9:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:golden_carrot
+      count: 64
+      schema_version: 1
+    10:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_chestplate
+      count: 1
+      components:
+        minecraft:repair_cost: '1'
+        minecraft:enchantments: '{"minecraft:protection":4,"minecraft:unbreaking":1}'
+        minecraft:damage: '153'
+      schema_version: 1
+    11:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:carved_pumpkin
+      count: 1
+      schema_version: 1
+    13:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:arrow
+      count: 61
+      schema_version: 1
+    15:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:player_head
+      count: 1
+      components:
+        minecraft:profile: '{id:[I;-313005115,1884175265,-1910890889,1300776243],properties:[{name:"textures",value:"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvOGRjYzZlYjQwZjNiYWRhNDFlNDMzOTg4OGQ2ZDIwNzQzNzU5OGJkYmQxNzVjMmU3MzExOTFkNWE5YTQyZDNjOCJ9fX0="}]}'
+        minecraft:custom_name: '"§eBackpack"'
+      schema_version: 1
+    16:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:cooked_beef
+      count: 1
+      schema_version: 1
+    17:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:oak_planks
+      count: 43
+      schema_version: 1
+    18:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_shovel
+      count: 1
+      components:
+        minecraft:enchantments: '{"minecraft:efficiency":3,"minecraft:silk_touch":1,"minecraft:unbreaking":3}'
+        minecraft:damage: '576'
+      schema_version: 1
+    19:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:arrow
+      count: 64
+      schema_version: 1
+    29:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_helmet
+      count: 1
+      components:
+        minecraft:enchantments: '{"minecraft:protection":2}'
+        minecraft:damage: '116'
+      schema_version: 1
+    30:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_pickaxe
+      count: 1
+      components:
+        minecraft:enchantments: '{"minecraft:efficiency":3,"minecraft:silk_touch":1}'
+      schema_version: 1
+    31:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:diamond_axe
+      count: 1
+      components:
+        minecraft:repair_cost: '1'
+        minecraft:enchantments: '{"minecraft:efficiency":3,"minecraft:mending":1,"minecraft:unbreaking":3}'
+        minecraft:damage: '366'
+      schema_version: 1
+    32:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:torch
+      count: 8
+      schema_version: 1
+    34:
+      ==: org.bukkit.inventory.ItemStack
+      DataVersion: 4440
+      id: minecraft:apple
+      count: 4
+      schema_version: 1
+  UUID: 40d2c7f8-5053-4955-bb1c-f4b9107602fd
+  World: 60580266-bd10-4c5a-8bfd-19ed4fc190a7
+  EXP: 100
+  DeathMessage: El_Heinsenberga was slain by Enderman
