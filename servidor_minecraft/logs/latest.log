@@ -482,3 +482,26 @@ java.lang.NullPointerException: null
 [23:25:21] [Server thread/INFO]: Zatanna917 issued server command: /killall entities world_nether
 [23:29:34] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
 [23:29:36] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[23:32:34] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[23:32:36] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberg
+[23:32:41] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[23:34:17] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[23:34:21] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[23:34:28] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[23:35:12] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[23:35:16] [Server thread/INFO]: El_Heinsenberga issued server command: /home
+[23:35:25] [Server thread/INFO]: Lowisky1 issued server command: /home
+[23:35:46] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[23:35:57] [Server thread/INFO]: Villager Villager['Villager'/164, uuid='c43abd3e-66fd-4a8d-80df-1dff4bfd1b79', l='ServerLevel[world]', x=-678.88, y=64.00, z=265.30, cpos=[-43, 16], tl=205909, v=true] died, message: 'Villager was squished too much'
+[23:36:00] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberg
+[23:36:02] [Server thread/INFO]: Villager Villager['Villager'/166, uuid='851df0b9-0595-40ee-8715-9ef29935e23d', l='ServerLevel[world]', x=-678.88, y=64.00, z=265.30, cpos=[-43, 16], tl=206002, v=true] died, message: 'Villager was squished too much'
+[23:36:04] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[23:36:51] [Server thread/INFO]: Villager Villager['Villager'/8357, uuid='6dcdb045-103b-4f51-b341-7d62c128d71f', l='ServerLevel[world]', x=-678.89, y=64.00, z=265.30, cpos=[-43, 16], tl=156510, v=true] died, message: 'Villager was squished too much'
+[23:39:09] [Server thread/INFO]: Zatanna917 issued server command: /killall entities world_nether
+[23:39:13] [Server thread/INFO]: Zatanna917 issued server command: /killall entities world_nether
+[23:39:57] [Server thread/INFO]: Zatanna917 issued server command: /killall entities world_nether
+[23:40:09] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[23:40:59] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[23:42:19] [Server thread/INFO]: Zatanna917 issued server command: /home whiters
+[23:42:26] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[23:42:50] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga Zatanna917
