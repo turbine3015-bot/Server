@@ -377,3 +377,21 @@ java.lang.NullPointerException: null
 [22:26:31] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/53404, uuid='f5cc30a1-b998-4ab5-9978-e40736f1e461', l='ServerLevel[world_the_end]', x=-66.50, y=59.50, z=-2508.50, cpos=[-5, -157], tl=251, v=true] died: El_Heinsenberga died here! died
 [22:26:31] [Server thread/INFO]: Named entity ArmorStand['Died at Wed Oct 01 22:26:18 UTC 2025'/53405, uuid='7aae1a9b-7bef-40b8-84a4-f93efbba3868', l='ServerLevel[world_the_end]', x=-66.50, y=59.25, z=-2508.50, cpos=[-5, -157], tl=251, v=true] died: Died at Wed Oct 01 22:26:18 UTC 2025 died
 [22:26:31] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga was slain by Enderman'/53406, uuid='48702579-cbee-43fb-996d-fdebc0e72d30', l='ServerLevel[world_the_end]', x=-66.50, y=59.00, z=-2508.50, cpos=[-5, -157], tl=251, v=true] died: Reason: El_Heinsenberga was slain by Enderman died
+[22:30:43] [Server thread/INFO]: Lowisky1 issued server command: /tpa home
+[22:30:45] [Server thread/INFO]: Lowisky1 issued server command: /tpa home
+[22:30:50] [Server thread/INFO]: Lowisky1 issued server command: /tpahome
+[22:30:55] [Server thread/INFO]: Lowisky1 issued server command: /home
+[22:31:19] [Server thread/INFO]: Lowisky1 issued server command: /tpa 2013, 0, 99
+[22:31:19] [Server thread/INFO]: Villager Villager['Villager'/172, uuid='fbc49469-0084-47a6-999a-050cd5be552d', l='ServerLevel[world]', x=-678.86, y=64.00, z=265.70, cpos=[-43, 16], tl=139206, v=true] died, message: 'Villager was squished too much'
+[22:31:35] [Server thread/INFO]: Lowisky1 issued server command: /tpa 2013, 0, 99
+[22:31:36] [Server thread/INFO]: Zatanna917 issued server command: /craft
+[22:31:58] [Server thread/INFO]: Zatanna917 issued server command: /craft
+[22:32:09] [Server thread/INFO]: Zatanna917 issued server command: /craft
+[22:32:14] [Async Chat Thread - #5/INFO]: <Lowisky1> 2013, 0, 99
+[22:32:25] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[22:32:28] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[22:32:46] [Server thread/INFO]: Zatanna917 issued server command: /tp Lowisky1 2013 0 99
+[22:32:58] [Server thread/INFO]: Zatanna917 issued server command: /craft
+[22:34:43] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[22:34:52] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[22:39:11] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
