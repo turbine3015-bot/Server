@@ -255,3 +255,31 @@ java.lang.NullPointerException: null
 [20:50:38] [Server thread/INFO]: Zatanna917 issued server command: /home 2
 [20:52:10] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
 [20:52:13] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[20:57:09] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 300
+[20:57:17] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 iron_ingot 300
+[20:57:56] [Server thread/INFO]: Zatanna917 issued server command: /home
+[20:58:01] [Server thread/INFO]: Zatanna917 issued server command: /home 5
+[21:00:10] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[21:00:34] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:01:34] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[21:02:10] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:03:03] [Server thread/WARN]: Horse (vehicle of El_Heinsenberga) moved wrongly! 0.4134396549815048
+[21:04:04] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[21:04:32] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:05:03] [Server thread/INFO]: Villager Villager['Villager'/182, uuid='9d78ca73-41da-4bcc-b17f-9943b16c010d', l='ServerLevel[world]', x=-678.84, y=64.00, z=265.70, cpos=[-43, 16], tl=79929, v=true] died, message: 'Villager was squished too much'
+[21:05:10] [Server thread/INFO]: Zatanna917 issued server command: /home 2+
+[21:05:12] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[21:05:23] [Server thread/INFO]: Villager Villager['Villager'/2911, uuid='30523bee-6bda-4f86-8554-08259af1d276', l='ServerLevel[world]', x=-678.89, y=64.00, z=265.70, cpos=[-43, 16], tl=67830, v=true] died, message: 'Villager was squished too much'
+[21:06:50] [Server thread/INFO]: Villager Villager['Villager'/6497, uuid='307bf096-4335-4c25-8e13-7a4d98682605', l='ServerLevel[world]', x=-678.88, y=64.00, z=265.70, cpos=[-43, 16], tl=46773, v=true] died, message: 'Villager was squished too much'
+[21:07:10] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[21:07:51] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:09:21] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[21:09:26] [Server thread/INFO]: Villager Villager['Villager'/191, uuid='e81dd3c2-4860-4dcd-a1a4-52c979ff5f0b', l='ServerLevel[world]', x=-678.88, y=64.00, z=265.30, cpos=[-43, 16], tl=85203, v=true] died, message: 'Villager was squished too much'
+[21:09:42] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[21:11:52] [Server thread/INFO]: Zatanna917 issued server command: /enchant sharpness 5
+[21:11:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2522ms or 50 ticks behind
+[21:12:06] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:12:11] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
+[21:12:18] [Server thread/WARN]: El_Heinsenberga moved too quickly! 1.9754605000283618,-1.0244240882136921,22.561616228891353
+[21:12:20] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[21:12:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8252ms or 165 ticks behind
