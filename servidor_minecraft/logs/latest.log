@@ -301,3 +301,40 @@ java.lang.NullPointerException: null
 [21:34:40] [Server thread/INFO]: Lowisky1 lost connection: Timed out
 [21:34:40] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
 [21:34:40] [Server thread/INFO]: Lowisky1 left the game
+[21:38:46] [User Authenticator #3/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
+[21:38:47] [Server thread/INFO]: Lowisky1 joined the game
+[21:38:47] [Server thread/INFO]: Lowisky1[/127.235.72.137:43167] logged in with entity id 27932 at ([world_the_end]-11.056404141210523, 81.0, 34.91789300951726)
+[21:38:59] [Server thread/INFO]: Lowisky1 has made the advancement [Take Aim]
+[21:39:22] [Server thread/INFO]: Zatanna917 |||||||||| has made the advancement [Free the End]
+[21:40:37] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[21:40:50] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:41:12] [Server thread/INFO]: El_Heinsenberga has made the advancement [Remote Getaway]
+[21:41:12] [Server thread/INFO]: Lowisky1 has made the advancement [Remote Getaway]
+[21:41:30] [Server thread/INFO]: Zatanna917 issued server command: /back
+[21:42:30] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa Lowisky1
+[21:42:42] [Server thread/INFO]: Lowisky1 issued server command: /tpaccept
+[21:42:46] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[21:43:14] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[21:43:23] [Server thread/INFO]: Zatanna917 issued server command: /home 1
+[21:43:26] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[21:43:49] [Server thread/INFO]: Zatanna917 issued server command: /back
+[21:43:55] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[21:46:31] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[21:48:19] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[21:48:35] [Server thread/INFO]: El_Heinsenberga was kicked due to keepalive timeout!
+[21:48:35] [Server thread/INFO]: El_Heinsenberga lost connection: Timed out
+[21:48:35] [Server thread/INFO]: [voicechat] Disconnecting client El_Heinsenberga
+[21:48:35] [Server thread/INFO]: El_Heinsenberga left the game
+[21:48:48] [User Authenticator #4/INFO]: UUID of player El_Heinsenberga is 40d2c7f8-5053-4955-bb1c-f4b9107602fd
+[21:48:49] [Server thread/INFO]: El_Heinsenberga joined the game
+[21:48:49] [Server thread/INFO]: El_Heinsenberga[/127.203.114.172:45671] logged in with entity id 32706 at ([world_the_end]851.8461581419241, 57.0, -1029.7198667008795)
+[21:50:58] [Server thread/INFO]: Zatanna917 issued server command: /tp -45 4 -87
+[21:51:02] [Server thread/INFO]: Zatanna917 issued server command: /tp -45 4 87
+[21:51:30] [Server thread/INFO]: Zatanna917 issued server command: /tp -716 74 1393
+[21:51:46] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
+[21:52:50] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[21:52:56] [Server thread/INFO]: Zatanna917 issued server command: /sethome ender portal
+[21:53:01] [Server thread/INFO]: Zatanna917 issued server command: /sethome ender-portal
+[21:55:36] [Server thread/INFO]: Lowisky1 |||||||||| has made the advancement [The City at the End of the Game]
+[21:56:38] [Server thread/INFO]: Lowisky1 |||||||||| has reached the goal [Sky's the Limit]
+[21:56:47] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
