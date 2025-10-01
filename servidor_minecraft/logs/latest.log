@@ -283,3 +283,21 @@ java.lang.NullPointerException: null
 [21:12:18] [Server thread/WARN]: El_Heinsenberga moved too quickly! 1.9754605000283618,-1.0244240882136921,22.561616228891353
 [21:12:20] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
 [21:12:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 8252ms or 165 ticks behind
+[21:16:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2531ms or 50 ticks behind
+[21:19:29] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[21:26:12] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[21:28:23] [Server thread/INFO]: Zatanna917 has made the advancement [Local Brewery]
+[21:29:19] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[21:29:29] [Server thread/INFO]: Zatanna917 issued server command: /back
+[21:30:58] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[21:31:44] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[21:31:47] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[21:31:50] [Server thread/INFO]: El_Heinsenberga issued server command: /tpaccept
+[21:33:11] [Server thread/INFO]: Zatanna917 has made the advancement [The End?]
+[21:33:12] [Server thread/INFO]: El_Heinsenberga has made the advancement [The End?]
+[21:33:13] [Server thread/INFO]: Lowisky1 has made the advancement [The End?]
+[21:33:15] [Server thread/INFO]: Scanning for legacy world dragon fight...
+[21:33:15] [Server thread/INFO]: Found that the dragon has not yet been killed in this world.
+[21:34:40] [Server thread/INFO]: Lowisky1 lost connection: Timed out
+[21:34:40] [Server thread/INFO]: [voicechat] Disconnecting client Lowisky1
+[21:34:40] [Server thread/INFO]: Lowisky1 left the game
