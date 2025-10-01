@@ -347,3 +347,14 @@ java.lang.NullPointerException: null
 [22:05:51] [Server thread/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
 [22:06:40] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
 [22:07:43] [Server thread/INFO]: Lowisky1 issued server command: /tpa El_Heinsenberga
+[22:08:42] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[22:08:55] [Server thread/INFO]: El_Heinsenberga |||||||||| has made the advancement [The City at the End of the Game]
+[22:11:55] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[22:12:27] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[22:12:37] [Server thread/INFO]: Zatanna917 issued server command: /god
+[22:12:39] [Server thread/INFO]: Zatanna917 issued server command: /god
+[22:13:05] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[22:13:08] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[22:14:17] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[22:16:42] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
+[22:18:34] [Server thread/INFO]: El_Heinsenberga has made the advancement [Local Brewery]
