@@ -240,3 +240,18 @@ java.lang.NullPointerException: null
 [20:32:45] [User Authenticator #2/INFO]: UUID of player Lowisky1 is c1555fbd-e74d-45df-ba7f-9c84b356a6e2
 [20:32:47] [Server thread/INFO]: Lowisky1 joined the game
 [20:32:47] [Server thread/INFO]: Lowisky1[/127.235.72.137:32961] logged in with entity id 7244 at ([world]-688.5326131602238, 59.97890652375949, 154.86533448564015)
+[20:37:17] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[20:38:16] [Server thread/INFO]: Zatanna917 issued server command: /back
+[20:38:22] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[20:38:29] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[20:38:31] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[20:38:33] [Server thread/INFO]: Zatanna917 issued server command: /fly
+[20:44:07] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
+[20:44:36] [Server thread/INFO]: Villager Villager['█                  '/160, uuid='ae541a68-ea91-4a3a-96ed-859a7f681cd3', l='ServerLevel[world]', x=-509.30, y=70.00, z=151.30, cpos=[-32, 9], tl=55402, v=true] died, message: '█                   was slain by Zatanna917'
+[20:45:09] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
+[20:49:05] [Server thread/INFO]: El_Heinsenberga has made the advancement [Who's the Pillager Now?]
+[20:50:24] [Server thread/INFO]: El_Heinsenberga has completed the challenge [Hero of the Village]
+[20:50:24] [Server thread/INFO]: Zatanna917 has completed the challenge [Hero of the Village]
+[20:50:38] [Server thread/INFO]: Zatanna917 issued server command: /home 2
+[20:52:10] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
+[20:52:13] [Server thread/INFO]: Zatanna917 issued server command: /give Zatanna917 emerald 300
