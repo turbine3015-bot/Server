@@ -57,3 +57,6 @@
 [00:21:53] [Server thread/INFO]: Zatanna917 issued server command: /killall entities world_nether
 [00:22:01] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
 [00:22:32] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
+[00:32:24] [Server thread/INFO]: El_Heinsenberga lost connection: Disconnected
+[00:32:24] [Server thread/INFO]: [voicechat] Disconnecting client El_Heinsenberga
+[00:32:25] [Server thread/INFO]: El_Heinsenberga left the game
