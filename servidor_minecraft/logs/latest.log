@@ -1,132 +1,113 @@
-[00:00:04] [pool-30-thread-1/INFO]: [GraveStonesPlus] Detected day changed, processing...
-[00:00:04] [pool-30-thread-1/INFO]: [GraveStonesPlus] Time change event: DAY, Fake: false
-[00:00:04] [pool-30-thread-1/INFO]: [GraveStonesPlus] Finished processing day changes
-[00:02:40] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
-[00:06:50] [Server thread/INFO]: Villager Villager['Villager'/13154, uuid='ab523caa-e8a2-47f0-9efc-1ac8e0ab5d4b', l='ServerLevel[world]', x=-678.87, y=64.00, z=265.70, cpos=[-43, 16], tl=168717, v=true] died, message: 'Villager was squished too much'
-[00:08:41] [Server thread/INFO]: Villager Villager['Villager'/20060, uuid='c4800189-551e-4929-9a91-5ad2ed93af74', l='ServerLevel[world]', x=-678.88, y=64.00, z=265.70, cpos=[-43, 16], tl=156016, v=true] died, message: 'Villager was squished too much'
-[00:08:45] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
-[00:09:02] [Server thread/INFO]: Zatanna917 has made the advancement [The Parrots and the Bats]
-[00:10:08] [Server thread/INFO]: Zatanna917 issued server command: /home 2
-[00:12:18] [Server thread/INFO]: El_Heinsenberga drowned
-[00:12:20] [Server thread/INFO]: [GraveStonesPlus] Grave: Location{world=CraftWorld{name=world},x=-731.0,y=63.0,z=211.0,pitch=0.0,yaw=0.0}
-[00:12:27] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa za
-[00:12:29] [Server thread/INFO]: El_Heinsenberga issued server command: /tpa za
-[00:12:31] [Server thread/INFO]: Zatanna917 issued server command: /tpaccept
-[00:12:45] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/101554, uuid='fc3e2a03-a4ee-4a78-9a39-11b3d7006e30', l='ServerLevel[world]', x=-730.50, y=64.50, z=211.50, cpos=[-46, 13], tl=511, v=true] died: El_Heinsenberga died here! died
-[00:12:45] [Server thread/INFO]: Named entity ArmorStand['Died at Thu Oct 02 00:12:20 UTC 2025'/101555, uuid='194d3a45-23fc-4073-baf8-5a1014e5e9ce', l='ServerLevel[world]', x=-730.50, y=64.25, z=211.50, cpos=[-46, 13], tl=511, v=true] died: Died at Thu Oct 02 00:12:20 UTC 2025 died
-[00:12:45] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga drowned'/101556, uuid='1752a655-155d-4264-a8c8-f6de13f489cf', l='ServerLevel[world]', x=-730.50, y=64.00, z=211.50, cpos=[-46, 13], tl=511, v=true] died: Reason: El_Heinsenberga drowned died
-[00:13:05] [Server thread/INFO]: Zatanna917 issued server command: /home 6
-[00:14:41] [Server thread/INFO]: Zatanna917 issued server command: /home 5
-[00:14:59] [Server thread/INFO]: Villager Villager['Villager'/163, uuid='c40f474a-1ef6-44ec-8ff1-526980f2d739', l='ServerLevel[world]', x=-680.70, y=64.00, z=265.70, cpos=[-43, 16], tl=252747, v=true] died, message: 'Villager was slain by Lowisky1'
-[00:14:59] [Server thread/INFO]: Villager Villager['Villager'/174, uuid='4bc38ff5-51c1-42bf-8e67-6f584826ed5b', l='ServerLevel[world]', x=-680.65, y=64.00, z=265.70, cpos=[-43, 16], tl=252747, v=true] died, message: 'Villager was slain by Lowisky1'
-[00:15:00] [Server thread/INFO]: Villager Villager['Villager'/186, uuid='310f2275-c8d4-4c39-bec1-0f6ef6f90476', l='ServerLevel[world]', x=-680.55, y=64.00, z=265.70, cpos=[-43, 16], tl=252767, v=true] died, message: 'Villager was slain by Lowisky1'
-[00:15:01] [Server thread/INFO]: Villager Villager['█                  '/194, uuid='436008a0-8471-421c-9340-7817b1bd4ff4', l='ServerLevel[world]', x=-681.30, y=64.00, z=264.70, cpos=[-43, 16], tl=252790, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:01] [Server thread/INFO]: Villager Villager['█                  '/189, uuid='335dd76f-6712-4653-90b3-7b7e0a2ded87', l='ServerLevel[world]', x=-681.30, y=64.00, z=264.30, cpos=[-43, 16], tl=252790, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:03] [Server thread/INFO]: Villager Villager['██                '/188, uuid='4feb78bb-20a4-4020-8a35-b2709d554e4a', l='ServerLevel[world]', x=-681.35, y=64.00, z=264.30, cpos=[-43, 16], tl=252821, v=true] died, message: '██                 was slain by Lowisky1'
-[00:15:03] [Server thread/INFO]: Villager Villager['█                  '/176, uuid='4fd5ee4a-27e7-4b0b-abde-62f28509ea01', l='ServerLevel[world]', x=-678.89, y=64.00, z=265.70, cpos=[-43, 16], tl=252825, v=true] died, message: '█                   was squashed by Lowisky1'
-[00:15:07] [Server thread/INFO]: Villager Villager['Villager'/185, uuid='18ccb3e8-8d7c-4b8b-943b-66b2376c931d', l='ServerLevel[world]', x=-680.70, y=64.00, z=265.70, cpos=[-43, 16], tl=252914, v=true] died, message: 'Villager was slain by Lowisky1'
-[00:15:09] [Server thread/INFO]: Villager Villager['Villager'/177, uuid='57c69ace-8276-4949-a0b7-90d983e7165f', l='ServerLevel[world]', x=-678.84, y=64.00, z=265.30, cpos=[-43, 16], tl=252950, v=true] died, message: 'Villager was squished too much'
-[00:15:17] [Server thread/INFO]: Villager Villager['█                  '/55919, uuid='1efd2eed-ccca-4859-8923-9a7e5ae81d35', l='ServerLevel[world]', x=-678.74, y=64.94, z=265.70, cpos=[-43, 16], tl=113855, v=true] died, message: '█                   was squashed by Lowisky1'
-[00:15:17] [Server thread/INFO]: Villager Villager['█                  '/178, uuid='0dd57b25-55b9-4759-b72f-e4cfa1d26aaf', l='ServerLevel[world]', x=-678.86, y=64.00, z=265.70, cpos=[-43, 16], tl=253112, v=true] died, message: '█                   was squashed by Lowisky1'
-[00:15:18] [Server thread/INFO]: Villager Villager['█                  '/158, uuid='36754e6c-9206-4da1-9800-b6277c1851bc', l='ServerLevel[world]', x=-679.05, y=64.00, z=265.65, cpos=[-43, 16], tl=253124, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:18] [Server thread/INFO]: Villager Villager['█                  '/162, uuid='cf3dd3a6-7efb-4695-815e-31e6c0f6325b', l='ServerLevel[world]', x=-678.86, y=64.00, z=265.70, cpos=[-43, 16], tl=253124, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:18] [Server thread/INFO]: Villager Villager['Villager'/170, uuid='20f01a4d-f676-46ae-8fcc-77a1a4f9b9cc', l='ServerLevel[world]', x=-679.09, y=64.00, z=265.70, cpos=[-43, 16], tl=253124, v=true] died, message: 'Villager was slain by Lowisky1'
-[00:15:18] [Server thread/INFO]: Villager Villager['█                  '/173, uuid='e9888193-ab75-4502-a659-56a9a1197c2e', l='ServerLevel[world]', x=-679.50, y=64.00, z=265.30, cpos=[-43, 16], tl=253124, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:18] [Server thread/INFO]: Villager Villager['█                  '/179, uuid='db2acced-b011-4791-86b9-7e56aa0c00b8', l='ServerLevel[world]', x=-678.91, y=64.00, z=265.70, cpos=[-43, 16], tl=253124, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:18] [Server thread/INFO]: Villager Villager['█                  '/97845, uuid='0b201540-1856-41b6-84ff-a196cc3ddfe6', l='ServerLevel[world]', x=-680.23, y=64.00, z=265.70, cpos=[-43, 16], tl=17172, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:19] [Server thread/INFO]: Villager Villager['██                '/193, uuid='84ac27a6-5d26-4cd3-8e04-56a74f8cefec', l='ServerLevel[world]', x=-679.45, y=64.00, z=265.30, cpos=[-43, 16], tl=253143, v=true] died, message: '██                 was slain by Lowisky1'
-[00:15:19] [Server thread/INFO]: Villager Villager['█                  '/183, uuid='4218f0e8-a152-408f-a68d-dad90b97b3f5', l='ServerLevel[world]', x=-678.94, y=64.00, z=265.30, cpos=[-43, 16], tl=253143, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:19] [Server thread/INFO]: Villager Villager['█                  '/4587, uuid='7148803a-eb0f-40d9-9c60-47256987053a', l='ServerLevel[world]', x=-678.93, y=64.00, z=265.70, cpos=[-43, 16], tl=226650, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:19] [Server thread/INFO]: Villager Villager['██                '/7306, uuid='73c8ba2d-7dbc-4037-bd76-f0cdb3f50378', l='ServerLevel[world]', x=-678.89, y=64.00, z=265.30, cpos=[-43, 16], tl=211558, v=true] died, message: '██                 was slain by Lowisky1'
-[00:15:19] [Server thread/INFO]: Villager Villager['██                '/76605, uuid='5eb920a2-d083-40dc-8579-d08164613eec', l='ServerLevel[world]', x=-680.26, y=64.00, z=265.70, cpos=[-43, 16], tl=93444, v=true] died, message: '██                 was slain by Lowisky1'
-[00:15:19] [Server thread/INFO]: Villager Villager['█                  '/94179, uuid='851ab29e-ae01-4567-9886-c9fa7d9b19e5', l='ServerLevel[world]', x=-678.88, y=64.00, z=265.30, cpos=[-43, 16], tl=33258, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:19] [Server thread/INFO]: Villager Villager['██                '/80121, uuid='1e87b044-02d1-406c-a2d9-0ed430bca42f', l='ServerLevel[world]', x=-678.77, y=64.00, z=265.30, cpos=[-43, 16], tl=84546, v=true] died, message: '██                 was slain by Lowisky1'
-[00:15:20] [Server thread/INFO]: Villager Villager['██                '/171, uuid='6a21860f-f001-4bf8-bb9d-9440cb4f40e3', l='ServerLevel[world]', x=-679.91, y=64.00, z=265.59, cpos=[-43, 16], tl=253179, v=true] died, message: '██                 was slain by Lowisky1'
-[00:15:20] [Server thread/INFO]: Villager Villager['██                '/181, uuid='b0266eb2-830a-445b-b2a3-ad4a55a02715', l='ServerLevel[world]', x=-679.44, y=64.00, z=265.30, cpos=[-43, 16], tl=253179, v=true] died, message: '██                 was slain by Lowisky1'
-[00:15:25] [Server thread/INFO]: Villager Villager['█                  '/180, uuid='ad993e2b-b4fa-4994-b4ad-37ef5ce7bd7c', l='ServerLevel[world]', x=-679.11, y=64.00, z=265.30, cpos=[-43, 16], tl=253271, v=true] died, message: '█                   was slain by Lowisky1'
-[00:15:25] [Server thread/INFO]: Villager Villager['Villager'/87382, uuid='1b14f895-0728-4f03-a2ea-598331b4eff1', l='ServerLevel[world]', x=-680.53, y=64.00, z=265.59, cpos=[-43, 16], tl=57783, v=true] died, message: 'Villager was slain by Lowisky1'
-[00:15:25] [Server thread/INFO]: Villager Villager['Villager'/91347, uuid='cf2de173-2440-4f84-b842-01cbd370dc70', l='ServerLevel[world]', x=-678.96, y=64.00, z=265.70, cpos=[-43, 16], tl=42749, v=true] died, message: 'Villager was slain by Lowisky1'
-[00:16:50] [Server thread/INFO]: Zatanna917 issued server command: /home 2
-[00:17:03] [Server thread/INFO]: Zatanna917 issued server command: /back
-[00:17:12] [Server thread/INFO]: Zatanna917 issued server command: /gamemode spectator
-[00:17:20] [Server thread/INFO]: Zatanna917 issued server command: /gamemode creative
-[00:21:28] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
-[00:21:41] [Server thread/INFO]: Zatanna917 issued server command: /killall entities world_nether
-[00:21:46] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
-[00:21:52] [Server thread/INFO]: Zatanna917 issued server command: /gamemode c
-[00:21:53] [Server thread/INFO]: Zatanna917 issued server command: /killall entities world_nether
-[00:22:01] [Server thread/INFO]: Zatanna917 issued server command: /gamemode survival
-[00:22:32] [Server thread/INFO]: Zatanna917 issued server command: /tp El_Heinsenberga
-[00:32:24] [Server thread/INFO]: El_Heinsenberga lost connection: Disconnected
-[00:32:24] [Server thread/INFO]: [voicechat] Disconnecting client El_Heinsenberga
-[00:32:25] [Server thread/INFO]: El_Heinsenberga left the game
-[00:36:11] [Server thread/INFO]: Zatanna917 issued server command: /stop
-[00:36:11] [Server thread/INFO]: [Zatanna917: Stopping the server]
-[00:36:11] [Server thread/INFO]: Stopping server
-[00:36:11] [Server thread/INFO]: [InstantRestock] Disabling InstantRestock v2.5.2
-[00:36:11] [Server thread/INFO]: [GraveStonesPlus] Disabling GraveStonesPlus v1.8.1
-[00:36:11] [Server thread/INFO]: [GraveStonesPlus] Allowing background tasks to finish, this could take up to 5 seconds
-[00:36:11] [Server thread/INFO]: Named entity ArmorStand['El_Heinsenberga died here!'/235, uuid='d842c0dd-a72a-46eb-a33a-1e27eef7c2f0', l='ServerLevel[world_nether]', x=-108.50, y=33.50, z=-31.50, cpos=[-7, -2], tl=337182, v=true] died: El_Heinsenberga died here! died
-[00:36:11] [Server thread/INFO]: Named entity ArmorStand['Died at Wed Sep 24 00:17:10 UTC 2025'/236, uuid='f0dfe37b-ee42-4215-bccc-3f774122d3a9', l='ServerLevel[world_nether]', x=-108.50, y=33.25, z=-31.50, cpos=[-7, -2], tl=337182, v=true] died: Died at Wed Sep 24 00:17:10 UTC 2025 died
-[00:36:11] [Server thread/INFO]: Named entity ArmorStand['Reason: El_Heinsenberga tried to swim in lava'/237, uuid='984a29d5-3a4d-485f-b543-c70a050de3ac', l='ServerLevel[world_nether]', x=-108.50, y=33.00, z=-31.50, cpos=[-7, -2], tl=337182, v=true] died: Reason: El_Heinsenberga tried to swim in lava died
-[00:36:11] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.8.3-SNAPSHOT
-[00:36:11] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
-[00:36:11] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
-[00:36:11] [Server thread/INFO]: [HealthBar-Reloaded] Disabling HealthBar-Reloaded v2.0.4.2
-[00:36:11] [Server thread/INFO]: HealthBar disabled: all the health bars have been removed.
-[00:36:11] [Server thread/INFO]: [sleep-most] Disabling sleep-most v5.6.0
-[00:36:11] [Server thread/INFO]: [CrisTreeCapitator] Disabling CrisTreeCapitator v6.4.4
-[00:36:11] [Server thread/INFO]: [CrisTreeCapitator] Disabled
-[00:36:11] [Server thread/INFO]: [Minepacks] Disabling Minepacks v2.5.1-T20250923210429
-[00:36:11] [WebSocketConnectReadThread-132/INFO]: [Geyser-Spigot] The skin uploader has been closed
-[00:36:12] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Shutdown initiated...
-[00:36:12] [Server thread/INFO]: [Minepacks] Minepacks-Connection-Pool - Shutdown completed.
-[00:36:12] [Server thread/INFO]: [Minepacks]  Minepacks has been disabled.  :( 
-[00:36:12] [Server thread/INFO]: [TerraformGenerator] Disabling TerraformGenerator v21.0.1
-[00:36:12] [Server thread/INFO]: [voicechat] Disabling voicechat v2.5.36
-[00:36:12] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.4.2
-[00:36:12] [Server thread/INFO]: [MyPetDownloader] Disabling MyPetDownloader v1.2
-[00:36:12] [Server thread/INFO]: [BlockLocker] Disabling BlockLocker v1.13
-[00:36:12] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b118-40d320a)
-[00:36:12] [Server thread/INFO]: [Essentials] Disabling Essentials v2.21.2
-[00:36:12] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.5.10
-[00:36:12] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[00:36:12] [Server thread/INFO]: [LuckPerms] Closing storage...
-[00:36:12] [Server thread/INFO]: [LuckPerms] Goodbye!
-[00:36:12] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.4.2
-[00:36:12] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
-[00:36:12] [Server thread/INFO]: Saving players
-[00:36:12] [Server thread/INFO]: Lowisky1 lost connection: Server closed
-[00:36:12] [Server thread/INFO]: Lowisky1 left the game
-[00:36:12] [Server thread/INFO]: Zatanna917 lost connection: Server closed
-[00:36:12] [Server thread/INFO]: Zatanna917 left the game
-[00:36:13] [Server thread/INFO]: Saving worlds
-[00:36:13] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[00:36:13] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[00:36:13] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[00:36:13] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Saved 344 block chunks, 1146 entity chunks, 1 poi chunks in world 'world' in 1.04s
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[00:36:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Saved 16 block chunks, 34 entity chunks, 0 poi chunks in world 'world_nether' in 0.05s
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[00:36:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 55 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[00:36:14] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[00:36:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[00:36:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[00:36:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[00:36:14] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[00:36:14] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[00:36:14] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[00:36:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[00:36:14] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[16:37:18] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[16:37:18] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[16:37:18] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[16:37:19] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[16:37:19] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[16:37:36] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[16:37:36] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[16:37:36] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[16:37:39] [ServerMain/INFO]: No existing world data, creating new world
+[16:37:40] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 21033ms.
+[16:37:41] [ServerMain/INFO]: Loaded 1407 recipes
+[16:37:42] [ServerMain/INFO]: Loaded 1520 advancements
+[16:37:42] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[16:37:43] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 1,100.6ms
+[16:37:43] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[16:37:43] [Server thread/INFO]: Loading properties
+[16:37:43] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[16:37:43] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[16:37:43] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[16:37:43] [Server thread/INFO]: Using 4 threads for Netty based IO
+[16:37:44] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[16:37:44] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[16:37:45] [Server thread/INFO]: Default game type: SURVIVAL
+[16:37:45] [Server thread/INFO]: Generating keypair
+[16:37:45] [Server thread/INFO]: Starting Minecraft server on *:25565
+[16:37:45] [Server thread/INFO]: Using epoll channel type
+[16:37:45] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[16:37:45] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[16:37:45] [Server thread/INFO]: Preparing level "world"
+[16:38:09] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[16:38:09] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:09] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:10] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:10] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:11] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:11] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:12] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:12] [Server thread/INFO]: Preparing spawn area: 4%
+[16:38:13] [Server thread/INFO]: Preparing spawn area: 4%
+[16:38:13] [Server thread/INFO]: Preparing spawn area: 6%
+[16:38:14] [Server thread/INFO]: Preparing spawn area: 10%
+[16:38:14] [Server thread/INFO]: Preparing spawn area: 12%
+[16:38:15] [Server thread/INFO]: Preparing spawn area: 18%
+[16:38:15] [Server thread/INFO]: Preparing spawn area: 18%
+[16:38:16] [Server thread/INFO]: Preparing spawn area: 18%
+[16:38:16] [Server thread/INFO]: Preparing spawn area: 18%
+[16:38:17] [Server thread/INFO]: Preparing spawn area: 18%
+[16:38:17] [Server thread/INFO]: Preparing spawn area: 30%
+[16:38:18] [Server thread/INFO]: Preparing spawn area: 32%
+[16:38:18] [Server thread/INFO]: Preparing spawn area: 51%
+[16:38:19] [Server thread/INFO]: Preparing spawn area: 51%
+[16:38:19] [Server thread/INFO]: Preparing spawn area: 61%
+[16:38:20] [Server thread/INFO]: Preparing spawn area: 61%
+[16:38:20] [Server thread/INFO]: Preparing spawn area: 61%
+[16:38:21] [Server thread/INFO]: Preparing spawn area: 61%
+[16:38:21] [Server thread/INFO]: Time elapsed: 12452 ms
+[16:38:21] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[16:38:21] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:22] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:22] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:23] [Server thread/INFO]: Preparing spawn area: 18%
+[16:38:23] [Server thread/INFO]: Preparing spawn area: 22%
+[16:38:24] [Server thread/INFO]: Preparing spawn area: 26%
+[16:38:24] [Server thread/INFO]: Preparing spawn area: 59%
+[16:38:25] [Server thread/INFO]: Time elapsed: 3418 ms
+[16:38:25] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[16:38:25] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:25] [Server thread/INFO]: Preparing spawn area: 2%
+[16:38:26] [Server thread/INFO]: Preparing spawn area: 18%
+[16:38:26] [Server thread/INFO]: Preparing spawn area: 59%
+[16:38:26] [Server thread/INFO]: Time elapsed: 1692 ms
+[16:38:27] [Server thread/INFO]: [spark] Starting background profiler...
+[16:38:27] [Server thread/INFO]: Done preparing level "world" (41.735s)
+[16:38:27] [Server thread/INFO]: Running delayed init tasks
+[16:38:27] [Server thread/INFO]: Done (70.298s)! For help, type "help"
+[16:38:27] [Server thread/INFO]: *************************************************************************************
+[16:38:27] [Server thread/INFO]: This is the first time you're starting this server.
+[16:38:27] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[16:38:27] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[16:38:27] [Server thread/INFO]: *************************************************************************************
+[16:38:54] [Server thread/INFO]: Stopping the server
+[16:38:54] [Server thread/INFO]: Stopping server
+[16:38:54] [Server thread/INFO]: Saving players
+[16:38:54] [Server thread/INFO]: Saving worlds
+[16:38:54] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:38:54] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[16:38:54] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[16:38:54] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[16:38:56] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world' in 1.44s
+[16:38:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[16:38:56] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[16:38:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:38:56] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[16:38:56] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[16:38:56] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[16:38:57] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world_nether' in 0.64s
+[16:38:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[16:38:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[16:38:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:38:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[16:38:57] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[16:38:57] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[16:38:57] [Server thread/INFO]: [ChunkHolderManager] Saved 841 block chunks, 49 entity chunks, 0 poi chunks in world 'world_the_end' in 0.51s
+[16:38:57] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[16:38:57] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[16:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:38:57] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[16:38:57] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[16:38:57] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[16:38:57] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[16:38:57] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
